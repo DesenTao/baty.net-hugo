@@ -2,9 +2,8 @@
 DATE=`date +%Y-%m-%d`
 DATETIME=`date +%Y-%m-%dT%H:%M:%S-04:00`
 YEAR=`date +%Y`
-SLUG=$1
 FILE=content/post/$YEAR/$DATE-$SLUG.md
-TITLE=$2
+TITLE=$1
 
 
 shift 2
