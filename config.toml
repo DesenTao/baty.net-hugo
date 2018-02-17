@@ -39,6 +39,11 @@ copyright = "Jack Baty"            # default: author.name ↓        # 默认为
   identifier = "about"
   url = "/about/"
 [[menu.main]]
+  name = "Microblog"
+  weight = 50
+  identifier = "microblog"
+  url = "https://micro.baty.net/"
+[[menu.main]]
   name = "Tags"
   weight = 30
   identifier = "tags"
