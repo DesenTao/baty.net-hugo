@@ -2,7 +2,7 @@
 title: "Posting From Emacs to Hugo With Easy-Hugo"
 date: 2018-02-17T12:06:12-05:00
 lastmod: 2018-02-17T12:06:12-05:00
-draft: false
+draft: true
 description: ""
 tags: ["hugo","blogging","emacs"]
 ---
