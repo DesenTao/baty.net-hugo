@@ -1,0 +1,18 @@
+Redirect /feed/ /index.xml
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^baty.net[nc]
+RewriteRule ^(.*)$ https://www.baty.net/$1 [r=301,nc]
+
+#RewriteCond %{SERVER_PORT} !^80$
+#RewriteRule ^(.*)$ https://www.baty.net/$1 [r=301,nc]
+
+#Redirect /now/  https://jack.baty.net/now
+
+ExpiresActive On
+ExpiresDefault A300
+ExpiresByType text/css "access plus 1 week"
+ExpiresByType application/javascript "access plus 1 week"
+ExpiresByType image/gif "access plus 1 week"
+ExpiresByType image/jpeg "access plus 1 week"
+ExpiresByType image/png "access plus 1 week"
