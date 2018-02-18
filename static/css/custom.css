@@ -2,3 +2,7 @@ figcaption h4 {
     text-align:center;
     margin-top: 5px;
 }
+
+.section-page-header a {
+    color: #c05b4d;
+}
