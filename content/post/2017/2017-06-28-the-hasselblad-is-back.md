@@ -48,5 +48,6 @@ back and intend to use it for many years to come.
 
 Here's one frame from the latest roll. I've always loved how the Zeiss lens renders.
 
-{{< figure src="/img/2017/2017-Roll-023_02_Josie.jpg" title="Josie (2017). Hasselblad 500C/M. 80mm Zeiss Planar. Tri-X" >}}
+{{< figure src="/img/2017/2017-Roll-023_02_Josie.jpg" 
+    title="Josie (2017). Hasselblad 500C/M. 80mm Zeiss Planar. Tri-X" >}}
 

@@ -6,7 +6,7 @@ type: page
 comment: false
 ---
 
-A few of the things I’m working on or thinking about as of January 14, 2018
+A few of the things I'm working on or thinking about as of January 14, 2018
 
 - Practicing meditation for real this time
 - Dialing in my plaintextaccounting using Ledger
