@@ -39,15 +39,10 @@ copyright = "Jack Baty"            # default: author.name ↓        # 默认为
   identifier = "about"
   url = "/about/"
 [[menu.main]]
-  name = "Microblog"
+  name = "Elsewhere"
   weight = 50
-  identifier = "microblog"
-  url = "https://micro.baty.net/"
-[[menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  url = "/tags/"
+  identifier = "social"
+  url = "/social/"
 
 [params]
   version = "3.x"           # Used to give a friendly message when you have an incompatible update

@@ -4,32 +4,27 @@ title: Follow me elsewhere
 type: page
 ---
 
-Here's where I can be found on social media.
+Want to follow me on social media or other platforms? Please do!
 
-## <i class="fa fa-twitter" aria-hidden="true"></i> Twitter
+## My weblogs and other publishing experiments
 
-I mostly just cross-post my [microblog](/micro) posts so it might be redundant. Feel free to @ or DM me though.
+- [baty.net](https://www.baty.net/) - You're soaking in it
+- [micro.baty.net](https://micro.baty.net/) - My Microblog published with [Micro.blog](https://micro.blog/)
+- [jack.baty.net](https://jack.baty.net/) - When I think I want to move to WordPress I just post a few things here
+- [tilde.club/~jbaty](http://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
 
-<a href="https://twitter.com/jackbaty/" rel="me">@jackbaty</a> on Twitter
+## Photography
 
-## <i class="fa fa-flickr" aria-hidden="true"></i> Flickr
+- [SmugMug](https://jackbaty.smugmug.com/) - Where I organize albums and store things
+- [Flickr](https://flickr.com/photos/jbaty/) - I've been posting photos to Flickr since forever. Flickr is still the best photo sharing service, even though it's fallen out of favor in recent years.
+- [Instagram](https://instagram.com/mrjackbaty) - I've stopped posting to Instagram because of the pervasive ads and horrible feed algorithm
 
-I've been posting photos to Flickr since forever. It's still the best photo sharing service, 
-even though it's fallen out of favor in recent years.
+## Social media
 
-<a href="https://flickr.com/photos/jbaty" rel="me">My Flickr</a>
+- [@jackbaty](https://twitter.com/jackbaty) on Twitter. I read more on Twitter than I post, but feel free to @ or DM me there.
+- [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
+- [Jackbaty](https://www.facebook.com/jackbaty) on Facebook. I'm still on Facebook but I don't go there.
 
-## <i class="fa fa-instagram" aria-hidden="true"></i> Instagram
 
-I only reluctantly post photos on Instagram. I don't like that they only allow posting using their own app. The API is limited and exclusionary. Still, it's where everyone
-lives these days.
 
-<a href="https://instagram.com/mrjackbaty" rel="me">mrjackbaty</a> on Instagram
-
-## <i class="fa fa-list-alt" aria-hidden="true"></i> Micro.blog
-
-Micro.blog is "a timeline and publishing platform for the open web"
-created by [Manton Reece](http://www.manton.org/). It's a great idea. [Micro.blog](https://micro.blog). I pull my other social feeds into it.
-
-<a href="https://micro.blog/jack" rel="me">@jack</a> on Micro.blog
 
