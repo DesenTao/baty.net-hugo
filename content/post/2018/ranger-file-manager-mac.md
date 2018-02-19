@@ -1,8 +1,8 @@
 ---
 title: "Deleting files Using Ranger on My Mac"
-date: 2018-02-19T10:13:41-05:00
-lastmod: 2018-02-19T10:13:41-05:00
-draft: true
+date: 2018-02-19T10:25:41-05:00
+lastmod: 2018-02-19T10:25:41-05:00
+draft: false
 description: ""
 tags: ["cli","app"]
 ---
