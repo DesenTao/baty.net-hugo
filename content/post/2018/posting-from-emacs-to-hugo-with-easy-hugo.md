@@ -15,4 +15,4 @@ Easy-hugo is an "Emacs major mode for writing blogs made with hugo by markdown o
 
 <img src="/img/2018/easy-hugo-screen.png" alt="Easy Hugo Screen" width="100%"/>
 
-I added the package and configuration variables to my .spacemacs file and started writing this post. I'll add detail here as I learn more.
+I added the package and configuration variables to my .spacemacs file and started writing this post. 
