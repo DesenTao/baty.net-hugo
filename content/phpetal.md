@@ -7,7 +7,7 @@ type: page
 
 &nbsp;
 
-<span style="color: #ff0000;">NOTE: PHPetal hasn&#8217;t been updated in over 10 years and I&#8217;m not even sure it works any longer. This page is mostly just for reference and historic purposes.</span>
+<span style="color: #ff0000;">NOTE: PHPetal hasn&#8217;t been updated since 2004 and I&#8217;m pretty sure it's broken or insecure or both. This page is mostly just for reference and historic purposes.</span>
 
 ## Web-based posting to blosxom and compatible weblogs.
 
