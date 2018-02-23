@@ -11,6 +11,5 @@ tags: ["music","hardware"]
 
 > Earlier this week, the online music store Bandcamp reported 18% year-over-year growth in CD sales for 2017, up from 14% growth in 2016
 
-Down, but not out. Yet.
 
-(I still listen to CDs in the car and on my home stereo several times a week. So there's that.)
+I still listen to CDs in the car and on my home stereo several times a week. So there's that.
