@@ -359,3 +359,5 @@ I also try to keep my
 1. Tribe of Mentors by Tim Ferriss (2017-12-10)
 1. Sourdough by Robin Sloan (2017-12-20)
 1. The Punch Escrow by Tal M. Klein (2018-01-27)
+1. The Lathe of Heaven by Ursula K Le Guin (2018-02-25)
+
