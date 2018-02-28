@@ -58,3 +58,4 @@ people, I expect her to be happy and to thrive.
 
 Still, I miss her terribly.
 
+{{< figure src="/img/2018/2017-Roll-032_18_Josie-in-car.jpg"  title="" >}}
