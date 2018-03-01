@@ -1,10 +1,12 @@
 ---
-title: "Back to Lightroom"
+title: "Back to Lightroom...for now"
 date: 2018-03-01T07:30:06-05:00
 lastmod: 2018-03-01T07:30:06-05:00
 description: ""
 tags: ["photography", "Adobe"]
 ---
+
+{{< figure src="/img/2018/lightroom-classic-2007.jpg"  title="Photo: Petapixel.com" >}}
 
 I keep trying to move my photo processing and library workflow out of Lightroom,
 and I keep failing. This post is just me thinking it through (again).
