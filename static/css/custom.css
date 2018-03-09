@@ -1,8 +1,18 @@
-figcaption h4 {
+figcaption h4, .wp-caption-text {
     text-align:center;
     margin-top: 5px;
+    color: #b5b5b5;
+    font-size: .9rem;
 }
 
 .section-page-header a {
     color: #c05b4d;
+}
+
+body {
+  border-top: 3px solid #c05b4d;
+}
+
+.post .post-content p {
+  line-height: 1.5;
 }

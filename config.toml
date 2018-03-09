@@ -1,19 +1,20 @@
 baseURL = "https://www.baty.net/"
-languageCode = "en"
-defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Jack Baty's Blog"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "even"
+theme = "jane"
+
+# language support # en / zh-cn / other...
+defaultContentLanguage = "en"
+[Languages.en]
+  languageCode = "en"
 
 hasCJKLanguage = false     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 10                                              # 首页每页显示的文章数
+rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 disqusShortname = "jackbaty"      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = "Jack Baty"            # default: author.name ↓        # 默认为下面配置的author.name ↓
-
-[permalinks]
-  post = "/:year/:title/"
+copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
   name = "Jack Baty"
@@ -34,6 +35,11 @@ copyright = "Jack Baty"            # default: author.name ↓        # 默认为
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
   name = "About"
   weight = 40
   identifier = "about"
@@ -44,23 +50,23 @@ copyright = "Jack Baty"            # default: author.name ↓        # 默认为
   identifier = "social"
   url = "/social/"
 
+
 [params]
-  version = "3.x"           # Used to give a friendly message when you have an incompatible update
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
   since = "2000"            # Site creation time          # 站点建立时间
+  rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "Jack Baty"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Jack Baty", "Photography", "Analog", "Tech", "Film"]
-  description = "The personal weblog of Jack Baty"
+  keywords = ["Tech", "Photography","Analog"]
+  description = "Jack Baty's personal weblog"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
-  archivePaginate = 3000
+  archive-paginate = 3000
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  #dateFormatToUse = "2006-01-02"
-  dateFormatToUse = "January 2, 2006"
+  dateFormatToUse = "2006-01-02"
 
   # show word count and read time ?                       # 是否显示字数统计与阅读时间
   moreMeta = false
@@ -70,25 +76,16 @@ copyright = "Jack Baty"            # default: author.name ↓        # 默认为
   toc = true                                                                            # 是否开启目录
   autoCollapseToc = false   # Auto expand and collapse toc                              # 目录自动展开/折叠
   fancybox = true           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
+  bootcdn = false           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
   mathjax = false           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
-  mathjaxEnableSingleDollar = false                                                     # 是否使用 $...$ 即可進行inline latex渲染
-
-  postMetaInFooter = false   # contain author, lastMod, markdown link, license           # 包含作者，上次修改时间，markdown链接，许可信息
-  linkToMarkDown = false    # Only effective when hugo will output .md files.           # 链接到markdown原始文件（仅当允许hugo生成markdown文件时有效）
-  contentCopyright = ''     # e.g. '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+  #contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   changyanAppid = ""        # Changyan app id             # 畅言
   changyanAppkey = ""       # Changyan app key
-  livereUID = ""            # LiveRe UID                  # 来必力
   baidu_push = false        # baidu push                  # 百度
   baidu_analytics = ""      # Baidu Analytics
   baidu_verification = ""   # Baidu Verification
   google_verification = ""  # Google_Verification         # 谷歌
-
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  customCSS = ["custom.css"]
-  customJS = []
 
   [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
     enable = false
@@ -96,12 +93,6 @@ copyright = "Jack Baty"            # default: author.name ↓        # 默认为
     slideout = '<script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>'
     fancyboxJs = '<script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>'
     fancyboxCss = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">'
-
-  [params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
-    enable = false
-    siteUV = true
-    sitePV = true
-    pagePV = true
 
   [params.reward]                                         # 文章打赏
     enable = false
@@ -112,21 +103,3 @@ copyright = "Jack Baty"            # default: author.name ↓        # 默认为
     a-email = "mailto:jack@baty.net"
     c-twitter = "https://twitter.com/jackbaty"
     g-github = "https://github.com/jackbaty"
-
-# 将下面这段配置取消注释可以使 hugo 生成 .md 文件
-# Uncomment these options to make hugo output .md files.
-#[mediaTypes]
-#  [mediaTypes."text/plain"]
-#    suffix = "md"
-#
-#[outputFormats.MarkDown]
-#  mediaType = "text/plain"
-#  isPlainText = true
-#  isHTML = false
-#
-#[outputs]
-#  home = ["HTML", "RSS"]
-#  page = ["HTML", "MarkDown"]
-#  section = ["HTML", "RSS"]
-#  taxonomy = ["HTML", "RSS"]
-#  taxonomyTerm = ["HTML"]
