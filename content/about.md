@@ -8,7 +8,9 @@ comment: false
 
 **Hello there. I’m Jack Baty and this is my personal space.**
 
-I’ve been a partner at [Fusionary Media](https://fusionary.com) since 1995. Fusionary is a terrific digital studio in Grand Rapids, MI. If you need something built for the web or mobile devices you should [drop us a line](mailto:info@fusionary.com).
+I’ve been a partner at [Fusionary Media](https://fusionary.com) since 1995.
+Fusionary is a terrific digital studio in Grand Rapids, MI. If you need
+something built for the web or mobile devices you should [send us a note](mailto:info@fusionary.com).
 
 Outside of helping create digital products at Fusionary, I have a few interests:
 
