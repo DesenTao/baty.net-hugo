@@ -11,6 +11,6 @@ From 3QD, a little background on how scientists look for new planets.
 
 > My editor often has to remind me that the general public is usually more interested in what a finding is than in the technical details behind a finding. Most of the time, my editor is right. In this case, however, I think the techniques employed by planet-hunters are pretty cool so the following is a brief primer on how the techniques work and the pros and cons of each: 
 
-\[[Link\]([http://3quarksdaily.blogs.com/3quarksdaily/2006/02/poison\_in\_the_i.html][1])]
+[[Link]([http://3quarksdaily.blogs.com/3quarksdaily/2006/02/poison\_in\_the_i.html][1])]
 
  [1]: http://3quarksdaily.blogs.com/3quarksdaily/2006/02/poison_in_the_i.html

@@ -11,7 +11,7 @@ url: /2006/for-the-sake-of-art/
 
 I've got an idea. Let's get a bunch of 2-year olds, make them cry, and take a picture of them. Then we'll caption the photos with some political hooha and call it art. Anything for a buck right? And it's art, so that makes it all okay. 
 
-Oh damn, seems that \[Jill Greenberg\](<http://www.paulkopeikingallery.com/artists/greenberg/exhibitions/endtimes/index.htm>) has beaten us to it&#8230; 
+Oh damn, seems that [Jill Greenberg](<http://www.paulkopeikingallery.com/artists/greenberg/exhibitions/endtimes/index.htm>) has beaten us to it&#8230; 
 
 
 <img id="image1285" src="http://baty.net/files/therapture_b.jpg" alt="therapture_b.jpg" /> 

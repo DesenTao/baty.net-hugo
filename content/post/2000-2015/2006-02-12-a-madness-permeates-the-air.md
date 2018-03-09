@@ -83,4 +83,4 @@ Years ago, and sometimes still, I recorded my dreams in a little spiral notebook
 
 Whatever \_that\_ means. 
 
-Oh, and I've put up a bunch of other fascinating poetry by yours truly at \[http://jackbaty.com/poems/\](<http://jackbaty.com/poems/>) for your amusement.
+Oh, and I've put up a bunch of other fascinating poetry by yours truly at [http://jackbaty.com/poems/](<http://jackbaty.com/poems/>) for your amusement.

@@ -9,6 +9,6 @@ title: Headless Rails
 url: /2006/headless-rails/
 ---
 
-With Rails 1.1, Complete control over your app is now available from ./script/console. \[Mike Clark\]\[1\] lays down the basics. This might even cause me to do integration testing once in a while. 
+With Rails 1.1, Complete control over your app is now available from ./script/console. [Mike Clark][1] lays down the basics. This might even cause me to do integration testing once in a while. 
 
 [1]: <http://clarkware.com/cgi/blosxom/2006/04/04#HeadlessApp>

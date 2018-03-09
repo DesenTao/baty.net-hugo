@@ -7,4 +7,4 @@ title: And so this is Christmas
 url: /2005/and-so-this-is-christmas/
 ---
 
-!\[Christmas Light\](/files/christmas.jpg)
+![Christmas Light](/files/christmas.jpg)

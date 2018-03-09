@@ -7,4 +7,4 @@ title: Penn Jillette podcast
 url: /2006/penn-jillette-podcast/
 ---
 
-The big, smart, louder half of Penn and Teller &#8211; Penn Jillette &#8211; has a podcast on FreeFM. \[[link\](<http://penn.freefm.com/>)]
+The big, smart, louder half of Penn and Teller &#8211; Penn Jillette &#8211; has a podcast on FreeFM. [[link](<http://penn.freefm.com/>)]

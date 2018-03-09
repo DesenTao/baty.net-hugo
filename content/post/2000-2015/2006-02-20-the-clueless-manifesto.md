@@ -13,6 +13,6 @@ From Creating Passionate Users, a tribute to the clueless&#8230;
 
 It's a good read. 
 
-\[[Link\]([http://headrush.typepad.com/creating\_passionate\_users/2006/02/the\_clueless\_ma.html][1])]
+[[Link]([http://headrush.typepad.com/creating\_passionate\_users/2006/02/the\_clueless\_ma.html][1])]
 
  [1]: http://headrush.typepad.com/creating_passionate_users/2006/02/the_clueless_ma.html

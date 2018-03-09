@@ -9,21 +9,21 @@ url: /2006/recent-reads/
 
 Thought I'd share a one or two word opinion of a few recently read items&#8230; 
 
-_\[On Photography\]([http://www.amazon.com/gp/product/0312420099/qid=1139454653/sr=2-1/ref=pd\_bbs\_b\_2\_1/002-0380475-2045601?s=books&v=glance&n=283155][1])_ (Susan Sontag) 
+_[On Photography]([http://www.amazon.com/gp/product/0312420099/qid=1139454653/sr=2-1/ref=pd\_bbs\_b\_2\_1/002-0380475-2045601?s=books&v=glance&n=283155][1])_ (Susan Sontag) 
 
 
 ![][2] 
 
 Smart, fascinating look at photography in a social context. Nice change of pace from the usual gadget chatter. </p> 
 
-\[Marley and Me\](<http://www.amazon.com/gp/product/0060817089/>) (John Grogan) 
+[Marley and Me](<http://www.amazon.com/gp/product/0060817089/>) (John Grogan) 
 
 
 ![][3] 
 
 Funny and touching story taking place over 13 years between a man and his dog. I cried like a baby at the end. Honest. </p> 
 
-_\[Consider the Lobster\](<http://www.amazon.com/gp/product/0316156116/>)_ (David Foster Wallace) 
+_[Consider the Lobster](<http://www.amazon.com/gp/product/0316156116/>)_ (David Foster Wallace) 
 
 
 ![][4] 

@@ -15,6 +15,6 @@ I like Seth Godin because he always makes me consider or reconsider something pr
 
 I must not waste \*any\* time! 
 
-\[[Link\]([http://sethgodin.typepad.com/seths\_blog/2006/02/the\_reason.html][1])]
+[[Link]([http://sethgodin.typepad.com/seths\_blog/2006/02/the\_reason.html][1])]
 
  [1]: http://sethgodin.typepad.com/seths_blog/2006/02/the_reason.html

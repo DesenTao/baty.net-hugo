@@ -12,4 +12,4 @@ Remember Apple's Pippin? I barely do, and am better for it.
 
 <img id="image1254" src="http://baty.net/files/pippin.jpg" alt="Apple Pippin" /> 
 
-More photos and information \[here\](<http://www.macgeek.org/museum/pippin/photoalbum.html>)
+More photos and information [here](<http://www.macgeek.org/museum/pippin/photoalbum.html>)

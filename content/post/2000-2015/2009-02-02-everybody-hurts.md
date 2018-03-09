@@ -9,7 +9,7 @@ title: Everybody Hurts
 url: /2009/everybody-hurts/
 ---
 
-\[Everybody Hurts\](http://davenetics.com/2009/02/everybody-hurts/)
+[Everybody Hurts](http://davenetics.com/2009/02/everybody-hurts/)
 
 > It seems to me, as the end of the first half approaches, that the theme of this year's Super Bowl XLIII Ads is extreme violence done to one's person.
 

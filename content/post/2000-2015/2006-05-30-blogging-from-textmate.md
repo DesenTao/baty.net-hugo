@@ -11,4 +11,4 @@ I ran across the Blogging bundle for TextMate. Now I can write a blog post witho
   
 
   
-latest bundles from the Subversion repository. \[Start here\](<http://macromates.com/wiki/Main/Bundles>)
+latest bundles from the Subversion repository. [Start here](<http://macromates.com/wiki/Main/Bundles>)

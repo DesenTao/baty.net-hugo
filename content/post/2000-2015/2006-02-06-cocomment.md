@@ -7,6 +7,6 @@ title: coComment
 url: /2006/cocomment/
 ---
 
-!\[coComment\](/files/cocomment.gif) 
+![coComment](/files/cocomment.gif) 
 
-Am I the last to hear about \[coComment\](<http://www.cocomment.com/>)? This is a \*great\* idea. And it works very well.
+Am I the last to hear about [coComment](<http://www.cocomment.com/>)? This is a \*great\* idea. And it works very well.

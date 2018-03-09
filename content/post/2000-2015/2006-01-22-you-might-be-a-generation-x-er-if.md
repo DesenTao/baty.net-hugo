@@ -17,4 +17,4 @@ A great list of memory-jolting things from "back in the day." A couple of favori
 
 * Schoolhouse Rock played a HUGE part in how you actually learned the English language. 
 
-\[[link\](<http://www.geocities.com/CollegePark/6174/generx.htm>)]
+[[link](<http://www.geocities.com/CollegePark/6174/generx.htm>)]

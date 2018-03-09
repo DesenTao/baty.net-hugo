@@ -12,7 +12,7 @@ url: /2009/instapaper/
 
 During any given day I run into a few articles or blog posts which look interesting, but are a bit long and should probably be saved for later.
 
-Enter \[Instapaper\](http://www.instapaper.com/).
+Enter [Instapaper](http://www.instapaper.com/).
 
 > Instapaper facilitates easy reading of long text content.
   
@@ -24,7 +24,7 @@ Enter \[Instapaper\](http://www.instapaper.com/).
   
 > Instapaper allows you to easily save them for later, when you do have time, so you don't just forget about them or skim through them.
 
-At first glance Instapaper might be just another bookmarking service. It's not. It saves the article or post in a nice, easy to read, text-only format. This works very well for longer pieces. Another quote from the Instapaper \[FAQ\](http://www.instapaper.com/faq)&#8230;
+At first glance Instapaper might be just another bookmarking service. It's not. It saves the article or post in a nice, easy to read, text-only format. This works very well for longer pieces. Another quote from the Instapaper [FAQ](http://www.instapaper.com/faq)&#8230;
 
 > This is for temporary storage of links you'd like to read.
 

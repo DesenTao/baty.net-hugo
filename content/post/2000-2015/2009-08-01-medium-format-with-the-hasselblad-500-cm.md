@@ -14,7 +14,7 @@ title: Medium Format with the Hasselblad 500 C/M
 url: /2009/medium-format-with-the-hasselblad-500-cm/
 ---
 
-About a month ago I bought a \[Bronica SQ-A kit\](2009/06/medium-format-with-the-bronica-sq-a/) after spotting it on Craigslist. I wanted to try medium format film and I've always liked the square 6&#215;6 shape. The big negatives are amazing, and the camera works just fine.
+About a month ago I bought a [Bronica SQ-A kit](2009/06/medium-format-with-the-bronica-sq-a/) after spotting it on Craigslist. I wanted to try medium format film and I've always liked the square 6&#215;6 shape. The big negatives are amazing, and the camera works just fine.
 
 The only problem is that it isn't a Hasselblad, which is what I've wanted for as long as I can remember. After putting a dozen or so rolls throught the Bronica I decided to buy the Hasselblad and be done with it.
 

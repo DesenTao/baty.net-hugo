@@ -13,23 +13,23 @@ It occurred to me today that when there are two choices in any particular produc
 
 \## Scrivener and Ulysses ##
 
-I rarely write more than a few paragraphs at a time, so I don't even \*need\* a significant writing tool. And yet, I use both \[Scrivener\]\[scriv\] and \[Ulysses\]\[ulysses\]. Love them both. Scrivener's MultiMarkdown support is awesome, and it's less tweaky than Ulysses. But Ulysses does the whole semantic writing thing so well, and can output things just about any way you like. So, it's both for me.
+I rarely write more than a few paragraphs at a time, so I don't even \*need\* a significant writing tool. And yet, I use both [Scrivener][scriv] and [Ulysses][ulysses]. Love them both. Scrivener's MultiMarkdown support is awesome, and it's less tweaky than Ulysses. But Ulysses does the whole semantic writing thing so well, and can output things just about any way you like. So, it's both for me.
 
 \## Safari and Chrome ##
 
-Can't use \[Chrome\]\[chrome\] until it works with 1Password, but I can almost guarantee that I'll run it side by side with Safari eventually.
+Can't use [Chrome][chrome] until it works with 1Password, but I can almost guarantee that I'll run it side by side with Safari eventually.
 
 \## TextMate and BBEdit ##
 
-I've been using \[BBEdit\]\[bbedit\] for a very long time. When \[TextMate\]\[tm\] was released I jumped ship right along with everyone else I knew. TextMate made editing code fun again. But its single character undo and completely feeble project handling and search keeps me in BBEdit for any significant text manipulation. So, for coding or writing it's TextMate and for text mangling it's BBEdit. They're both terrific.
+I've been using [BBEdit][bbedit] for a very long time. When [TextMate][tm] was released I jumped ship right along with everyone else I knew. TextMate made editing code fun again. But its single character undo and completely feeble project handling and search keeps me in BBEdit for any significant text manipulation. So, for coding or writing it's TextMate and for text mangling it's BBEdit. They're both terrific.
 
 \## WriteRoom and OmmWriter ##
 
-The first time I downloaded \[WriteRoom\]\[wr\] and fired it up I knew it was perfect for me. I'm just so easily distractible and WriteRoom goes to great lengths to help me stay focused. Love it. Recently I was introduced to \[OmmWriter\]\[omm\], which is just weird. Love that too. So again, I use both, depending on my mood.
+The first time I downloaded [WriteRoom][wr] and fired it up I knew it was perfect for me. I'm just so easily distractible and WriteRoom goes to great lengths to help me stay focused. Love it. Recently I was introduced to [OmmWriter][omm], which is just weird. Love that too. So again, I use both, depending on my mood.
 
 \## Things and TaskPaper ##
 
-\[Things\]\[things\] is terrific for managing and scheduling tasks. \[TaskPaper\]\[tp\] is lightweight and works great for making lists of stuff. Things is my GTD thing and TaskPaper is my jot-a-list-of-things-down app. Besides, I can always open a TaskPaper document in, say, BBedit, WriteRoom, TextMate or (oh hell just see above.)
+[Things][things] is terrific for managing and scheduling tasks. [TaskPaper][tp] is lightweight and works great for making lists of stuff. Things is my GTD thing and TaskPaper is my jot-a-list-of-things-down app. Besides, I can always open a TaskPaper document in, say, BBedit, WriteRoom, TextMate or (oh hell just see above.)
 
 \## Film and Digital ##
 

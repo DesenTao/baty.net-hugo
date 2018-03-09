@@ -21,4 +21,4 @@ Bruce Chapman
 
 > Seems to believe a petition signed by 400 PhDs and professors is convincing proof of Intelligent Designs widespread acceptance. A lazy dissembler, he blames the lack of actual research and peer-reviewed articles on ID on academic blackballing. Right, cause Galileo had it easy. 
 
-There are lots more. \[[Link\](<http://www.buffalobeast.com/91/50.htm>)]
+There are lots more. [[Link](<http://www.buffalobeast.com/91/50.htm>)]

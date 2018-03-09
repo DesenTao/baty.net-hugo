@@ -9,7 +9,7 @@ title: Mona Lisa Phone Home
 url: /2006/mona-lisa-phone-home/
 ---
 
-I find the following photo (by \[Philip Freedman\](<http://www.photo.net/shared/community-member?user_id=844952>)) a little depressing. 
+I find the following photo (by [Philip Freedman](<http://www.photo.net/shared/community-member?user_id=844952>)) a little depressing. 
 
 
 <img src="http://baty.net/files/mona-lisa-phone-home-2.jpg" height="275" width="400" border="1" hspace="4" vspace="4" alt="Mona-Lisa-Phone-Home-2" /> 

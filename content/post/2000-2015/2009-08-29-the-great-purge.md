@@ -27,6 +27,6 @@ I've got enough space for everything, so why bother? I read somewhere that "wher
 
 Another thing I've noticed is there must be some zoning law stating that every flat surface must have something set upon it. I've got every available surface covered with bowls, candles, planters, you name it. I don't really like any of them. What value is there in a wire basket full of wicker balls? Bye bye.
 
-So it begins. I am going through every room, closet, and drawer in my house. All of it gets run through the 2-condition filter and dealt with accordingly. I'll be taking snapshots of most of the things I get rid of and posting them to \[tumblr\](http://thegreatpurge.tumblr.com/).
+So it begins. I am going through every room, closet, and drawer in my house. All of it gets run through the 2-condition filter and dealt with accordingly. I'll be taking snapshots of most of the things I get rid of and posting them to [tumblr](http://thegreatpurge.tumblr.com/).
 
 If I do this right, I'll end up with a lot of empty spaces in my spaces. I expect to fill them again, slowly, and this time with things that are meaningful in some way. It's an experiment.

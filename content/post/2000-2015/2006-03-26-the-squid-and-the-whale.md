@@ -9,7 +9,7 @@ url: /2006/the-squid-and-the-whale/
 
 ![][1] 
 
-Please see \[The Squid and the Whale\]\[1\]. Jeff Daniel's performance is truly great. This movie is about what happens to kids (and their parents) during divorce. It will make you laugh, but only because it's better than the alternative. And you'll get to hear \_Metamorphosis\_ described as "Kafka-esque". It's painful, adult, true, and a terrible sort of funny. 
+Please see [The Squid and the Whale][1]. Jeff Daniel's performance is truly great. This movie is about what happens to kids (and their parents) during divorce. It will make you laugh, but only because it's better than the alternative. And you'll get to hear \_Metamorphosis\_ described as "Kafka-esque". It's painful, adult, true, and a terrible sort of funny. 
 
 [1]: [http://www.rottentomatoes.com/m/squid\_and\_the_whale/][2]
 

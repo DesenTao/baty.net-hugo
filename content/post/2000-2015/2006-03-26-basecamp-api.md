@@ -9,9 +9,9 @@ title: Basecamp API
 url: /2006/basecamp-api/
 ---
 
-The long-awaited \[Basecamp\]\[1\] API was just launched. There's a nifty \[Ruby wrapper\]\[2\] available already, which uses serialized Yaml packets rather than the usual XML, making things even easier. 
+The long-awaited [Basecamp][1] API was just launched. There's a nifty [Ruby wrapper][2] available already, which uses serialized Yaml packets rather than the usual XML, making things even easier. 
 
-I expect interesting things. \[More here\]\[3\]. 
+I expect interesting things. [More here][3]. 
 
 [1]: <http://www.basecamphq.com/> 
 

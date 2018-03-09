@@ -11,7 +11,7 @@ url: /2006/night-of-the-hunter/
 
 ![Night of the Hunter][1] 
 
-I'd never even heard of \[Night of the Hunter]\[1\] (1955) before seeing it on the list of [102 Movies you must see before&#8230;\]\[2\]. Shame on me, it's wonderful. Standouts&#8230; 
+I'd never even heard of [Night of the Hunter][1] (1955) before seeing it on the list of [102 Movies you must see before&#8230;][2]. Shame on me, it's wonderful. Standouts&#8230; 
 
 * The "LOVE/HATE" tattoos on Powell's hands 
 

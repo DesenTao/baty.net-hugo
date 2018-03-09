@@ -23,4 +23,4 @@ As it happens, the Village Voice yesterday ran an interesting piece about the th
 
 And I'll tell you something else, if it turns out I'm wrong about this &#8211; I'm leaving. 
 
-\[[Link\](<http://www.villagevoice.com/news/0608,murphy,72254,6.html>)]
+[[Link](<http://www.villagevoice.com/news/0608,murphy,72254,6.html>)]

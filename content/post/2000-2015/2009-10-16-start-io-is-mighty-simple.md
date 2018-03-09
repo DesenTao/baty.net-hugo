@@ -11,7 +11,7 @@ title: Start.io is mighty simple
 url: /2009/start-io-is-mighty-simple/
 ---
 
-Like so many others, I'm on a minimalist kick. I'm trying to reduce clutter, distractions and other noise. Today I ran across \[start.io\](http://start.io/). Here's my new Safari home page.
+Like so many others, I'm on a minimalist kick. I'm trying to reduce clutter, distractions and other noise. Today I ran across [start.io](http://start.io/). Here's my new Safari home page.
 
 ![start-page][1]
 

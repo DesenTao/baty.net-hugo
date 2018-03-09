@@ -13,4 +13,4 @@ All of you Rails developers using the wonderful Textmate editor may want to sit 
 
 Absolutely fabulous. Thanks Duane! 
 
-\[[Link\](<http://blog.inquirylabs.com/2006/02/18/the-syncpeople-on-rails-bundle-for-textmate/>)]
+[[Link](<http://blog.inquirylabs.com/2006/02/18/the-syncpeople-on-rails-bundle-for-textmate/>)]

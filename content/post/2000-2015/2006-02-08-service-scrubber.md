@@ -7,8 +7,8 @@ title: Service Scrubber
 url: /2006/service-scrubber/
 ---
 
-A fabulous, but under-utilized feature of OS X is the Services menu. One of the reasons it doesn't get used enough is that the menu can become unwieldy rather quickly. Enter \[Service Scrubber\](<http://www.petermaurer.de/nasi.php?section=servicescrubber&layout=default>). 
+A fabulous, but under-utilized feature of OS X is the Services menu. One of the reasons it doesn't get used enough is that the menu can become unwieldy rather quickly. Enter [Service Scrubber](<http://www.petermaurer.de/nasi.php?section=servicescrubber&layout=default>). 
 
-!\[Service Scrubber\](/files/servicescrubber.png) 
+![Service Scrubber](/files/servicescrubber.png) 
 
 Works as advertised.

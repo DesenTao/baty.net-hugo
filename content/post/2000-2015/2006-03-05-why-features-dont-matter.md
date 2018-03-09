@@ -7,7 +7,7 @@ title: Why Features Don’t Matter
 url: /2006/why-features-dont-matter/
 ---
 
-Andreas Pfeiffer writes a piece on \[Why Features Don't Matter\]\[1\] using Apple's iPod as a leading 
+Andreas Pfeiffer writes a piece on [Why Features Don't Matter][1] using Apple's iPod as a leading 
 
 example of the soundness of the 80/20 rule, and why deliberately leaving out the other 20% works. 
 

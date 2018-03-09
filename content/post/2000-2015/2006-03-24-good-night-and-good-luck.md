@@ -9,7 +9,7 @@ url: /2006/good-night-and-good-luck/
 
 ![][1] 
 
-If you ever find yourself doubting that maintaining your integrity is the right move, you should see \[Good Night, and Good Luck\]\[1\]. It's a stylish, smart, grown-up movie that you'll enjoy. So it seems Mr. Clooney can direct too. 
+If you ever find yourself doubting that maintaining your integrity is the right move, you should see [Good Night, and Good Luck][1]. It's a stylish, smart, grown-up movie that you'll enjoy. So it seems Mr. Clooney can direct too. 
 
 [1]: [http://www.rottentomatoes.com/m/good\_night\_and\_good\_luck/][2]
 

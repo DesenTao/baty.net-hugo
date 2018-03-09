@@ -16,7 +16,7 @@ url: /2009/twitter-groups/
 
 [Twitter Groups][1]: Loren Brichter on the problems faced by Twitter client developers tempted to add &#8216;group' features.
 
-Except of course that other than group synching between multiple computers, \[TweetDeck\](http://www.tweetdeck.com/) already does this perfectly.
+Except of course that other than group synching between multiple computers, [TweetDeck](http://www.tweetdeck.com/) already does this perfectly.
 
 (Via [Daring Fireball][2].)
 

@@ -13,6 +13,6 @@ I don't play the lotto. Of course that means I won't win. But I won't win if I p
 
 > Someone once pointed out that for a round trip of more than 14 miles, there is a greater chance of dying in a traffic accident then there is of winning 100 million dollars in the NY State Lotto. Still, there are plenty willing to take their chances. 
 
-\[[Link\]([http://3quarksdaily.blogs.com/3quarksdaily/2006/01/the\_moral\_degen.html][1])]
+[[Link]([http://3quarksdaily.blogs.com/3quarksdaily/2006/01/the\_moral\_degen.html][1])]
 
  [1]: http://3quarksdaily.blogs.com/3quarksdaily/2006/01/the_moral_degen.html

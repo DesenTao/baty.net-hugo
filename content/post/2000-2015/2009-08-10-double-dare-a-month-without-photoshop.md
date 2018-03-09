@@ -17,7 +17,7 @@ url: /2009/double-dare-a-month-without-photoshop/
 
 <span class="photo_caption">Original photo by [osiris555](http://www.flickr.com/photos/osiris555/3808500482/in/pool-hdr), chosen at random from the Flickr HDR pool</span>
 
-I spend a lot of time looking at photographs, mostly on \[Flickr\](http://flickr.com/). There are a few contacts that I follow and I also enjoy browsing the \[Interestingness\](http://www.flickr.com/explore/interesting/7days/) area. What I've noticed though is that many of the "interesting" photos (according to Flickr), aren't. That is unless you enjoy photos that have been Photoshopped to within an inch of their lives. Good lord, it's nothing but vignettes, abusive mid-tone contrast, and the ever popular, disgustingly overwrought HDR shots.
+I spend a lot of time looking at photographs, mostly on [Flickr](http://flickr.com/). There are a few contacts that I follow and I also enjoy browsing the [Interestingness](http://www.flickr.com/explore/interesting/7days/) area. What I've noticed though is that many of the "interesting" photos (according to Flickr), aren't. That is unless you enjoy photos that have been Photoshopped to within an inch of their lives. Good lord, it's nothing but vignettes, abusive mid-tone contrast, and the ever popular, disgustingly overwrought HDR shots.
 
 I'm all for experimentation and am guilty of the above (except HDR, yuck) but I'd like to think that someday I could live without any of it and still make a decent photograph. My tastes run different than most, apparently.
 

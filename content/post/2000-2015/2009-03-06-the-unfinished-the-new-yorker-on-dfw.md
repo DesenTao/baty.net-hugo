@@ -15,4 +15,4 @@ The New Yorker on David Foster Wallace
 
 > He conjured the world in two-hundred-word sentences that mixed formal diction and street slang, technicalese and plain speech; his prose slid forward with a controlled lack of control that mimed thought itself.
 
-More \[here\](http://www.newyorker.com/reporting/2009/03/09/090309fa\_fact\_max)
+More [here](http://www.newyorker.com/reporting/2009/03/09/090309fa\_fact\_max)

@@ -13,7 +13,7 @@ I've been writing scripts the past couple of days for synching things up between
 
 1. When using rsync anywhere near mounted Windows shares, always include the option `-modify-window=1`. This will prevent rsync from trying to copy nearly \*every\* file each time. It has something to do with the differences in how Windows stores modification times. 
 
-2. The latest OS X update to Tiger broke the &#8211;delete option. Target deletion simply doesn't work any more. As a workaround, I've installed the \[DarwinPorts\]\[1\] version instead.&nbsp; Then I moved the broken binary out of the way and symlinked the ports version in its place. Something like this (assuming you already have DarwinPorts)&#8230; 
+2. The latest OS X update to Tiger broke the &#8211;delete option. Target deletion simply doesn't work any more. As a workaround, I've installed the [DarwinPorts][1] version instead.&nbsp; Then I moved the broken binary out of the way and symlinked the ports version in its place. Something like this (assuming you already have DarwinPorts)&#8230; 
 
 
 `

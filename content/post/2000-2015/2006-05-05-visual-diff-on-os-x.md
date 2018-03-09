@@ -9,7 +9,7 @@ url: /2006/visual-diff-on-os-x/
 
 I just found a python script that will take the output from `svn diff` and run it through FileMerge.app so there's a nice pretty visual diff to look at. 
 
-It's called svndiffshim.py and can be found \[here\]\[1\]. 
+It's called svndiffshim.py and can be found [here][1]. 
 
 To use it, copy the script somewhere (like ~/bin) and make sure it's executable (`chmod +x ~/bin/svndiffshim.py`) 
 

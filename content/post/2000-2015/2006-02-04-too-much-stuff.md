@@ -15,6 +15,6 @@ Last weekend I emptied all of the drawers in the kitchen. Just up-ended them ont
 
 This weekend will be the same, only this time I'll do it with the closets. 
 
-There's a great web site called \[Discardian\](<http://www.metagrrrl.com/discardian/>) which is very helpful. She writes "One tip every day to help you let go of all that crap in your way." Most of them are easy and very effective. 
+There's a great web site called [Discardian](<http://www.metagrrrl.com/discardian/>) which is very helpful. She writes "One tip every day to help you let go of all that crap in your way." Most of them are easy and very effective. 
 
 I'll see you at the garage sale.

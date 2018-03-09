@@ -25,4 +25,4 @@ Oh what the hell, here's a bit more&#8230;
 
 What room is this? This is the room where the antler carved the pumpkin. This is the room where the gutter pipes drank the moonlight. This is the room where moss gradually silenced the treasure, rubies being the last to go. Transmissions from insect antennae were monitored in this room. It's amazing how often their broadcasts referred to the stars. 
 
-\[[Link\](<http://www.litline.org/ABR/100bestfirstlines.html>)]
+[[Link](<http://www.litline.org/ABR/100bestfirstlines.html>)]

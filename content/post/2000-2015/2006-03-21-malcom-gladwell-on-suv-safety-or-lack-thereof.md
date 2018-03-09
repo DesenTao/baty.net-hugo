@@ -7,7 +7,7 @@ title: Malcom Gladwell on S.U.V. safety (or lack thereof)
 url: /2006/malcom-gladwell-on-suv-safety-or-lack-thereof/
 ---
 
-Do you drive your big, selfish, me-first S.U.V. because you think it's safer? If so, Malcom Gladwell \[thinks you're wrong\]\[1\]. 
+Do you drive your big, selfish, me-first S.U.V. because you think it's safer? If so, Malcom Gladwell [thinks you're wrong][1]. 
 
 > S.U.V.s are unsafe because they make their drivers feel safe.&nbsp; That feeling of safety isn't the solution; it's the problem.&nbsp; 
 
