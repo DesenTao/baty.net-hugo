@@ -1,5 +1,5 @@
 ---
-title: "From 1password to Pass"
+title: "From 1Password to Pass"
 date: 2018-03-11T11:33:51-04:00 
 lastmod: 2018-03-11T11:34:13-04:00 
 draft: false
