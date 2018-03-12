@@ -2,7 +2,7 @@ baseURL = "https://www.baty.net/"
 title = "Jack Baty's Blog"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "jane"
+theme = "jane-upstream"
 
 # language support # en / zh-cn / other...
 defaultContentLanguage = "en"
@@ -55,6 +55,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
   since = "2000"            # Site creation time          # 站点建立时间
+  homeFullContent = true
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
