@@ -16,3 +16,7 @@ body {
 .post .post-content p {
   line-height: 1.5;
 }
+
+#hcard-Jack-Baty {
+  display:none;
+}
