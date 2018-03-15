@@ -20,3 +20,7 @@ body {
 #hcard-Jack-Baty {
   display:none;
 }
+
+.post-meta .u-url {
+    display:none;
+}
