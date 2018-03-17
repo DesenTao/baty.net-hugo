@@ -11,7 +11,7 @@ I wish I could just delete my Facebook account and be done with it, but I can't.
 
 So, while I'd love to be one of those people who just deletes Facebook and then writes a smug blog post about it, for now I'll be trying to at least limit my usage and exposure.
 
-The goal is to use Facebook for keeping up with friends, browsing groups about specific topics, and occasionally posting stuff my family may find interesting. This way they can also keep up with me without me having to constantly remind them that "I still have a blog, you know!". And let's be honest, I'm not worth the extra effort for most people.
+The goal is to use Facebook for keeping up with friends, browsing groups about specific topics, and occasionally posting stuff my family may find interesting. This way they can also keep up with me without me having to constantly remind them that "I still have a blog, you know!". And let's be honest, I'm not always worth the extra effort.
 
 As a side effect, this should drastically reduce my exposure to the usual noise and nonsense.
 
