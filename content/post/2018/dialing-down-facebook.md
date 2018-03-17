@@ -3,7 +3,7 @@ title: "Dialing Down Facebook"
 date: 2018-03-17T14:14:07-04:00 
 lastmod: 2018-03-17T14:14:07-04:00
 draft: false
-description: "Quitting Facebook but leaving the door open"
+description: "Almost but not quite quitting Facebook"
 tags: ["social","Facebook"]
 ---
 
