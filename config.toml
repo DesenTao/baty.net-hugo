@@ -2,7 +2,7 @@ baseURL = "https://www.baty.net/"
 title = "Jack Baty's Blog"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "jane-upstream"
+theme = "jane"
 
 # language support # en / zh-cn / other...
 defaultContentLanguage = "en"
