@@ -27,6 +27,6 @@ Fourth, I've unfollowed all pages and groups. I'm still a member of the groups b
 
 My timeline is now filled only with posts from those I'm interested in seeing updates from. Well, that, and ads...so many ads. Still it's a huge improvement. 
 
-I look forward to the day I can delete Facebook entirely, but for now I'll just dial it down to a managable level.
+I look forward to the day I can delete Facebook entirely, but for now I'll just dial it down to a manageable level.
 
 
