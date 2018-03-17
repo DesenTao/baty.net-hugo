@@ -1,4 +1,5 @@
 My blog at http://baty.net/ generaged using Hugo (http://gohugo.io)
 
 
-To deploy, use `make deploy` and Netlify will take it from there.
+To deploy, use `make deploy` or if changes have already been committed use `make -i deploy` so any "no changes to commit" errors will
+be ignored.
