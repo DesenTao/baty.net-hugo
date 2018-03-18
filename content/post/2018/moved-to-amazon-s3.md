@@ -1,10 +1,10 @@
 ---
 title: "Moving to Amazon S3"
-date: 2018-03-18T08:35:07-04:00
-lastmod: 2018-03-18T08:35:07-04:00
-draft: true
+date: 2018-03-18T13:43:11-04:00 
+lastmod: 2018-03-18T13:43:11-04:00 
+draft: false
 description: "baty.net is now hosted via an Amazon S3 bucket and Cloudfront"
-tags: []
+tags: ["aws"]
 toc: false
 ---
 
