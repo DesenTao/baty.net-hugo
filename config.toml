@@ -97,7 +97,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   customCSS = ['custom.css']            # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = ['']             # if ['custom.js'], load '/static/js/custom.js' file
+  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
 
   [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
