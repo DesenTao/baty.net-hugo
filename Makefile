@@ -1,34 +1,30 @@
-PUBLIC_DIR=public/
-SERVER_HOST=do.baty.net
-SERVER_DIR=/srv/users/serverpilot/apps/batydotnet/public/
-#TARGET=netlify
-#TARGET=digitalocean
-TARGET=s3
-
-
+SOURCE_DIR=public/
+DISTRIBUTION_ID=EZLUSUK2I41W0
+BUCKET=www.baty.net
 
 build:
-		hugo
+	@hugo
+
+upload:
+	@echo "\033[0;32mDeploying updates to S3 bucket...\033[0m"
+	@s3deploy -bucket=$(BUCKET) -region=us-east-1 -source=$(SOURCE_DIR)
 
 server:
-		hugo server
+	@hugo server
 
-deploy: build commit push
-		@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
-ifeq "$(TARGET)" "s3"
-    s3deploy -bucket=www.baty.net -region=us-east-1 -source=public/
-else
-    rsync -v -rz -e "ssh -l serverpilot" --checksum --delete --no-perms $(PUBLIC_DIR) $(SERVER_HOST):$(SERVER_DIR)
-endif
+invalidate:
+	@aws cloudfront create-invalidation --distribution-id=$(DISTRIBUTION_ID) --paths /index.html /index.xml "/page/*"
+
+deploy: build commit push upload invalidate
 
 commit:
-		git add -A
-		git commit -m "Build site `date`"
+	@git add -A
+	-@git commit -m "Build site `date`"
 
 push:
-		git push origin master
+	@git push origin master
 
 clean:
-		rm -rf $(PUBLIC_DIR)
+	rm -rf $(PUBLIC_DIR)
 
 .FORCE:
