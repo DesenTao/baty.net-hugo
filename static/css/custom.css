@@ -24,3 +24,12 @@ body {
 .post-meta .u-url {
     display:none;
 }
+
+.footnotes {
+    font-size: 0.8em;
+    line-height: 1.5;
+}
+
+.footnotes li {
+    margin-bottom: 15px;
+}
