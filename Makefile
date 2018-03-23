@@ -25,6 +25,8 @@ commit:
 push:
 	@git push origin master
 
+save: commit push
+
 clean:
 	rm -rf $(PUBLIC_DIR)
 
