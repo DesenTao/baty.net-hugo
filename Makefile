@@ -14,7 +14,7 @@ server:
 
 invalidate:
 	@echo "\033[0;32mInvalidating caches...\033[0m"
-	@aws cloudfront create-invalidation --distribution-id=$(DISTRIBUTION_ID) --paths /index.html /index.xml "/page/*"
+	@aws cloudfront create-invalidation --distribution-id=$(DISTRIBUTION_ID) --paths /index.html /index.xml "/page/*" "/post/"
 
 deploy: build commit push upload invalidate
 
