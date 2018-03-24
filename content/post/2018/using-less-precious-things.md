@@ -38,7 +38,8 @@ for around $25. I just press one button and start typing.
 
 I have some nice fountain pens. I love them. They're beautiful and a pleasure to
 write with. I've been using pencils instead. A pencil, at worst, needs
-sharpening. Grab one and write. If I lose one, so what?
+sharpening. If a pencil can be picked up, it can be written with. Grab one and
+write. If I lose one, so what?
 
 My Apple Watch sits unused on the charger most days. Instead, I wear a simple
 [automatic analog watch](/2009/tag-heuer-aquaracer-automatic/). In this case,
