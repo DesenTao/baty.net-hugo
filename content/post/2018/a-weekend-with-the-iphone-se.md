@@ -16,7 +16,7 @@ The iPhone X is a beautiful device. Smooth, sleek, powerful, and the screen is
 just gorgeous. The iPhone SE, by comparison, is tiny, slow, and practically
 blurry.
 
-It's also easier to carry, easier to hold, and easier to use.
+However, the iPhone SE is also easier to carry, easier to hold, and easier to use.
 
 Face ID is clever and it works pretty well, but sometimes having to either pick
 up or lean over the phone to read notifications is less than ideal. And
@@ -55,7 +55,7 @@ anything longer than tweets or short blog posts. I avoid writing on it as much
 as possible. I certainly never use it for watching movies. I do miss the larger
 screen of the X while using Maps, and I really miss it for viewing photos.
 
-The SE is slower, but not by much. 
+The SE is definitely slower, but not by as much as you'd think.
 
 All in all, I was surprised by how much I enjoyed using the iPhone SE again over
 the past couple of days. It's still the perfect form factor for me. If Apple
