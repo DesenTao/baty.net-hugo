@@ -3,6 +3,7 @@ DISTRIBUTION_ID=EZLUSUK2I41W0
 BUCKET=www.baty.net
 
 build:
+	@echo "\033[0;32mBuilding site...\033[0m"
 	@hugo
 
 upload:
@@ -19,10 +20,12 @@ invalidate:
 deploy: build commit push upload invalidate
 
 commit:
+	@echo "\033[0;32mCommiting changes to git...\033[0m"
 	@git add -A
 	-@git commit -m "Build site `date`"
 
 push:
+	@echo "\033[0;32mPushing to Github...\033[0m"
 	@git push origin master
 
 save: commit push
