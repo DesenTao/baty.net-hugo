@@ -14,7 +14,13 @@ body {
 }
 
 .post .post-content p {
-  line-height: 1.5;
+  line-height: 1.7;
+  font-family: 'Merriweather', serif;
+  color: #444;
+}
+
+.post .post-header .post-title {
+    font-family: 'Oswald', sans-serif;
 }
 
 #hcard-Jack-Baty {
