@@ -1,3 +1,7 @@
+figure {
+    margin: 1em 10px;
+}
+
 figcaption h4, .wp-caption-text {
     text-align:center;
     margin-top: 5px;
@@ -39,3 +43,4 @@ body {
 .footnotes li {
     margin-bottom: 15px;
 }
+
