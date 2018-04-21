@@ -44,3 +44,7 @@ body {
     margin-bottom: 15px;
 }
 
+.post .post-content a {
+    word-break: normal;
+}
+
