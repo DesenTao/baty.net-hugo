@@ -15,4 +15,4 @@ git commit -m "$msg"
 
 git push origin master
 
-rsync -v -rz -e "ssh -l serverpilot" --checksum --delete --no-perms public/ do.baty.net:/srv/users/serverpilot/apps/batydotnet/public/
+#rsync -v -rz -e "ssh -l serverpilot" --checksum --delete --no-perms public/ do.baty.net:/srv/users/serverpilot/apps/batydotnet/public/
