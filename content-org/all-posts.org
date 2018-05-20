@@ -1,0 +1,122 @@
+#+hugo_section: post
+#+hugo_base_dir: ../
+#+seq_todo: TODO DRAFT DONE
+#+property: header-args :eval never-export
+#+author:
+
+* Drafts
+** TODO This is a post
+:PROPERTIES:
+:EXPORT_FILE_NAME: this-is-a-post
+:END:
+
+Testing
+* Posts
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: post
+  :END:
+** 2018
+*** DONE Let's try using ox-hugo again :blogging:hugo:org_mode:
+CLOSED: [2018-05-20 Sun 13:52]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-05-20-lets-try-ox-hugo-again
+:END:
+
+Last year, while looking for ways to create a blog using Org-mode, I ran across
+[[https://github.com/kaushalmodi/ox-hugo][ox-hugo]]. It was clever, but I was uncomfortable with yet another layer of
+abstration between the source text and the rendered HTML. I may have gotten over
+that fear.
+
+I'm slowly standardizing on using org-mode files for all of my writing. I'll
+hate myself for this if I ever decide to stop using Emacs, but I'll deal with
+that then.
+
+[[https://gohugo.io][Hugo]] has org-support [[https://gohugo.io/content-management/formats/][built-in]], but it only supports a subset of org-mode's
+features. For example, URLs or org-formatted links in footnotes are not rendered
+as links in the final HTML files.
+
+Ox-hugo works via the standard org-mode export dispatcher. The
+result is rendered as a normal Hugo Markdown file. This means that if I decide to stop
+using Org-mode for blog posts, or even move to another markdown-based site
+builder, all of my posts are still there and usable as-is.
+
+Another nice feature is that all of my posts are in a single org-mode file, one
+subtree per post. I like this because I don't have to create a
+properly-formatted markdown file in a specific folder in order to create a post.
+I just set the =EXPORT_FILE_NAME= property and ox-hugo takes in from there.
+
+Of course I'm using a handy capture template, as provided by the ox-hugo docs.
+This lets me type =C-c c h= to quickly create a new draft post.
+
+#+BEGIN_SRC emacs-lisp
+(with-eval-after-load 'org-capture
+  (defun org-hugo-new-subtree-post-capture-template ()
+    "Returns `org-capture' template string for new Hugo post.
+See `org-capture-templates' for more information."
+    (let* ((title (read-from-minibuffer "Post Title: ")) ;Prompt to enter the post title
+           (fname (org-hugo-slug title)))
+      (mapconcat #'identity
+                 `(
+                   ,(concat "* TODO " title)
+                   ":PROPERTIES:"
+                   ,(concat ":EXPORT_FILE_NAME: " fname)
+                   ":END:"
+                   "%?\n")          ;Place the cursor here finally
+                 "\n")))
+
+  (add-to-list 'org-capture-templates
+               '("h"                ;`org-capture' binding + h
+                 "Hugo post"
+                 entry
+                 ;; It is assumed that below file is present in `org-directory'
+                 ;; and that it has a "Blog Ideas" heading. It can even be a
+                 ;; symlink pointing to the actual location of all-posts.org!
+                 (file+olp "all-posts.org" "Blog Ideas")
+                 (function org-hugo-new-subtree-post-capture-template))))
+#+END_SRC
+```
+
+All subtrees marked as =TODO= are considered to be drafts. Toggling the
+status to =DONE= sets "draft = false" and also sets the publish date to the
+current time.
+
+Tags are set just like normal org headings (e.g. "tag1:tag2"). 
+
+Being able to directly publish to my Hugo-based blog while still living in an
+Org-mode is pretty sweet.
+
+
+
+*** DONE Syncthing :sync:dropbox:
+CLOSED: [2018-05-20 Sun 12:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: syncthing
+:END:
+
+<img src="/img/2018/2018-05-20-syncthing-logo.svg" alt="Syncthing"" width="300"/>
+
+I've been testing [[https://syncthing.net/][Syncthing]] as a replacement for Dropbox and so far it's been great.
+
+I am currently syncing over 25,000 files in 5 directories across two Macs and one
+Linux machine. It has worked nearly without a hitch. I say "nearly" because
+after changing the case of a few filenames those now show as "out of sync". They
+synced fine but show as unsynced. I assume this is due to case-sensitive vs
+case-insensitive file systems. I'll need to figure this out but it's more an
+inconvenience than a problem[fn:1].
+
+I'm still using Dropbox for things I'm sharing with others, and probably
+always will, but for things I don't want anywhere near a "cloud", Syncthing
+seems like a perfectly fine solution.
+
+
+
+[fn:1] The case-insensitive rename issue is [[https://github.com/syncthing/syncthing/issues/1787][known]] and tricky to solve.
+
+
+
+
+* Footnotes
+​* COMMENT Local Variables                          :ARCHIVE:
+# Local Variables:
+# eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
+# End:
