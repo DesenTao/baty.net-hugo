@@ -114,7 +114,18 @@ seems like a perfectly fine solution.
 
 
 
+* Microblog
+  :PROPERTIES:
+  :EXPORT_HUGO_SECTION: micro
+  :END:
 
+** DONE Test post from all-posts 
+CLOSED: [2018-05-21 Mon 09:45]
+:PROPERTIES:
+:EXPORT_FILE_NAME: test-from-all-posts
+:EXPORT_TITLE: 
+:END:
+Test post from my all-posts.org file to the /micro section of baty.net
 * Footnotes
 ​* COMMENT Local Variables                          :ARCHIVE:
 # Local Variables:

@@ -18,7 +18,7 @@ body {
 }
 
 .post .post-content p {
-  /* line-height: 1.7; */
+  line-height: 1.5;
   /* font-family: 'Merriweather', serif; */
   color: #444;
 }
