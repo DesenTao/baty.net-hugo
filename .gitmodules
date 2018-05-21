@@ -1,3 +1,6 @@
+[submodule "jane"]
+	path = jane
+	url = https://github.com/jackbaty/hugo-theme-jane.git
 [submodule "themes/jane"]
 	path = themes/jane
 	url = https://github.com/jackbaty/hugo-theme-jane.git
