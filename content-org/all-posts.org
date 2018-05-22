@@ -6,7 +6,7 @@
 
 * Drafts
 * Posts
-  :PROPERTIES:
+:PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :END:
 ** DONE Don MacAskill's AMA Reinforces My Optimism About Flickr :flickr:photography:
@@ -195,7 +195,7 @@ seems like a perfectly fine solution.
 
 
 * Microblog
-  :PROPERTIES:
+:PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
 ** DONE Microblog posts on baty.net
