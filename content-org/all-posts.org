@@ -198,6 +198,15 @@ seems like a perfectly fine solution.
   :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Microblog posts on baty.net
+CLOSED: [2018-05-22 Tue 17:08]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-05-22_microblog-posts-on-baty-dot-net
+:EXPORT_TITLE: 
+:END:
+I'm thinking about moving small, "microblog" posts back into baty.net. This is
+one of them.
+
 * Footnotes
 ​* COMMENT Local Variables                          :ARCHIVE:
 # Local Variables:
