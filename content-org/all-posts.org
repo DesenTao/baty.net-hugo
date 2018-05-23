@@ -198,6 +198,17 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Janus
+CLOSED: [2018-05-23 Wed 16:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-05-23_janus
+:EXPORT_TITLE: 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :slug janus
+:END:
+
+[[/img/2018/2018-05-23_janus.png]]
+
+I didn't even know I /wanted/ a motorcycle, but I do.
 ** DONE 2018-05-22_See Less Often
 CLOSED: [2018-05-22 Tue 18:44]
 :PROPERTIES:
