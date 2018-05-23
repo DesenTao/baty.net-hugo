@@ -25,6 +25,7 @@ defaultContentLanguage = "en"
 
 [permalinks]
 post = "/:year/:title/"
+micro = "/micro/:year/:slug"
 
 [author]                  # essential                     # 必需
   name = "Jack Baty"
