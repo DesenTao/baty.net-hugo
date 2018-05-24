@@ -2,6 +2,7 @@
 title = "Hugo Page Bundles"
 date = 2018-05-24T13:06:00-04:00
 slug = "hugo-bundles"
+tags = ["hugo", "org-mode", "blogging"]
 draft = false
 +++
 

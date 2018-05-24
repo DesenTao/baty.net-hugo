@@ -9,7 +9,7 @@
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :END:
-** DONE Hugo Page Bundles
+** DONE Hugo Page Bundles :hugo:org_mode:blogging: 
 CLOSED: [2018-05-24 Thu 13:06]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
