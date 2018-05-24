@@ -9,6 +9,44 @@
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :END:
+** TODO Things I Write With :analog:writing:tools:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-05-23_things-i-write-with
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :slug things-i-write-with
+:END:
+
+As someone who loves writing with analog tools, I have always switched willy
+nilly between pens, pencils, notebooks, types of paper, etc. I never seemed to
+find any consistent patterns. The past year has, finally, found me settling on a
+pretty stable set of writing tools.
+
+It goes like this:
+
+For day-to-day note taking, I use a pencil. Go figure, right? I tried using the
+Blackwings, which are wildly popular with the fancy pencil set. They write well
+enough, but they're too long and no one talks about the elephant in the room;
+that big, clumsy, eraser with the sharp metal bits. The look funny and feel
+icky, so I switched to something I have grown to love - the Mitsu-bishi Hi-uni
+and 9850 pencils. They write at least as well as the Blackwings, cost less, and
+hold a point better.
+
+[[file:~/sites/blog/static/img/2018/2018-05-23_mitsu-bishi.jpg]]
+
+For my daily updates in the Hobonichi Techo, I'm still in love with the Staedtler
+Pigment Liners. The fine, black, crisp line works great on the small pages of
+Tomoe River paper.
+
+[[file:~/sites/blog/static/img/2018/2018-05-23_staedtler.jpg]]
+
+And for anything "fancy" like letters, postcards, or long-form journaling, I have
+settled on two fountain pens; The TWSBI Diamond 580 and the Pelikan M400.
+
+[[file:~/sites/blog/static/img/2018/2018-05-23_fountain-pens.jpg]]
+
+I'm pretty happy with these choices. It's been months since I've struggled with
+deciding what to write with.
+
+
 ** DONE Don MacAskill's AMA Reinforces My Optimism About Flickr :flickr:photography:
 CLOSED: [2018-05-22 Tue 08:48]
 :PROPERTIES:
@@ -207,7 +245,6 @@ CLOSED: [2018-05-23 Wed 16:35]
 :END:
 
 [[/img/2018/2018-05-23_janus.png]]
-
 I didn't even know I /wanted/ a motorcycle, but I do.
 ** DONE 2018-05-22_See Less Often
 CLOSED: [2018-05-22 Tue 18:44]
