@@ -9,7 +9,8 @@
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :END:
-** TODO Posting with ox-hugo so far
+** DONE Posting with ox-hugo so far
+CLOSED: [2018-05-24 Thu 07:57]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-05-24_posts-using-ox-hugo-so-far
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :slug posts-using-ox-hugo-so-far

@@ -1,6 +1,7 @@
 +++
 title = "Posting with ox-hugo so far"
-draft = true
+date = 2018-05-24T07:57:00-04:00
+draft = false
 slug = "posts-using-ox-hugo-so-far"
 +++
 
