@@ -9,6 +9,26 @@
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :END:
+** DONE Packed The First of Many Boxes
+CLOSED: [2018-05-24 Thu 10:57]
+:PROPERTIES:
+:EXPORT_FILE_NAME: packed-the-first-of-many-boxes
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :slug packed-the-first-of-many-boxes
+:END:
+
+[[/img/2018/2018-05-24_moving-box.jpg]]
+
+I'm getting married next year. This means I'll be selling my house and
+moving. I've been in this house since 2001, so I'm rather well entrenched.
+
+I'm excited about the change, but I'm not looking forward to going through
+/everything/ I own and deciding what to do with it. I may need a little [[https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/][Marie Kondō magic]].
+
+There's no great rush, but I've just packed the first box of books. Of course I'm
+keeping all the books.
+
+It's begun!
+
 ** DONE Posting with ox-hugo so far
 CLOSED: [2018-05-24 Thu 07:57]
 :PROPERTIES:
