@@ -9,7 +9,8 @@
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :END:
-** TODO Things I Write With :analog:writing:tools:
+** DONE Things I Write With :analog:writing:tools:
+CLOSED: [2018-05-23 Wed 21:28]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-05-23_things-i-write-with
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :slug things-i-write-with

@@ -1,7 +1,8 @@
 +++
 title = "Things I Write With"
+date = 2018-05-23T21:28:00-04:00
 tags = ["analog", "writing", "tools"]
-draft = true
+draft = false
 slug = "things-i-write-with"
 +++
 
