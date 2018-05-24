@@ -16,7 +16,7 @@ It goes like this:
 For day-to-day note taking, I use a pencil. Go figure, right? I tried using the
 Blackwings, which are wildly popular with the fancy pencil set. They write well
 enough, but they're too long and no one talks about the elephant in the room;
-that big, clumsy, eraser with the sharp metal bits. The look funny and feel
+that big, clumsy, eraser with the sharp metal bits. They look funny and feel
 icky, so I switched to something I have grown to love - the Mitsu-bishi Hi-uni
 and 9850 pencils. They write at least as well as the Blackwings, cost less, and
 hold a point better.

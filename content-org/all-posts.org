@@ -9,6 +9,21 @@
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :END:
+** TODO Posting with ox-hugo so far
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-05-24_posts-using-ox-hugo-so-far
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :slug posts-using-ox-hugo-so-far
+:END:
+
+I'm a few days into using [[https://ox-hugo.scripter.co/][ox-hugo]] for publishing blog posts and so far it's been
+great. There's a bit of a learning curve, but I'm finding it to be worth it.
+
+Here's what the source Org-mode file looks like right now.
+
+[[/img/2018/2018-05-24_ox-hugo-posting.png]]
+
+I like it!
+
 ** DONE Things I Write With :analog:writing:tools:
 CLOSED: [2018-05-23 Wed 21:28]
 :PROPERTIES:
@@ -26,7 +41,7 @@ It goes like this:
 For day-to-day note taking, I use a pencil. Go figure, right? I tried using the
 Blackwings, which are wildly popular with the fancy pencil set. They write well
 enough, but they're too long and no one talks about the elephant in the room;
-that big, clumsy, eraser with the sharp metal bits. The look funny and feel
+that big, clumsy, eraser with the sharp metal bits. They look funny and feel
 icky, so I switched to something I have grown to love - the Mitsu-bishi Hi-uni
 and 9850 pencils. They write at least as well as the Blackwings, cost less, and
 hold a point better.
@@ -46,7 +61,6 @@ settled on two fountain pens; The TWSBI Diamond 580 and the Pelikan M400.
 
 I'm pretty happy with these choices. It's been months since I've struggled with
 deciding what to write with.
-
 
 ** DONE Don MacAskill's AMA Reinforces My Optimism About Flickr :flickr:photography:
 CLOSED: [2018-05-22 Tue 08:48]
