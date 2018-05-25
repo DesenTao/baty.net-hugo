@@ -302,6 +302,17 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE GDPR upsides
+CLOSED: [2018-05-25 Fri 13:15]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-05-25_gdpr-upsides
+:EXPORT_TITLE: 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :slug gdpr-upsides
+:END:
+
+Companies are deleting the user data they've been collecting and many have also
+decided that it's just not worth collecting it in the first place. I'm happy to
+suffer a week of GDPR privacy notice emails for this.
 ** DONE Janus
 CLOSED: [2018-05-23 Wed 16:35]
 :PROPERTIES:
