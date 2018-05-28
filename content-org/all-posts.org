@@ -302,6 +302,19 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Shooting Chromes
+CLOSED: [2018-05-28 Mon 12:40]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-05-28_shooting-chromes
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: shooting-chromes
+:END:
+
+[[/img/2018/2018-05-28_loading-m6.jpg]]  
+
+It's been a long time since I've loaded slide film into a camera. This roll
+expired more than 15 years ago so all bets are off.
+
 ** DONE Janus
 CLOSED: [2018-05-23 Wed 16:35]
 :PROPERTIES:
