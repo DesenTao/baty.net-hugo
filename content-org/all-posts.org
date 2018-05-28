@@ -314,7 +314,17 @@ CLOSED: [2018-05-28 Mon 12:40]
 
 It's been a long time since I've loaded slide film into a camera. This roll
 expired more than 15 years ago so all bets are off.
+** DONE GDPR upsides
+CLOSED: [2018-05-25 Fri 13:15]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-05-25_gdpr-upsides
+:EXPORT_TITLE: 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :slug gdpr-upsides
+:END:
 
+Companies are deleting the user data they've been collecting and many have also
+decided that it's just not worth collecting it in the first place. I'm happy to
+suffer a week of GDPR privacy notice emails for this.
 ** DONE Janus
 CLOSED: [2018-05-23 Wed 16:35]
 :PROPERTIES:
