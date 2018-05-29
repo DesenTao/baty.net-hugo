@@ -302,6 +302,18 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Using a light switch
+CLOSED: [2018-05-28 Mon 22:05]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-05-28_using-a-light-switch
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: using-a-light-switch
+:END:
+
+I've removed all of the "smart" features from the lighting in my house. What a
+relief. I can now turn lights on and off any time I want, by just flipping
+a switch. No cursing or magic vocal incantations necessary. 
+
 ** DONE Shooting Chromes
 CLOSED: [2018-05-28 Mon 12:40]
 :PROPERTIES:

@@ -362,5 +362,8 @@ I also try to keep my
 1. The Lathe of Heaven by Ursula K Le Guin (2018-02-25)
 1. What The Hell Did I Just Read by David Wong (2018-03-04)
 1. Noir by Christopher Moore (2018-05-15)
+1. The Falling Woman by Pat Murphy (2018-05-23)
+1. So Good They Can't Ignore You by Cal Newport (2018-05-28)
+
 
 
