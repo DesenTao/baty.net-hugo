@@ -15,6 +15,20 @@
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :END:
+** TODO My Monthly Notetaking Rollover
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-monthly-notetaking-rollover
+:EXPORT_HUGO_SLUG: my-monthly-notetaking-rollover
+:EXPORT_HUGO_BUNDLE: /2018/my-monthly-notetaking-rollover
+:END:
+
+See https://micro.blog/rohdesign/611232
+
+#+BEGIN_QUOTE
+On the first of every month I start a new section in each of my notebooks. I
+also export last months org-journal entries to LaTeX->PDF and print them. I
+can’t explain why I love it so much, but it could be my favorite day.
+#+END_QUOTE
 ** DONE Hugo Page Bundles :hugo:org_mode:blogging: 
 CLOSED: [2018-05-24 Thu 13:06]
 :PROPERTIES:
@@ -301,7 +315,6 @@ seems like a perfectly fine solution.
 
 
 [fn:1] The case-insensitive rename issue is [[https://github.com/syncthing/syncthing/issues/1787][known]] and tricky to solve.
-
 
 
 * Microblog
