@@ -299,6 +299,7 @@ And the rest...
   Field Notes notebook.
 - [Blunt Classic Umbrella][blunt] – Who knew a good umbrella would make such a difference? This is a very nice one.
 - [Filson original Briefcase][filson] – I’ve owned a number of bags and this one is the one I’ve settled on. Well-designed and very well-made.
+- [ONA Prince Street][ona] – Camera bag. Leather. Gorgeous.
 
 Whew!
 
@@ -309,6 +310,7 @@ Whew!
 [bellroy]: https://bellroy.com/products/field-notes-notebook-cover-mini/leather/charcoal#image-1
 [blunt]: https://www.amazon.com/dp/B00M3E26F8/
 [filson]: https://www.filson.com/original-briefcase-1.html
+[ona]: https://www.amazon.com/ONA-Messenger-Antique-Leather-ONA5-024LBR/dp/B00N33F0SI/
 
 
 
