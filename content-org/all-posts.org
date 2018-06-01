@@ -308,6 +308,18 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Jess new shed
+CLOSED: [2018-06-01 Fri 09:48]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-01_jess-new-shed
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: jess-new-shed
+:END:
+
+[[file:~/sites/blog/static/img/2018/2018-06-01-jess-new-shed.jpg]]
+
+Successfully delivered, unloaded, and placed a new shed for Jessica and Brandon.
+
 ** DONE Monthly cleanup
 CLOSED: [2018-06-01 Fri 09:00]
 :PROPERTIES:
