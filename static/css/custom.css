@@ -70,3 +70,11 @@ body {
     line-height: 1.2em;
 }
 
+.post-content ul {
+    line-height: 1.2em;
+    font-size: smaller;
+}
+.post-content ul li {
+    padding: 3px 0px;
+}
+
