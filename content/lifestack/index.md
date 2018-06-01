@@ -298,6 +298,7 @@ And the rest...
 - [Bellroy Field Notes Notebook Cover][bellroy] – A great way to carry my ever-present
   Field Notes notebook.
 - [Blunt Classic Umbrella][blunt] – Who knew a good umbrella would make such a difference? This is a very nice one.
+- [Filson original Briefcase][filson] – I’ve owned a number of bags and this one is the one I’ve settled on. Well-designed and very well-made.
 
 Whew!
 
@@ -307,6 +308,7 @@ Whew!
 [wallet]: https://bellroy.com/products/note-sleeve-wallet/leather/teal#image-0
 [bellroy]: https://bellroy.com/products/field-notes-notebook-cover-mini/leather/charcoal#image-1
 [blunt]: https://www.amazon.com/dp/B00M3E26F8/
+[filson]: https://www.filson.com/original-briefcase-1.html
 
 
 
