@@ -5,6 +5,12 @@
 #+author:
 
 * Drafts
+** TODO Music via Roon and the Intel NUC
+:PROPERTIES:
+:EXPORT_FILE_NAME: music-via-roon-and-the-intel-nuc
+:EXPORT_HUGO_SLUG: music-via-roon-and-the-intel-nuc
+:END:
+
 * Posts
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
@@ -302,6 +308,17 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Monthly cleanup
+CLOSED: [2018-06-01 Fri 09:00]
+:PROPERTIES:
+:EXPORT_FILE_NAME: monthly-cleanup
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: monthly-cleanup
+:END:
+
+On the first of every month I start a new section in each of my notebooks. I
+also export last months org-journal entries to LaTeX->PDF and print them. I
+can't explain why I love it so much, but it could be my favorite day.
 ** DONE Using a light switch
 CLOSED: [2018-05-28 Mon 22:05]
 :PROPERTIES:
