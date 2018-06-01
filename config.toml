@@ -56,6 +56,12 @@ micro = "/micro/:year/:slug"
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
+  name = "Life Stack"
+  weight = 30
+  identifier = "lifestack"
+  url = "/lifestack/"
+
+[[menu.main]]
   name = "About"
   weight = 40
   identifier = "about"
