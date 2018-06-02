@@ -5,11 +5,64 @@
 #+author:
 
 * Drafts
-** TODO Music via Roon and the Intel NUC
+** DONE The Intel NUC and Roon as My Music System
+CLOSED: [2018-06-02 Sat 11:05]
 :PROPERTIES:
-:EXPORT_FILE_NAME: music-via-roon-and-the-intel-nuc
+:EXPORT_FILE_NAME: 2018-06-02_music-via-roon-and-the-intel-nuc
 :EXPORT_HUGO_SLUG: music-via-roon-and-the-intel-nuc
+:DESCRIPTION: Using Roon to manage and play my music collection has been wonderful
 :END:
+
+#+CAPTION: Intel NUC running Roon Core
+[[/img/2018/2018-06-02_NUC-running-roon-core.jpg]]
+
+
+I have been using [[https://roonlabs.com][Roon]] to manage and play my music collection and it's
+wonderful.
+
+
+I wrote a little about my first impressions [[/2018/the-roon-music-player-is-awesome/][here]]. In fact, I like it
+so much that I paid the $499 fee for a lifetime subscription. This seems steep
+only until you consider it as a critical component of an audio system. (See how
+I rationalize?).
+
+<!--more-->
+
+#+CAPTION: Roon Player running on my iMac
+[[/img/2018/2018-06-02_roon-screen.png]]
+
+For the first couple of weeks I ran Roon "Core", the brains of the system, on my
+iMac. This worked fine, but I wanted to offload the processing and storage
+to a dedicated device.
+
+Enter [[https://kb.roonlabs.com/Roon_Optimized_Core_Kit][Roon Optimized Core Kit]], which is a custom Linux build (RoonServer)
+created specifically to run Roon Core on your own hardware. In my case, that
+hardware is the [[https://www.amazon.com/gp/product/B01N4EOJNG/][Intel NUC7i3BNH]]. The NUC is a tiny, headless, silent server
+perfect for running ROCK. 
+
+All of my music is stored on the NUC's internal SSD drive. I don't have a large
+library, but if I run out of room, I can easily plug one or more larger USB
+drives into the NUC and tell Roon Core where the music is stored on them. Roon
+manages all of my music regardless of where it's stored. When I buy new music
+I only need to copy the files to the shared Roon drive and it's automatically
+sorted, indexed, and fed into Roon's music database.
+
+The Roon Core software running on the NUC is managed via a web control panel.
+Once the initial installation is done, everything can be done headlessly.
+Updates to ROCK are done right within the Player app. Considering several moving
+parts, some rather technical, this has all worked flawlessly so far.
+
+#+CAPTION: Roon's web control panel 
+[[/img/2018/2018-06-02_roon-control-panel.png]]
+
+Using Roon, I can easily control all of my music, stored anywhere, using any
+device, and play it on any combination of HomePod, Sonos, and dedicated
+amplifier. If I get bored with my own music collection, Roon's integration with
+the [[http://tidal.com/us][Tidal streaming music service]] gives me access to any music I could ever
+want, using the same system.
+
+It's pretty great.
+
 
 * Posts
 :PROPERTIES:
