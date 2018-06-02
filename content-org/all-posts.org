@@ -321,7 +321,8 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
-** TODO Tracy
+** DONE Tracy
+CLOSED: [2018-06-01 Fri 22:37]
 :PROPERTIES:
 :EXPORT_FILE_NAME: tracy
 :EXPORT_TITLE: 
