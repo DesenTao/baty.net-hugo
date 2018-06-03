@@ -5,6 +5,25 @@
 #+author:
 
 * Drafts
+
+* Posts
+:PROPERTIES:
+  :EXPORT_HUGO_SECTION: post
+  :END:
+** TODO My Monthly Notetaking Rollover
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-monthly-notetaking-rollover
+:EXPORT_HUGO_SLUG: my-monthly-notetaking-rollover
+:EXPORT_HUGO_BUNDLE: /2018/my-monthly-notetaking-rollover
+:END:
+
+See https://micro.blog/rohdesign/611232
+
+#+BEGIN_QUOTE
+On the first of every month I start a new section in each of my notebooks. I
+also export last months org-journal entries to LaTeX->PDF and print them. I
+can’t explain why I love it so much, but it could be my favorite day.
+#+END_QUOTE
 ** DONE The Intel NUC and Roon as My Music System
 CLOSED: [2018-06-02 Sat 11:05]
 :PROPERTIES:
@@ -63,25 +82,6 @@ want, using the same system.
 
 It's pretty great.
 
-
-* Posts
-:PROPERTIES:
-  :EXPORT_HUGO_SECTION: post
-  :END:
-** TODO My Monthly Notetaking Rollover
-:PROPERTIES:
-:EXPORT_FILE_NAME: my-monthly-notetaking-rollover
-:EXPORT_HUGO_SLUG: my-monthly-notetaking-rollover
-:EXPORT_HUGO_BUNDLE: /2018/my-monthly-notetaking-rollover
-:END:
-
-See https://micro.blog/rohdesign/611232
-
-#+BEGIN_QUOTE
-On the first of every month I start a new section in each of my notebooks. I
-also export last months org-journal entries to LaTeX->PDF and print them. I
-can’t explain why I love it so much, but it could be my favorite day.
-#+END_QUOTE
 ** DONE Hugo Page Bundles :hugo:org_mode:blogging: 
 CLOSED: [2018-05-24 Thu 13:06]
 :PROPERTIES:
@@ -374,6 +374,15 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Pronouncing SQLite
+CLOSED: [2018-06-03 Sun 09:30]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-03_pronouncing-sqlite
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: pronouncing-sqlite
+:END:
+
+TIL: SQLite is pronounced "ess que el ite", like it's a mineral. Richard Hipp https://changelog.com/podcast/201
 ** DONE Tracy
 CLOSED: [2018-06-01 Fri 22:37]
 :PROPERTIES:
