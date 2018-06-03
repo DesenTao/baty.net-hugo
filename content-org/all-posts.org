@@ -374,6 +374,18 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Fossil
+CLOSED: [2018-06-03 Sun 11:50]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-03_fossil
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: fossil
+:END:
+
+The combination of recent Github/Microsoft rumors and my
+natural contrarian tendencies has caused me to try Fossil for my personal
+projects http://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki 
+
 ** DONE Pronouncing SQLite
 CLOSED: [2018-06-03 Sun 09:30]
 :PROPERTIES:
