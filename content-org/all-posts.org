@@ -374,6 +374,19 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Gail
+CLOSED: [2018-06-03 Sun 16:05]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-03_gail
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: gail
+:END:
+
+[[/img/2018/2017-Roll-006_03-Gail.jpg]]
+
+Gail. Hasselbad 500C/M. Hand-held and guessed exposure. It's under-exposed it so
+I had to pull it up a bit which really cranks up the grain.
+
 ** DONE Fossil
 CLOSED: [2018-06-03 Sun 11:50]
 :PROPERTIES:
