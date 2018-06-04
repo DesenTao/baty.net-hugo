@@ -374,6 +374,16 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Dashlane
+CLOSED: [2018-06-04 Mon 18:51]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-04_dashlane
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: dashlane
+:END:
+
+I didn't intend to, but I have switched entirely from 1Password to Dashlane for
+password management. It's pretty nice. https://www.dashlane.com/
 ** DONE Gail
 CLOSED: [2018-06-03 Sun 16:05]
 :PROPERTIES:
