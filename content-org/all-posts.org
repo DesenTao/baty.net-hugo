@@ -6,6 +6,20 @@
 
 * Drafts
 
+** TODO My Monthly Notetaking Rollover
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-monthly-notetaking-rollover
+:EXPORT_HUGO_SLUG: my-monthly-notetaking-rollover
+:EXPORT_HUGO_BUNDLE: /2018/my-monthly-notetaking-rollover
+:END:
+
+See https://micro.blog/rohdesign/611232
+
+#+BEGIN_QUOTE
+On the first of every month I start a new section in each of my notebooks. I
+also export last months org-journal entries to LaTeX->PDF and print them. I
+can’t explain why I love it so much, but it could be my favorite day.
+#+END_QUOTE
 * Posts
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
@@ -86,20 +100,6 @@ differences in how everything works.
 
 
 
-** TODO My Monthly Notetaking Rollover
-:PROPERTIES:
-:EXPORT_FILE_NAME: my-monthly-notetaking-rollover
-:EXPORT_HUGO_SLUG: my-monthly-notetaking-rollover
-:EXPORT_HUGO_BUNDLE: /2018/my-monthly-notetaking-rollover
-:END:
-
-See https://micro.blog/rohdesign/611232
-
-#+BEGIN_QUOTE
-On the first of every month I start a new section in each of my notebooks. I
-also export last months org-journal entries to LaTeX->PDF and print them. I
-can’t explain why I love it so much, but it could be my favorite day.
-#+END_QUOTE
 ** DONE The Intel NUC and Roon as My Music System
 CLOSED: [2018-06-02 Sat 11:05]
 :PROPERTIES:
