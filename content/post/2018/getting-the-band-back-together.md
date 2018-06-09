@@ -28,3 +28,6 @@ So here I am, back with the old gang of reliable, [wonderful](/2017/wonderful-so
 [Tinderbox](http://www.eastgate.com/Tinderbox/) for notes, [The Brain](https://www.thebrain.com) for linking everything together.
 
 I'll let you know when I change my mind again.
+
+**Update 2018-06-09:** I changed my mind again. I still cannot find a good way to
+get long without org-mode.
