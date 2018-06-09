@@ -1,6 +1,6 @@
 ---
 author: Jack
-date: 2016-03-12T20:22:40+00:00
+date: 2018-06-09
 title: Things I’m doing now
 type: page
 comment: false
