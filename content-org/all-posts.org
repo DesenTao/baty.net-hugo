@@ -450,6 +450,16 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Org-super-agenda :org:mode:
+CLOSED: [2018-06-11 Mon 09:35]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-11_org-super-agenda
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: org-super-agenda
+:END:
+
+Org-super-agenda looks useful for those of us who spend a lot of time in Org's Agenda: https://github.com/alphapapa/org-super-agenda
+
 ** DONE Dashlane
 CLOSED: [2018-06-04 Mon 18:51]
 :PROPERTIES:
