@@ -450,6 +450,17 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Selfie with Lady Gaga Shirt
+CLOSED: [2018-06-11 Mon 19:42]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-11_selfie-with-lady-gaga-shirt
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: selfie-with-lady-gaga-shirt
+:END:
+
+[[file:/img/2018/2018-06-11_Selfie-with-lady-gaga-shirt.jpg]]
+
+One day I’ll have to throw away my Lady Gaga shirt but today is not that day.
 ** DONE Mu4e vs MailMate
 CLOSED: [2018-06-11 Mon 13:39]
 :PROPERTIES:
