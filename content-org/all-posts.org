@@ -450,6 +450,17 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Marge In a Meeting
+CLOSED: [2018-06-11 Mon 12:16]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-11_marge-in-a-meeting
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: marge-in-a-meeting
+:END:
+
+[[file:~/sites/blog/static/img/2018/2018-06-11_marge.jpg]]
+
+Marge joined us in a meeting this morning. All meetings should come with dogs.
 ** DONE Org-super-agenda :org:mode:
 CLOSED: [2018-06-11 Mon 09:35]
 :PROPERTIES:
