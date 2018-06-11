@@ -450,6 +450,16 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Mu4e vs MailMate
+CLOSED: [2018-06-11 Mon 13:39]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-11_mu4e-vs-mailmate
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: mu4e-vs-mailmate
+:END:
+
+When I occasionally launch MailMate I think, "That's so much simpler." Then I open
+Mu4e and think, "That's so much /better/." 
 ** DONE Marge In a Meeting
 CLOSED: [2018-06-11 Mon 12:16]
 :PROPERTIES:
