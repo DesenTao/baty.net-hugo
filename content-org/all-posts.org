@@ -450,6 +450,20 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Index Cards
+CLOSED: [2018-06-11 Mon 19:59]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-11_index-cards
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: index-cards
+:END:
+
+[[file:/img/2018/2018-06-11_Index-cards.jpg]]
+
+I write quotes and things on index cards and pin them above my writing desk. I
+try to switch them out occasionally but these have stuck around. If they were on
+my computer I'd never see them.
+
 ** DONE Selfie with Lady Gaga Shirt
 CLOSED: [2018-06-11 Mon 19:42]
 :PROPERTIES:
