@@ -24,6 +24,51 @@ can’t explain why I love it so much, but it could be my favorite day.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: post
   :END:
+** DONE Using Caddy for serving static content
+CLOSED: [2018-06-13 Wed 18:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-13_using-caddy-for-serving-static-websites
+:EXPORT_HUGO_SLUG: using-caddy-for-serving-static-websites
+:END:
+
+I have a bunch of static files/websites laying around so I stood up an Amazon
+Lightsail instance and installed the [[https://caddyserver.com][Caddy]] web server.
+
+[[https://static.baty.net][static.baty.net]]
+
+<!--more-->
+
+A cool thing about Caddy is that it handles provisioning and installing SSL
+certificates automatically from Let's Encrypt without me doing /anything/. It
+also automatically redirects from http to https.
+
+Here's the entire config file (Caddyfile)
+
+#+BEGIN_SRC 
+static.baty.net {
+  root /home/jbaty/apps/static
+  log /home/jbaty/logs/static.baty.net.log
+  gzip
+  browse
+}
+#+END_SRC
+
+The =browse= directive enables directory browsing, and it even looks decent.
+
+[[file:~/sites/blog/static/img/2018/2018-06-13_caddy-browse.png]]
+
+Caddy can do all sorts of neat tricks, like serving up Markdown files as HTML
+pages. Just drop Markdown files in a folder and add a =markdown= directive. I'm
+sure I'll find a use for that. It would be neat if it could do the same with
+Org-mode files.
+
+I'm sure I'll explore the various plugins available. I see there's one for Hugo
+sites, which looks interesting.
+
+Having super-simple HTTPS automatically should be compelling for people looking
+to get on the HTTPS-everywhere train.
+
+
 ** DONE The Frictionless Joy of Using a Single Platform
 CLOSED: [2018-06-09 Sat 09:18]
 :PROPERTIES:
