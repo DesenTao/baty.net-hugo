@@ -8,5 +8,5 @@ draft = false
 
 {{< figure src="/img/2018/2018-06-12_Jess-The-Deck.jpg" >}}
 
-Approaching the restaurant wasn't exactly encouraging but the other side was
-much better.
+Approaching the restaurant wasn't exactly encouraging but Jess and I thought the
+other side was much better.
