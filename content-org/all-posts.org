@@ -450,6 +450,21 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Jess and I at The Deck
+CLOSED: [2018-06-12 Tue 21:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-12_jess-and-i-at-the-deck
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: jess-and-i-at-the-deck
+:END:
+
+[[/img/2018/2018-06-12_Jess-and-I-at-The-Deck-in-MuskegonF-Edit.jpg]] 
+
+[[/img/2018/2018-06-12_Jess-The-Deck.jpg]]
+
+Approaching the restaurant wasn't exactly encouraging but the other side was
+much better.
+
 ** DONE Index Cards
 CLOSED: [2018-06-11 Mon 19:59]
 :PROPERTIES:
