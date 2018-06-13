@@ -450,6 +450,16 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Fossil without Magit :code:emacs:
+CLOSED: [2018-06-13 Wed 10:59]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-13_fossil-without-magit
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: fossil-without-magit
+:END:
+
+I like using [[https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki][Fossil]] but I'm not sure I want to live without [[https://magit.vc][Magit]].
+
 ** DONE Jess and I at The Deck
 CLOSED: [2018-06-12 Tue 21:24]
 :PROPERTIES:
