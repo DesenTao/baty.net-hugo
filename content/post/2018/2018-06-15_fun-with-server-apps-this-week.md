@@ -1,7 +1,6 @@
 ---
 title: "Fun With Server Apps This Week"
 date: 2018-06-15T08:55:00-04:00
-draft: true
 toc: false
 ---
 
