@@ -495,6 +495,16 @@ seems like a perfectly fine solution.
 :PROPERTIES:
   :EXPORT_HUGO_SECTION: micro
   :END:
+** DONE Mu4e Conversation :emacs:mu4e:
+CLOSED: [2018-06-15 Fri 14:27]
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2018-06-15_mu4e-conversation
+:EXPORT_TITLE: 
+:EXPORT_HUGO_SLUG: mu4e-conversation
+:END:
+
+[[https://gitlab.com/ambrevar/mu4e-conversation][Mu4e-conversation]] is a nice new package for viewing email threads in Mu4e. (via [[http://irreal.org/blog/?p=7274][Irreal]])
+
 ** DONE Make the macbook pro thicker :hardware:apple:
 CLOSED: [2018-06-14 Thu 14:29]
 :PROPERTIES:
