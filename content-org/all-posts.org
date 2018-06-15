@@ -505,7 +505,6 @@ CLOSED: [2018-06-14 Thu 14:29]
 
 I hope the next MacBook Pro is twice as thick.
 
-
 ** DONE Fossil without Magit :code:emacs:
 CLOSED: [2018-06-13 Wed 10:59]
 :PROPERTIES:
