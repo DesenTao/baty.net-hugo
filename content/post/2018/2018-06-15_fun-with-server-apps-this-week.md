@@ -7,6 +7,8 @@ toc: false
 I've been having fun with a few new, and new to me, servers and apps this week.
 Here's a quick summary.
 
+<!--more-->
+
 ### Fathom
 
 <img src="/img/2018/2018-06-15_fathom.jpg" alt="Fathom" />
