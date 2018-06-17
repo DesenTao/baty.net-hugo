@@ -1,9 +1,8 @@
 ---
-title: ""
 date: 2018-06-17T09:13:37-04:00
 lastmod: 2018-06-17T09:13:37-04:00
 draft: false
-description: ""
+slug: killing-eve
 tags: ["tv"]
 ---
 
