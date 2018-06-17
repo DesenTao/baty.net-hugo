@@ -1,5 +1,6 @@
 +++
 date = 2018-05-22T17:08:00-04:00
+slug = microblog-on-baty
 draft = false
 +++
 
