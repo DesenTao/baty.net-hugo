@@ -46,16 +46,10 @@ micro = "/micro/:year/:slug"
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
-  name = "Micro"
-  weight = 20
-  identifier = "micro"
-  url = "/micro/"
-[[menu.main]]
   name = "Life Stack"
   weight = 30
   identifier = "lifestack"
   url = "/lifestack/"
-
 [[menu.main]]
   name = "About"
   weight = 40
