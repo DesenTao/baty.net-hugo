@@ -23,7 +23,7 @@ Want to follow me on social media or other platforms? Please do!
 
 - [@jackbaty](https://twitter.com/jackbaty) on Twitter. I read more on Twitter than I post, but feel free to @ or DM me there.
 - [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
-- ~~[Jackbaty](https://www.facebook.com/jackbaty) on Facebook. I don't use Facebook.
+- ~~[Jackbaty](https://www.facebook.com/jackbaty) on Facebook. I don't use Facebook.~~
 
 
 
