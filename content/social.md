@@ -19,10 +19,11 @@ Want to follow me on social media or other platforms? Please do!
 - [Flickr](https://flickr.com/photos/jbaty/) - I've been posting photos to Flickr since forever. Flickr is still the best photo sharing service, even though it's fallen out of favor in recent years.
 - [Instagram](https://instagram.com/mrjackbaty) - I dislike the ads and algorithm, but all my friends are there
 
-## Social media
+## Social
 
-- [@jackbaty](https://twitter.com/jackbaty) on Twitter. I read more on Twitter than I post, but feel free to @ or DM me there.
+- [@jackbaty](https://twitter.com/jackbaty) on Twitter. I mostly just cross-post from other blogs to Twitter.
 - [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
+- [Goodreads](https://goodreads.com/jackbaty) for sharing what I'm reading and have read
 - ~~[Jackbaty](https://www.facebook.com/jackbaty) on Facebook. I don't use Facebook.~~
 
 
