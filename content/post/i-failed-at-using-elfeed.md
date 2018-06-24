@@ -20,6 +20,11 @@ I couldn't get the article date to display in the feed list. All of the
 screenshots I've seen of Elfeed show the date. There's a bunch of settings for
 the date _format_ but I couldn't find anything about including it.
 
+The feed list format goes all kittywampus seemingly at random. Sometimes it
+looks like a plain text list of titles. As I read each article, its entry
+reformats itself with the proper columns and faces. I cannot figure out how to
+fix it.
+
 I couldn't get the Elfeed database to sync consistently. Putting the database in
 a synced folder didn't seem to work. I'm sure I'm doing something wrong or
 missing a step. I can't seem to figure out when Elfeed updated the database, and
