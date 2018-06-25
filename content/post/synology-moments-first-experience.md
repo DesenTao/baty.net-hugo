@@ -13,7 +13,7 @@ of my life under Google's watchful eye.
 
 Jumping right in, I imported all 79,000 photos from Google Photos into Moments.
 The import didn't take as long as I expected. The indexing and thumbnail
-creation process, however, took _days_. Everything finished and I started poking
+creation process, however, took _days_. Once everything finished I started poking
 around the Moments app. 
 
 It's kind of a mess.
