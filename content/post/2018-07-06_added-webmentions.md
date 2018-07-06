@@ -12,7 +12,9 @@ been collecting webmentions for a while via
 [webmention.io](https://webmention.io) but needed a way to render them here. I
 had to roll my own.
 
-Well, to be honest, I just stood over [Karl's](https://twitter.com/kswedberg/) shoulder while he wrote the JavaScript for me. It's great watching a master at work. It would have taken me days to cobble something together. Karl did it in less than an hour. I tweaked it just a little, added some CSS, and boom! Webmentions.
+Well, to be honest, I just stood over [Karl's](https://twitter.com/kswedberg/) shoulder while he wrote the JavaScript for me. He's so good at this it's ridiculous. It would have taken me days to cobble something together. Karl did it in less than an hour. I tweaked it just a little, added some CSS, and boom! Webmentions.
 
-I'm sure I'll want to dial things in, but this is a fine start.
+Here's the [initial bit of JavaScript](https://github.com/jackbaty/baty.net-hugo/blob/master/static/js/custom.js).
+
+I'm sure I'll want to dial things in, but this is a fine start. Thanks Karl!
 
