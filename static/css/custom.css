@@ -81,3 +81,118 @@ body {
 .post .post-footer {
     margin-top: 3em;
 }
+
+/* Comments/Webmentions */
+
+ol.commentlist {
+	margin-left: 0px;
+	font-size: 90%;
+}
+
+ol.commentlist,
+ol.commentlist ul.children {
+	list-style: none;
+}
+
+ol.commentlist {
+	margin-bottom: 100px;
+}
+
+ul.children {
+	margin-left: 15px;
+}
+
+.commentlist .thread-even, .commentlist .thread-odd {
+	padding-left: 20px;
+	margin-bottom: 30px;
+	margin-top: 3.5em;
+	border-left: 1px solid #F0F0F0;
+	border-top: 1px solid #F0F0F0;
+}
+
+.commentlist .children .odd,
+.commentlist .children .even {
+	border-left: none;
+}
+
+.commentlist ul.children {
+	margin-left: 0;
+	padding-left: 20px;
+}
+
+.commentlist .thread-even ul.children,
+.commentlist .thread-odd ul.children {
+	border-left: 1px solid #F0F0F0;
+	border-top: 1px solid #F0F0F0;
+}
+
+ol.commentlist .avatar {
+	float: left;
+	margin-right: 15px;
+	margin-left: 0px;
+	width: 48px;
+	height: 48px;
+	border-radius: 50%;
+	margin-top: 5px;
+}
+
+.avatar {
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+}
+
+.comment-meta,
+.comment-meta a {
+	color: #b3b3b1;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+.comment-meta {
+	margin-top: -12px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+
+.comment .reply {
+	display: block;
+}
+
+.comment .reply a {
+	margin-top: -10px;
+	font-size: 90%;
+}
+
+.comment-body:hover .reply {
+}
+
+.comment .reply a:hover {
+}
+
+.comment-body {
+	margin-bottom: 40px;
+	margin-left: 0px;
+}
+
+.comment-author {
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 48px;
+}
+
+.comment-author cite {
+	font-style: normal;
+}
+
+.comment-author .fn a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.comment-author .says,
+.pingback .says,
+.pingback .comment-meta,
+.pingback .reply {
+	display: none;
+}
