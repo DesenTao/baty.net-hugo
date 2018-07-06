@@ -365,6 +365,8 @@ I also try to keep my
 1. The Falling Woman by Pat Murphy (2018-05-23)
 1. So Good They Can't Ignore You by Cal Newport (2018-05-28)
 1. This Is The Way The World Ends by James K. Marrow (2018-06-05)
+1. Differently Morphous by Yahtzee Crowshaw (2018-06-30)
+1. Only Begotten Daughter by James K. Marrow (2018-07-05)
 
 
 
