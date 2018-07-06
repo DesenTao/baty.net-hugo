@@ -14,8 +14,10 @@
     if (!data.author || !data.author.url) {
       return '';
     }
+    var published_date = new Date(data.published);
     var author = '<div class="comment-author vcard"><img class="avatar photo u-photo" src="' + data.author.photo + '" alt="' + data.author.name + '">';
     author += '<cite class="fn"><a class="url" rel="external nofollow" href="' + data.author.url + '">' + data.author.name + '</a></cite>';
+    author += '<div class="comment-meta commentmetadata"><a href="' + data.url + '"><time pubdate datetime="' + data.published + '">' + published_date + '</time></a></div>';
     
     return author;
   };
@@ -43,15 +45,18 @@
     
     $.each(links, function(i, link) {
       var data = link.data;
-      var mention = '<li class="comment u-comment h-cite">';
+      var mention = '';
+      
       
       if (link.activity.type === 'reply') {
+        mention += '<li class="comment u-comment h-cite">';
         mention += getAuthor(data);
         mention += '<div class="comment-content">' + data.content + '</div>';
         mention += '</li>';
         
         replies.push(mention);
       } else {
+        mention = '<li class="h-cite">';
         mention += link.activity.sentence_html;
         mention += '</li>';
         mentions.push(mention);
@@ -59,8 +64,8 @@
       
     });
     
-    $postFooter.after('<h2>Webmentions</h2><ol class="commentlist">' + mentions.join('') + '</ol>');
-    $postFooter.after('<h2>Comments</h2><ol class="mentions-list">' + replies.join('') + '</ol>');
+    $postFooter.after('<h2>Webmentions</h2><ol class="mentions-list">' + mentions.join('') + '</ol>');
+    $postFooter.after('<h2>Comments</h2><ol class="commentlist">' + replies.join('') + '</ol>');
   });
   
   request.catch(function(jqXHR, status) {

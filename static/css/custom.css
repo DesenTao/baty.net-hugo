@@ -89,30 +89,19 @@ ol.commentlist {
 	font-size: 90%;
 }
 
-ol.commentlist,
+ol.commentlist, ol.mentions-list,
 ol.commentlist ul.children {
 	list-style: none;
 }
 
 ol.commentlist {
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 }
 
-ul.children {
-	margin-left: 15px;
-}
-
-.commentlist .thread-even, .commentlist .thread-odd {
-	padding-left: 20px;
-	margin-bottom: 30px;
-	margin-top: 3.5em;
-	border-left: 1px solid #F0F0F0;
-	border-top: 1px solid #F0F0F0;
-}
-
-.commentlist .children .odd,
-.commentlist .children .even {
-	border-left: none;
+ol.mentions-list {
+ margin-left: 0px;
+ font-size: 80%;
+ margin-bottom: 50px;
 }
 
 .commentlist ul.children {
@@ -120,11 +109,6 @@ ul.children {
 	padding-left: 20px;
 }
 
-.commentlist .thread-even ul.children,
-.commentlist .thread-odd ul.children {
-	border-left: 1px solid #F0F0F0;
-	border-top: 1px solid #F0F0F0;
-}
 
 ol.commentlist .avatar {
 	float: left;
@@ -136,6 +120,20 @@ ol.commentlist .avatar {
 	margin-top: 5px;
 }
 
+.comment {
+	padding-left: 20px;
+	margin-bottom: 30px;
+	margin-top: 1.5em;
+	border: 1px solid #F0F0F0;
+	padding: 20px;
+}
+
+
+.comment-content p a {
+	text-decoration: none;
+	color: #c05b4d;
+}
+
 .avatar {
 	border-radius: 50%;
 	-moz-border-radius: 50%;
@@ -144,30 +142,14 @@ ol.commentlist .avatar {
 
 .comment-meta,
 .comment-meta a {
-	color: #b3b3b1;
-	text-decoration: none;
 	font-size: 12px;
+	color: #b3b3b1;
 }
 
 .comment-meta {
-	margin-top: -12px;
+	margin-top: -5px;
 	margin-bottom: 15px;
 	margin-left: 0px;
-}
-
-.comment .reply {
-	display: block;
-}
-
-.comment .reply a {
-	margin-top: -10px;
-	font-size: 90%;
-}
-
-.comment-body:hover .reply {
-}
-
-.comment .reply a:hover {
 }
 
 .comment-body {
@@ -176,9 +158,8 @@ ol.commentlist .avatar {
 }
 
 .comment-author {
-	font-weight: bold;
-	font-size: 16px;
-	line-height: 48px;
+	font-size: 14px;
+	line-height: 24px;
 }
 
 .comment-author cite {
@@ -186,8 +167,15 @@ ol.commentlist .avatar {
 }
 
 .comment-author .fn a {
+  font-weight: bold;
 	text-decoration: none;
-	color: inherit;
+	color: #c05b4d;
+}
+
+
+.mentions-list li.h-cite a {
+	text-decoration: none;
+	color: #c05b4d;
 }
 
 .comment-author .says,
