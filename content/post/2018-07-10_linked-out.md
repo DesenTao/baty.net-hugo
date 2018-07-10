@@ -11,6 +11,5 @@ than to decline connection requests.
 My profile is outdated and not representative of anything useful. I don't find
 much use for content there posted by other people.
 
-My thinking right now is that if I ever feel like I _need_ to use LinkedIn then I'm
-doing something wrong.
+Seems like a perfect candidate for deletion.
 
