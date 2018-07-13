@@ -21,7 +21,6 @@ Last updated **June 2018**
 - Lenovo ThinkPad X1 Carbon (2015) – New to me. Running Linux. So far so good, except for the trackpad.
 - Apple 27” Retina iMac (2015) – A monster with a big, beautiful screen.
 - Apple iPad Pro 10.5″ – I am not an iPad-only person. Not sure I ever will be but this is a great device anyway.
-- Apple iPad Pro 12.9″ – My first iPad Pro, which I replaced with the smaller 10.5-inch model. Haven’t gotten around to selling this one yet. For now I use it to watch shows while on the treadmill. Kind of a waste :).
 - iPhone X – It’s an iPhone. A really nice one. I put it in the Computing category but it goes in nearly every category.
 - Fujitsu ScanSnap – Super-fast and easy document scanning
 
@@ -73,9 +72,7 @@ Here's the software that I currently use on a regular basis.
 - [Dropbox][dropbox] – Steve Jobs famously called Dropbox “a feature, not a product”. True
   or not, Dropbox is a pretty damn good feature. I still don’t trust iCloud. I
   trust Dropbox.
-- [Dashlane][dashlane] - Password management. This is a newcomer. I was
-  surprised that I actually prefer this over 1Password. It suits me better,
-  somehow.
+- [1Password][1password] - Password management
 - [Chronosync][chronosync] – Helps me keep good drive and file backups
 - [Alfred][alfred] - Launcher and generally useful utility for all sorts of automation and shortcuts
 - [Keyboard Maestro][keyboardmaestro] – Macro wizardry. I wildly useful tool for
@@ -303,6 +300,21 @@ And the rest...
 
 Whew!
 
+
+
+## Changelog
+
+### Friday, July 13, 2018
+- Removed 12.9" iPad Pro. I gave it to my dad.
+- Restored 1Password to its rightful place. Remind me to never switch password managers.
+
+### Friday, June 1, 2018
+- Changed from 1Password to Dashlane for password management
+- Replaced LaunchBar with Alfred
+- Replaced Pass with YNAB
+- Removed TextExpander since I'm now using [Keyboard Maestro][keyboardmaestro] for text snippet expansion
+
+
 [tag]: https://www.tagheuer.com/en-us/watches/aquaracer-calibre-5-automatic-watch-43-mm-way2010-ba0927
 [goruck]: https://www.goruck.com/GR1
 [knife]: https://www.amazon.com/Benchmade-Mini-Griptilian-Knife-Drop-Point/dp/B06XKRZX76
@@ -312,15 +324,6 @@ Whew!
 [filson]: https://www.filson.com/original-briefcase-1.html
 [ona]: https://www.amazon.com/ONA-Messenger-Antique-Leather-ONA5-024LBR/dp/B00N33F0SI/
 
-
-
-## Changelog
-
-### Friday, June 1, 2018
-- Changed from 1Password to Dashlane for password management
-- Replaced LaunchBar with Alfred
-- Replaced Pass with YNAB
-- Removed TextExpander since I'm now using [Keyboard Maestro][keyboardmaestro] for text snippet expansion
 
 [spacemacs]: https://spacemacs.org/
 [orgmode]: https://orgmode.org/
@@ -345,5 +348,6 @@ Whew!
 [photomechanic]: http://www.camerabits.com/tour-v5/
 [silverfast]: http://www.silverfast.com/
 [luminar]: https://skylum.com/luminar
+[1password]: https://1password.com
 
 
