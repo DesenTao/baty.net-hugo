@@ -24,7 +24,7 @@ Files can also be organized by dates and also tags. Stacking by tags would be
 most likely to work for me, but I'm not going to tag files just so they can be
 swept up into a pile of documents I can't see without clicking on first.
 
-What's worse, is that when clicking a Stack, the stack expands and moves
+What's worse is when clicking a Stack, the stack expands and moves
 everything around so I have to then try to find the file I'm looking for. I
 don't like things being moved around like that. It's like having the rug
 pulled out from under me. I find it disconcerting and not useful.
