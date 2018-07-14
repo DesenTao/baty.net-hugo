@@ -29,6 +29,6 @@ everything around so I have to then try to find the file I'm looking for. I
 don't like things being moved around like that. It's like having the rug
 pulled out from under me. I find it disconcerting and not useful.
 
-I look forward to hearing how these features are thought of once in widespread
+I look forward to hearing what people think of these features once in widespread
 use. My hunch is that many people will love Dark Mode but fewer will like Stacks.
 
