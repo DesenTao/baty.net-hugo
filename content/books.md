@@ -13,6 +13,7 @@ many from before I began tracking them. I didn't record the dates until 2010. Bo
 I also try to keep my
 [Goodreads Profile](https://www.goodreads.com/user/show/1259384-jack-baty) up to date.
 
+1. Trixie Belden and the Red Trailer Mystery by Julie Campbell (1999-01-01)
 1. Gravity's Rainbow by Thomas Pynchon (1999-01-01)
 1. The War of Art by Steven Pressfield (1999-01-01)
 1. Letter to a Christian Nation by Sam Harris (1999-01-01)

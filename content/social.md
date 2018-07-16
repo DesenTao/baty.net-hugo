@@ -10,6 +10,7 @@ Want to follow me on social media or other platforms? Please do!
 
 - [baty.net](https://www.baty.net/) - You're soaking in it
 - [jack.baty.net](https://jack.baty.net/) - Short posts, photos, and shared links
+- [baty.blog](https://www.baty.blog/) - An experiment using [Blot](https://blot.im)
 - [micro.baty.net](https://micro.baty.net/) - My Microblog published with [Micro.blog](https://micro.blog/)
 - [tilde.club/~jbaty](http://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
 
