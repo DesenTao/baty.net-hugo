@@ -56,6 +56,11 @@ micro = "/micro/:year/:slug"
   identifier = "about"
   url = "/about/"
 [[menu.main]]
+  name = "Photographs"
+  weight = 40
+  identifier = "photos"
+  url = "https://photos.baty.net/"
+[[menu.main]]
   name = "Elsewhere"
   weight = 50
   identifier = "social"
