@@ -1,6 +1,6 @@
 ---
 title: "I May Be Stuck With Org-Mode Forever"
-date: 2018-08-04T13:09:05-04:00
+date: 2018-08-04T13:37:05-04:00 
 description: "Try as I might, I can't quit org-mode"
 tags: ["emacs","org-mode","things","workflow"]
 ---
@@ -17,11 +17,13 @@ It always starts out fine. I "ooh" and "aah" quite a lot, saying, "Now THIS
 is how a task manager should look! Org-mode is sooo dry and complicated." And to
 be fair, Org-mode _is_ dry and complicated. Plain text is boring. Not being able
 to just drag things around and having to remember 7,500 keybindings instead is
-complicated and wearisome. Plus, no matter which task manager I use, I end up
-ignoring what's in it. It's counterintuitive, but switching task managers is a
-very productive process for me.
+complicated and wearisome.
 
-Anyway, there's just no way I could use anything but Org-mode now. It's just too
+No matter which task manager I use, I end up
+ignoring what's in it anyway. It's counterintuitive, but switching task managers is a
+very productive process for me, so this hasn't been a total wash.
+
+There's just no way I could use anything but Org-mode now. It's simply too
 good at everything I want a task manager needs to be good at. The only thing I
 miss is a decent iOS option for the iPad. On the other hand, I rarely manage tasks
 on the iPad anyway, so I'll be sticking with Org-mode. Probably forever[^maybe].
