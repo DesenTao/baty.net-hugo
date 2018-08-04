@@ -23,7 +23,7 @@ No matter which task manager I use, I end up
 ignoring what's in it anyway. It's counterintuitive, but switching task managers is a
 very productive process for me, so this hasn't been a total wash.
 
-There's just no way I could use anything but Org-mode now. It's just too
+There's just no way I could use anything but Org-mode now. It's simply too
 good at everything I want a task manager needs to be good at. The only thing I
 miss is a decent iOS option for the iPad. On the other hand, I rarely manage tasks
 on the iPad anyway, so I'll be sticking with Org-mode. Probably forever[^maybe].
