@@ -16,7 +16,7 @@ Want to follow me on social media or other platforms? Please do!
 
 ## Photography
 
-- [Photos.baty.net](https://photos.baty.net/) - My photo gallery and blog site (run by Squarespace)
+- [Photos.baty.net](https://photos.baty.net/) - My photography blog and gallery site (run by Squarespace)
 - [SmugMug](https://jackbaty.smugmug.com/) - Where I organize albums and store things
 - [Flickr](https://flickr.com/photos/jbaty/) - I've been posting photos to Flickr since forever. Flickr is still the best photo sharing service, even though it's fallen out of favor in recent years.
 - [Instagram](https://instagram.com/mrjackbaty) - I dislike the ads and algorithm, but all my friends are there so sometimes I am too
