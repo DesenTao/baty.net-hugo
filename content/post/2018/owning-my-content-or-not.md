@@ -40,7 +40,7 @@ microblog](https://micro.baty.net) using the wonderful
 [Micro.blog](https://micro.blog) platform.
 
 For blurting out silly little things that can (and probably should) be thrown
-away, I'm using a [Mastodon account](https://mastodon.technology/@jackbaty). I
+away, I'm using [Mastodon](https://mastodon.technology/@jackbaty). I
 don't truly own my content there but I don't care. And given that Mastodon is
 decentralized, moderated, and [trying to do the right
 thing](https://blog.joinmastodon.org/2018/07/cage-the-mastodon/) by default, I
