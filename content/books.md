@@ -369,6 +369,8 @@ I also try to keep my
 1. Enlightenment Now by Steven Pinker (2018-06-22)
 1. Differently Morphous by Yahtzee Crowshaw (2018-06-30)
 1. Only Begotten Daughter by James K. Marrow (2018-07-05)
+1. The Fifth Season by N.K. Jemisin (2018-08-01)
+1. The Obelisk Gate by N.K. Jemisin (2018-08-13)
 
 
 
