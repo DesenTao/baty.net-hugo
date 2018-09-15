@@ -1,6 +1,6 @@
 ---
 title: "Hobonichi Techo For Years"
-date: 2018-09-15T13:21:03-04:00
+date: 2018-09-15T13:55:53-04:00
 tags: ["analog","paper"]
 description: "Coming up on six years with the Hobonichi"
 ---
