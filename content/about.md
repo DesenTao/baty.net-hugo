@@ -1,12 +1,12 @@
 ---
-date: 2017-12-22T02:09:15+00:00
+date: 1964-07-26T02:09:15+00:00
 title: About Jack Baty and Baty.net
 comment: false
 ---
 
-<img id="your-host" style="width:250px;" src="/img/jack-bw-250.jpg" alt="Jack Baty" width="250" height="250" />
+<img id="your-host" style="width:300px;" src="/img/jack-about.jpg" alt="Jack Baty" width="300" height="375" />
 
-**Hello there. I’m Jack Baty and this is my personal space.**
+**Hello there. I'm Jack Baty and this is my personal space.**
 
 I’ve been a partner at [Fusionary Media](https://fusionary.com) since 1995.
 Fusionary is a terrific digital studio in Grand Rapids, MI. If you need

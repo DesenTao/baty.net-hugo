@@ -1,8 +1,8 @@
 ---
 title: "Hobonichi Techo For Years"
 date: 2018-09-15T13:55:53-04:00
+description: "Coming up on seven years with the Hobonichi"
 tags: ["analog","paper"]
-description: "Coming up on six years with the Hobonichi"
 ---
 
 {{< figure src="/img/2018/hobonichi-2019.jpg" title="Seven years of Hobonichi" >}}
