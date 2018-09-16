@@ -14,5 +14,5 @@ The Techo is great for planning, doodling, scheduling, and journaling. It uses T
 I've noticed that the Techo has become my default notebook for nearly everything. I have almost always carried a mid-sized notebook like a Moleskin or
 Leuchtturm for use as a modified [bullet journal](https://bulletjournal.com) but lately I've been leaving that at home and only using the Techo.
 
-It's nice to find things that I enjoy and find useful consistently for many years.
+It's nice to find things that I enjoy and find consistently useful for many years.
 
