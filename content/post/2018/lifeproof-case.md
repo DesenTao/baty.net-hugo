@@ -10,7 +10,7 @@ I've been going without a case on my iPhone X for a while now. I love a caseless
 
 ![Lifeproof case](/img/2018/2018-09-17_lifeproof.jpg "Lifeproof case")
 
-I was wrong. I put the case on and knew immediately that I'd made a mistake. It ruined one of the best thing about the X...the _feel_ of it. It felt like cheap plastic. Like something I'd grabbed out of the impulse bin at Best Buy. I didn't expect that, given all the great reviews. I also didn't like having a screen cover. It was very reflective and felt _off_ somehow.
+I was wrong. I put the case on and knew immediately that I'd made a mistake. It ruined one of the best things about the X...the _feel_ of it. The case felt like cheap plastic. Like something I'd grabbed out of the impulse bin at Best Buy. I didn't expect that, given all the great reviews. I also didn't like having a screen cover. It was very reflective and felt _off_ somehow.
 
 Anyway, I'm sure it's a great case for someone who needs something like it. I sent mine back.
 
