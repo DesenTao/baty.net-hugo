@@ -2,7 +2,6 @@
 title: "Filesafe From Standard Notes"
 date: 2018-09-18T12:52:36-04:00
 lastmod: 2018-09-18T12:52:36-04:00
-draft: true
 description: ""
 tags: ["privacy"]
 ---
