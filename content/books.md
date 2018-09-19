@@ -372,6 +372,7 @@ I also try to keep my
 1. The Fifth Season by N.K. Jemisin (2018-08-01)
 1. The Obelisk Gate by N.K. Jemisin (2018-08-13)
 1. The Stone Sky by N.K. Jemisin (2018-09-02)
+1. Quick Service by P.G. Wodehouse (2018-09-08)
 
 
 
