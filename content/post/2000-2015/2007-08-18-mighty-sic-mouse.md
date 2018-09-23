@@ -11,7 +11,7 @@ Apple's Mighty Mouse is my favorite mouse. It feels good, and the little trackba
 
 So I took it apart&#8230; 
 
-[<img src="http://farm2.static.flickr.com/1086/1165057359_5a78b1bf75.jpg" width="500" height="333" alt="Mighty Mouse Repair" />][1] 
+[<img src="https://farm2.static.flickr.com/1086/1165057359_5a78b1bf75.jpg" width="500" height="333" alt="Mighty Mouse Repair" />][1] 
 
 A little alcohol (for both me and the tiny mouse rollers) and a few curse words later and it's working just lovely again. The only casualty was the grey ring for the bottom just will not go back on properly. I can live without it.
 

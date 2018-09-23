@@ -9,7 +9,7 @@ title: Opening Keynote with Dave Thomas
 url: /2006/opening-keynote-with-dave-thomas/
 ---
 
-[<img src="http://static.flickr.com/72/173279176_e5ccde9ec0_m.jpg" alt="" style="border: solid 2px #000000;" />][1]
+[<img src="https://static.flickr.com/72/173279176_e5ccde9ec0_m.jpg" alt="" style="border: solid 2px #000000;" />][1]
 
 <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/jbaty/173279176/">Opening Keynote with Dave Thomas</a></p> 
 

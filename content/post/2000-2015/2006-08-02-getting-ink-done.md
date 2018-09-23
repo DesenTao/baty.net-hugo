@@ -7,7 +7,7 @@ title: Getting ink done
 url: /2006/getting-ink-done/
 ---
 
-[<img src="http://static.flickr.com/97/205387993_ae02b72fc6_m.jpg" alt="" style="border: solid 2px #000000;" />][1]
+[<img src="https://static.flickr.com/97/205387993_ae02b72fc6_m.jpg" alt="" style="border: solid 2px #000000;" />][1]
 
 
 

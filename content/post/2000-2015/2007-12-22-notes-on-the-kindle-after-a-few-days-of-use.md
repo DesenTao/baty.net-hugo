@@ -10,7 +10,7 @@ title: Notes on the Kindle after a few days of use
 url: /2007/notes-on-the-kindle-after-a-few-days-of-use/
 ---
 
-My [Kindle][1] <img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=jackbaty-20&l=as2&o=1&a=B000FI73MA" alt="" width="1" height="1" border="0" />arrived last week, finally, and I’ll cut to the chase: I love it.
+My [Kindle][1] <img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.com/e/ir?t=jackbaty-20&l=as2&o=1&a=B000FI73MA" alt="" width="1" height="1" border="0" />arrived last week, finally, and I’ll cut to the chase: I love it.
 
 [<img src="https://farm3.static.flickr.com/2111/2130291410_3f2da4a0fe.jpg" alt="Kindle" width="500" height="375" />][2]
 
@@ -32,7 +32,7 @@ What a relief the Kindle turned out to be! Scoble and others trashed it in their
 
   * **Battery life**. The battery lasts forever, or at least quite a while, especially with wireless turned off.
 
-  * **Dictionary everywhere**. Select a line, click a button and the definition of every word on that line pops right up. I just may tackle [Infinite Jest][3] <img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=jacbatsay-20&l=as2&o=1&a=0316066524" alt="" width="1" height="1" border="0" />again. Nah.
+  * **Dictionary everywhere**. Select a line, click a button and the definition of every word on that line pops right up. I just may tackle [Infinite Jest][3] <img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.com/e/ir?t=jacbatsay-20&l=as2&o=1&a=0316066524" alt="" width="1" height="1" border="0" />again. Nah.
 
 ### Cons
 

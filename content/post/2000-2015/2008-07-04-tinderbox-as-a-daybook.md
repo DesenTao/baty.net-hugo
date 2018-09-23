@@ -16,7 +16,7 @@ One of the more useful things I've been doing with Tinderbox is to keep a runnin
 
 Here's what the overall outline looks like
 
-[<img src="http://farm4.static.flickr.com/3065/2637105574_891998beb1.jpg" width="500" height="424" alt="Tinderbox Daybook" />][3]
+[<img src="https://farm4.static.flickr.com/3065/2637105574_891998beb1.jpg" width="500" height="424" alt="Tinderbox Daybook" />][3]
 
 Any decent outliner could do this, but Tinderbox lets me tweak things as much or as little as I want. Prototypes and Actions make all the difference. I have a few tweaks that help keep things in order for me. Most of these come in the form of the tremendously useful Tinderbox feature, Prototypes.
 
@@ -45,7 +45,7 @@ This causes any notes within a worklog container to have its name set as the cur
   
 The *DaylogEntry prototype uses custom attributes set as Key Attributes for easy entry (Duration, JiraKey, and Tags). We use [JIRA][4] as an issue tracker and if I'm working on a specific issue I record the key with each note. Displaying it as part of the name in the outline helps when recording timesheets.&nbsp; Here's what a DaylogEntry note looks like.
 
-[<img src="http://farm4.static.flickr.com/3169/2636284017_484e4d4072_o.jpg" width="599" height="350" alt="Daylog entry" />][5]
+[<img src="https://farm4.static.flickr.com/3169/2636284017_484e4d4072_o.jpg" width="599" height="350" alt="Daylog entry" />][5]
 
 The process of adding daylog entries starts by creating a container for that day. This is done by hitting Return twice to create the container (which is automatically named with the current date) and then Command-Option-O to open the container in its own outline. After that for each entry it's a simple matter of hitting Return to start a new entry, then closing the window. Everything ends up named nicely and sorted by time of day.
 

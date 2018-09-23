@@ -9,7 +9,7 @@ url: /2006/what-pit-bulls-can-teach-us-about-profiling/
 
 <div>
   <p>
-    <a href="http://www.flickr.com/photos/jbaty/86942466/" title="photo sharing"><img src="http://static.flickr.com/43/86942466_b35548b9d4_m.jpg" alt="" /></a>
+    <a href="http://www.flickr.com/photos/jbaty/86942466/" title="photo sharing"><img src="https://static.flickr.com/43/86942466_b35548b9d4_m.jpg" alt="" /></a>
   </p></p> 
   
   <p>

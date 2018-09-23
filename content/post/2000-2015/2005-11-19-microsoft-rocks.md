@@ -11,6 +11,6 @@ This [funky little Microsoft ad][1] fills me with either hope or dread &#8211; I
   
 
   
-<img src="http://blog.jackbaty.com:8969/files/vsteamsystem.jpg" height="328" width="505" border="1" hspace="4" vspace="4" alt="Vsteamsystem" />
+<img src="https://blog.jackbaty.com:8969/files/vsteamsystem.jpg" height="328" width="505" border="1" hspace="4" vspace="4" alt="Vsteamsystem" />
 
  [1]: http://www.microsoft.com/korea/events/ready2005/vs_song.asp

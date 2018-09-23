@@ -14,7 +14,7 @@ In the fall of 1980 I was a junior in high school. I was a good student, but had
 
 But there was nothing more important than [Led Zeppelin][1]. By 1980, Led Zeppelin was not referred to as "The Biggest Band in the World" as much and folks seemed to consider them obsolete. That hardly mattered to my circle of friends. One of the first four Zeppelin records could always be found in the car's tape deck.
 
-[<img src="http://farm1.static.flickr.com/1/744409_84a08a9faa.jpg" width="500" height="333" alt="1972 Satellite Sebring" />][2]
+[<img src="https://farm1.static.flickr.com/1/744409_84a08a9faa.jpg" width="500" height="333" alt="1972 Satellite Sebring" />][2]
 
 <small>No doubt "Led Zeppelin II" was in the tape deck here.</small>
 

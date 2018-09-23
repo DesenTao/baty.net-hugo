@@ -7,7 +7,7 @@ title: More keyboard, less crumbs
 url: /2007/more-keyboard-less-crumbs/
 ---
 
-[<img src="http://farm2.static.flickr.com/1033/1176203319_eb7a7ad1ed.jpg" width="500" height="197" alt="New Apple Keyboard" />][1] 
+[<img src="https://farm2.static.flickr.com/1033/1176203319_eb7a7ad1ed.jpg" width="500" height="197" alt="New Apple Keyboard" />][1] 
 
 It's amazing how easy it is to just live with something that really isn't that great. Case in point, Apple's recent "crumb-catcher" keyboards have pretty much sucked. Other than the desk-goo aquarium nastiness, the keys have always felt somewhat mushy. There was a certain lack of confidence while using them. 
 
