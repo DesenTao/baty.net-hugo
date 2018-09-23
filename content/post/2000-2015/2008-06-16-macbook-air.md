@@ -9,7 +9,7 @@ title: MacBook Air
 url: /2008/macbook-air/
 ---
 
-<img src="http://baty.net/files/air.jpg" alt="air.jpg" border="0" width="498" height="59" />
+<img src="https://www.baty.net/files/air.jpg" alt="air.jpg" border="0" width="498" height="59" />
 
 I've wanted an Air since the day they were announced. So yesterday I bought one. But why? Well, other than the fact that I **really** wanted one, I do actually have a plan. 
 
@@ -25,4 +25,4 @@ The Air doesn't feel like a small laptop, it feels like a whole different class 
 
 **Update** Not so fast! The original Air turned out to be too slow for me, so I [Bought a new one][1]
 
- [1]: http://jackbaty.com/2008/12/macbook-air-round-2/
+ [1]: https://jackbaty.com/2008/12/macbook-air-round-2/

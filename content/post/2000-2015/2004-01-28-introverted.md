@@ -9,4 +9,4 @@ url: /2004/introverted/
 
 I think anyone who knows me will find this just a little funny&#8230;
 
-<img alt="branding.jpg" src="http://www.jackbaty.com/images/blog/branding.jpg" width="395" height="452" border="0" />
+<img alt="branding.jpg" src="https://www.jackbaty.com/images/blog/branding.jpg" width="395" height="452" border="0" />

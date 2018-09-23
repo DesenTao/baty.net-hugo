@@ -9,4 +9,4 @@ url: /2004/structured/
 
 It occurred to me just now that there's something not quite right about keeping one's [poetry][1] in a database.
 
- [1]: http://jackbaty.com/poems
+ [1]: https://jackbaty.com/poems

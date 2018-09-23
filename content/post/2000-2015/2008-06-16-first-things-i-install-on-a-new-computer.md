@@ -30,8 +30,8 @@ Here's the list of things I installed on day one of using the new Air&#8230;
   * [MacTex][15]
   * [TweetDeck][16]
 
- [1]: http://jackbaty.com/2009/11/things-i-install-on-a-new-computer-revisited-fall-2009/
- [2]: http://jackbaty.com/go/blog/entry/macbook-air/
+ [1]: https://jackbaty.com/2009/11/things-i-install-on-a-new-computer-revisited-fall-2009/
+ [2]: https://jackbaty.com/go/blog/entry/macbook-air/
  [3]: http://www.obdev.at/products/launchbar/
  [4]: http://eastgate.com/Tinderbox
  [5]: http://www.omnigroup.com/applications/omnifocus/

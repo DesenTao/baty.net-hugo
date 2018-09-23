@@ -10,7 +10,7 @@ tags:
 - social
 - Web
 thesis_post_image:
-- http://baty.net/files/friends_original.jpg
+- https://www.baty.net/files/friends_original.jpg
 thesis_post_image_alt:
 - Friends
 title: I need some new friends

@@ -6,7 +6,7 @@ date: 2009-02-21T16:46:45+00:00
 tags:
 - photography
 thesis_post_image:
-- http://baty.net/files/biogont-35mmzmsilver.jpg
+- https://www.baty.net/files/biogont-35mmzmsilver.jpg
 thesis_post_image_alt:
 - Zeiss Biogon 35
 title: Trying the Zeiss Biogon 35mm
@@ -19,4 +19,4 @@ Now that I'm back in the Leica fold I had to choose a 35mm lens. I want the Summ
 
 I needed to find some reasonable compromise between the little VC lens and the crazy-expensive Summicron ASPH. The Zeiss optics have always seemed to be highly-regarded, and not as costly as the Leicas. I found a Biogon 35 f/2 for $650. I should be getting it in the next few days. Assuming the optical quality is as good as everyone says and that it doesn't suffer from the "Zeiss Wobble," the only variable will be handling. I'm used to tab-focused lenses. The Biogon has a little gnurled "nub" instead.
 
-Can't wait to give it a try on the [M4](http://jackbaty.com/2009/02/light-tight-box-my-ass-2/)! If I don't love it, I'm going to sell the other kidney and get the Summicron. I hope it won't come to that.
+Can't wait to give it a try on the [M4](https://jackbaty.com/2009/02/light-tight-box-my-ass-2/)! If I don't love it, I'm going to sell the other kidney and get the Summicron. I hope it won't come to that.

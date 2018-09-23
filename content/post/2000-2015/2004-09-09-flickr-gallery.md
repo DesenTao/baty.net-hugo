@@ -11,4 +11,4 @@ After a little more tinkering, I've got a (barely) working prototype of a local 
 
 It ain't pretty, but it works. It grabs sets of images from my Flickr photos and displays them in a grid. The joy here will be that I control the presentation but leave the dirty work of organizing and uploading to the Flickr site. It's neat. Take a peek at the work in progress [here][1]
 
- [1]: http://jackbaty.com/flickr.php
+ [1]: https://jackbaty.com/flickr.php

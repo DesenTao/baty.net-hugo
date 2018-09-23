@@ -7,7 +7,7 @@ tags:
 - gear
 - photography
 thesis_post_image:
-- http://baty.net/files/bronica_sq-a.jpg
+- https://www.baty.net/files/bronica_sq-a.jpg
 title: Medium Format with the Bronica SQ-A
 url: /2009/medium-format-with-the-bronica-sq-a/
 ---
@@ -30,4 +30,4 @@ Now the only thing left is to find a scanner. My Nikon Coolscan 5000 can't scan 
 
 I have no idea what I'm doing, but it should be fun.
 
- [1]: http://baty.net/files/holding6x6.jpg
+ [1]: https://www.baty.net/files/holding6x6.jpg

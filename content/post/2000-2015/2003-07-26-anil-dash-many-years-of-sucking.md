@@ -18,7 +18,7 @@ url: /2003/anil-dash-many-years-of-sucking/
 
 I'd like to add to that the Date and Time dialog. As Steve pointed out the other day, the dialog for setting the date and time on Windows contains what is quite possibly the _ugliest_ analog clock ever rendered by a computer.
 
-<img alt="dateandtimedialog.jpg" src="http://jackbaty.com/images/blog/dateandtimedialog.jpg" width="404" height="341" border="0" />
+<img alt="dateandtimedialog.jpg" src="https://jackbaty.com/images/blog/dateandtimedialog.jpg" width="404" height="341" border="0" />
 
 See?
 

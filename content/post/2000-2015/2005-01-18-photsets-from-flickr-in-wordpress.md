@@ -14,4 +14,4 @@ I've created a WordPress "static" page template and tossed a call to the plugin 
 That will do just fine for now.
 
  [1]: http://www.worrad.com/archives/2004/11/30/flickr-gallery-wp-plugin/
- [2]: http://jackbaty.com/flickr/
+ [2]: https://jackbaty.com/flickr/

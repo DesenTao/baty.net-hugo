@@ -11,13 +11,13 @@ title: Yammering with Tinderbox
 url: /2008/yammering-with-tinderbox/
 ---
 
-<span class="drop_cap">W</span>e've been trying "Yammer":http://yammer.com/ at "the office":http://fusionary.com/ for short notes and intra-office updates. Yammer asks "What are you working on?" Fair question, but I already log my daily activity in a "Daybook":http://jackbaty.com/2008/07/tinderbox-as-a-daybook/ using Tinderbox so I thought it would save time if I could post those entries as updates directly to Yammer.
+<span class="drop_cap">W</span>e've been trying "Yammer":http://yammer.com/ at "the office":http://fusionary.com/ for short notes and intra-office updates. Yammer asks "What are you working on?" Fair question, but I already log my daily activity in a "Daybook":https://jackbaty.com/2008/07/tinderbox-as-a-daybook/ using Tinderbox so I thought it would save time if I could post those entries as updates directly to Yammer.
 
 Easy, here's how I did it. The whole process took me less than 15 minutes from concept to completion.
 
 First, I created an Agent which collects any note containing a tag labeled "YM."
 
-[<img src="http://baty.net/files//tinderbox-yammer-agent.jpg" alt="" title="tinderbox-yammer-agent" width="456" height="650" class="aligncenter size-full wp-image-2698" />][1]
+[<img src="https://www.baty.net/files//tinderbox-yammer-agent.jpg" alt="" title="tinderbox-yammer-agent" width="456" height="650" class="aligncenter size-full wp-image-2698" />][1]
 
 When the agent runs, it first calls out to a shell command which uses curl to post the note's title to Yammer via Yammer's API. Here's the action run by the Agent.
 
@@ -29,14 +29,14 @@ After the shell command, it removes the "YM" tag from the note, preventing subse
 
 To easily add the "YM" tag to a note, I created a Stamp.
 
-[<img src="http://baty.net/files//tinderbox-yammer-stamp.jpg" alt="" title="tinderbox-yammer-stamp" width="464" height="255" class="aligncenter size-full wp-image-2699" />][2]
+[<img src="https://www.baty.net/files//tinderbox-yammer-stamp.jpg" alt="" title="tinderbox-yammer-stamp" width="464" height="255" class="aligncenter size-full wp-image-2699" />][2]
 
 Wrapping it all up, to send a note to Yammer, I simply select the note and choose "Send to Yammer" from the menu and whoop, there it is.
 
-[<img src="http://baty.net/files//tinderbox-yammer-menu.jpg" alt="" title="tinderbox-yammer-menu" width="254" height="152" class="aligncenter size-full wp-image-2700" />][3]
+[<img src="https://www.baty.net/files//tinderbox-yammer-menu.jpg" alt="" title="tinderbox-yammer-menu" width="254" height="152" class="aligncenter size-full wp-image-2700" />][3]
 
 This makes me happy.
 
- [1]: http://baty.net/files//tinderbox-yammer-agent.jpg
- [2]: http://baty.net/files//tinderbox-yammer-stamp.jpg
- [3]: http://baty.net/files//tinderbox-yammer-menu.jpg
+ [1]: https://www.baty.net/files//tinderbox-yammer-agent.jpg
+ [2]: https://www.baty.net/files//tinderbox-yammer-stamp.jpg
+ [3]: https://www.baty.net/files//tinderbox-yammer-menu.jpg

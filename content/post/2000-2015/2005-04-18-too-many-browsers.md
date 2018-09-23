@@ -14,7 +14,7 @@ Funny thing about Macs is they remind you that software that "feels" good is mor
 So for now it's Safari for general browsing and Firefox for development. Of course the new version of Opera is almost here&#8230;
 
  [1]: http://www.mozilla.org/products/firefox/
- [2]: http://jackbaty.com/2004/11/06/hi-mac/
+ [2]: https://jackbaty.com/2004/11/06/hi-mac/
  [3]: http://www.apple.com/macosx/features/safari/
  [4]: http://www.omnigroup.com/applications/omniweb/
  [5]: http://web.archive.org/web/20111019171423/http://haoli.dnsalias.com:80/Saft/

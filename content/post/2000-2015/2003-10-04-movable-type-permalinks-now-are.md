@@ -12,4 +12,4 @@ After giving [T.M.][1] a lot of grief for not having permalinks on his blog, I r
 So, I've finally gotten around to what I hope will fix the permalink problem, uh, permanently. I've [summarized it on the wiki][2]
 
  [1]: http://www.tmcamp.com/
- [2]: http://www.jackbaty.com/wiki/index.php/MovableTypePermalinks
+ [2]: https://www.jackbaty.com/wiki/index.php/MovableTypePermalinks

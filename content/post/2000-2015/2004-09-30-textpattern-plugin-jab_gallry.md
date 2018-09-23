@@ -23,4 +23,4 @@ Anyhoo, you're welcome to try it yourself:
 
 As another test, here are the images tagged with "jess", which will link directly to the image page on Flickr&#8230;
 
- [1]: http://jackbaty.com/downloads/txpplugins/jab_gallry.txt
+ [1]: https://jackbaty.com/downloads/txpplugins/jab_gallry.txt

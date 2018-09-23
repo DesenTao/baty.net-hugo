@@ -21,4 +21,4 @@ Let's see how it goes.
 
 [**Update**] It didn't go very well. Let's move on.
 
- [1]: http://jackbaty.com/
+ [1]: https://jackbaty.com/

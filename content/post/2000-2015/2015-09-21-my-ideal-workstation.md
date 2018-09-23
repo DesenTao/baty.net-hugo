@@ -9,7 +9,7 @@ title: My Ideal Workstation
 url: /2015/my-ideal-workstation/
 ---
 
-<figure><a class="fancybox" title="" href="http://baty.net/img/2015/old-desk.jpg" rel="article0"><img src="http://baty.net/img/2015/old-desk.jpg" alt="" /></a>
+<figure><a class="fancybox" title="" href="https://www.baty.net/img/2015/old-desk.jpg" rel="article0"><img src="https://www.baty.net/img/2015/old-desk.jpg" alt="" /></a>
   
 <figcaption> 
 

@@ -11,4 +11,4 @@ I like to think that I have a sense for what upcoming films are going to be dogs
 
 Off to Netflix to update my Queue.
 
- [1]: http://www.jackbaty.com/archives/2003/10/05/school_of_rock
+ [1]: https://www.jackbaty.com/archives/2003/10/05/school_of_rock

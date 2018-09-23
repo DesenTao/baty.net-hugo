@@ -17,4 +17,4 @@ on my XP box. Terminals, Konquerer and anything else that'll compile.
   
 Here's a [screenshot][1].
 
- [1]: http://jackbaty.com/images/blog/kdeoncygwin.jpg
+ [1]: https://jackbaty.com/images/blog/kdeoncygwin.jpg

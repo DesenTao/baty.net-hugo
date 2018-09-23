@@ -13,7 +13,7 @@ Here are a couple films&mdash;I mean "movies"&mdash;that you might like.&nbsp; I
 
 <div>
   <div>
-    <img alt="cover_jesusson.jpg" src="http://www.jackbaty.com/blog/archives/images/cover_jesusson.jpg" width="63" height="90" border="0" /><br /><a href="http://us.imdb.com/Title?0186253">Jesus' Son</a>
+    <img alt="cover_jesusson.jpg" src="https://www.jackbaty.com/blog/archives/images/cover_jesusson.jpg" width="63" height="90" border="0" /><br /><a href="http://us.imdb.com/Title?0186253">Jesus' Son</a>
   </div>
   
   <div>
@@ -25,7 +25,7 @@ Here are a couple films&mdash;I mean "movies"&mdash;that you might like.&nbsp; I
 
 <div>
   <div>
-    <br /> <img alt="cover_nomansland.jpg" src="http://www.jackbaty.com/blog/archives/images/cover_nomansland.jpg" width="90" height="58" border="0" /><br /><a href="http://us.imdb.com/Title?0283509">No Man's Land</a>
+    <br /> <img alt="cover_nomansland.jpg" src="https://www.jackbaty.com/blog/archives/images/cover_nomansland.jpg" width="90" height="58" border="0" /><br /><a href="http://us.imdb.com/Title?0283509">No Man's Land</a>
   </div>
   
   <div>

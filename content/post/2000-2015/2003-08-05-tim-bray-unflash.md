@@ -17,5 +17,5 @@ This follows my [recent feelings][1] that many people actually _want_ to work wi
 
 Read [Tim's Article.][2]
 
- [1]: http://jackbaty.com/archives/000564.php
+ [1]: https://jackbaty.com/archives/000564.php
  [2]: http://www.tbray.org/ongoing/When/200x/2003/08/03/Unflash "ongoing - Unflash"

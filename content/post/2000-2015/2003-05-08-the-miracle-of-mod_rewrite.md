@@ -7,7 +7,7 @@ title: The miracle of mod_rewrite
 url: /2003/the-miracle-of-mod_rewrite/
 ---
 
-Moved a bunch of stuff around today, before I saw that some folks (including Robert Daeley, author of [PHPosxom][1]) had linked to my post about PHPetal earlier. The permalink for the original post was <http://www.jackbaty.com/index.php?entry=/geek/untitled.txt>. In the meantime I renamed the /geek directory to /dev. This of course broke the links. I'm learning the joys of mod_rewrite and this little bit fixed things right up.
+Moved a bunch of stuff around today, before I saw that some folks (including Robert Daeley, author of [PHPosxom][1]) had linked to my post about PHPetal earlier. The permalink for the original post was <https://www.jackbaty.com/index.php?entry=/geek/untitled.txt>. In the meantime I renamed the /geek directory to /dev. This of course broke the links. I'm learning the joys of mod_rewrite and this little bit fixed things right up.
 
 <pre>RewriteCond %{QUERY_STRING} ^entry=/geek/untitled.txt
 RewriteRule ^(.*)$

@@ -13,7 +13,7 @@ url: /2009/i-shoot-film/
 
 In 2005 I sold a nice Leica M6 TTL with a mint Summicron ASPH 35mm to some random stranger on eBay. Last week I corrected that mistake by buying another M6.
 
-<img src="http://baty.net/files//leica-m6-ttl.jpg" alt="leica-m6-ttl" title="leica-m6-ttl" width="500" height="333" class="aligncenter size-full wp-image-2826 frame" />
+<img src="https://www.baty.net/files//leica-m6-ttl.jpg" alt="leica-m6-ttl" title="leica-m6-ttl" width="500" height="333" class="aligncenter size-full wp-image-2826 frame" />
 
 <p class="photo_caption">
   Leica M6 TTL with 50mm Summicron
@@ -29,8 +29,8 @@ Recently I was going through a bunch of old shots and I noticed that many of my 
 
 I've put 3 rolls through the M6 this weekend, and processed one (Tri-X in [Diafine][5]). Some things just feel right and this camera is one of them. It's interesting, a week ago I was testing a $300 Photoshop plugin to make digital images look like Tri-X pushed to 1200. Guess I don't need that anymore.
 
- [1]: http://jackbaty.com/2003/10/with-a-rebel-yell/
- [2]: http://jackbaty.com/2003/12/chasing-my-tail-–-photographically-that-is/
- [3]: http://jackbaty.com/2004/01/equipment-wanker/
- [4]: http://jackbaty.com/2005/05/no-more-film/
- [5]: http://jackbaty.com/2004/06/diafine/
+ [1]: https://jackbaty.com/2003/10/with-a-rebel-yell/
+ [2]: https://jackbaty.com/2003/12/chasing-my-tail-–-photographically-that-is/
+ [3]: https://jackbaty.com/2004/01/equipment-wanker/
+ [4]: https://jackbaty.com/2005/05/no-more-film/
+ [5]: https://jackbaty.com/2004/06/diafine/

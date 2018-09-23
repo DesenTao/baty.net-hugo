@@ -13,4 +13,4 @@ url: /2006/best-smile/
 
 Jessica won the "Best Smile" award in her school's mock elections. I thought I'd post the above image to make sure the whole thing doesn't go to her head.
 
- [1]: http://jackbaty.com/assets/2006/12/28/jess-smile.jpg
+ [1]: https://jackbaty.com/assets/2006/12/28/jess-smile.jpg

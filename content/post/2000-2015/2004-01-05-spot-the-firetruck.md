@@ -11,4 +11,4 @@ Here's what happens when you're used to shutter lag and try to snap a speeding f
   
 
   
-<img alt="firetruck.jpg" src="http://www.jackbaty.com/images/blog/firetruck.jpg" width="499" height="341" border="0" />
+<img alt="firetruck.jpg" src="https://www.jackbaty.com/images/blog/firetruck.jpg" width="499" height="341" border="0" />

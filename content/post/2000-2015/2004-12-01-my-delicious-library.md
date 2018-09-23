@@ -13,4 +13,4 @@ I've got most of my movies and a few of my books imported, [take a look at my li
 
  [1]: http://www.delicious-monster.com/
  [2]: http://www.agencesi.com/DeliciousExporter/
- [3]: http://jackbaty.com/delicious
+ [3]: https://jackbaty.com/delicious

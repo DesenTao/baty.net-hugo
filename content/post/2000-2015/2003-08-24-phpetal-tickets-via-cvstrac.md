@@ -9,9 +9,9 @@ url: /2003/phpetal-tickets-via-cvstrac/
 
 Bug reports, feature requests and questions regarding [PHPetal][1] may now use [CVStrac][2] at the following address:
 
-<http://jackbaty.com/cgi-bin/cvstrac/phpetal>
+<https://jackbaty.com/cgi-bin/cvstrac/phpetal>
 
 CVStrac: "CVSTrac implements a low-ceremony bug tracking system for small to medium-sized projects using CVS for version control." At first it looks too simple, but I'm finding it very useful.
 
- [1]: http://jackbaty.com/apps/phpetal
+ [1]: https://jackbaty.com/apps/phpetal
  [2]: http://www.cvstrac.org

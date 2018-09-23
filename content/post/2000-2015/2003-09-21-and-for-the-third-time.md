@@ -9,4 +9,4 @@ url: /2003/and-for-the-third-time/
 
 It really happened again today. This time it was a nail. And yes, my head is becoming bald faster than the tires.
 
-<img src="http://jackbaty.com/images/blog/tire3.png" alt="Tired" border="0" />
+<img src="https://jackbaty.com/images/blog/tire3.png" alt="Tired" border="0" />

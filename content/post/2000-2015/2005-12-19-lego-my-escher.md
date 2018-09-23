@@ -9,6 +9,6 @@ url: /2005/lego-my-escher/
 
 [http://www.gravestmor.com/wp/archives/2005/12/12/lego-escher/][1]">Wow</a>
 
-<img src="http://web.archive.org/web/20130308014300/http://www.gravestmor.com:80/wp/archives/2005/12/12/lego-escher/"http://baty.net/files/escher\_lego.jpg">http://baty.net/files/escher\_lego.jpg</a>" alt="Escher Legos" />
+<img src="http://web.archive.org/web/20130308014300/http://www.gravestmor.com:80/wp/archives/2005/12/12/lego-escher/"https://www.baty.net/files/escher\_lego.jpg">https://www.baty.net/files/escher\_lego.jpg</a>" alt="Escher Legos" />
 
  [1]: http://web.archive.org/web/20130308014300/http://www.gravestmor.com:80/wp/archives/2005/12/12/lego-escher/

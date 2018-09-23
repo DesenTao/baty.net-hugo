@@ -7,7 +7,7 @@ title: Get well Maya
 url: /2003/get-well-maya/
 ---
 
-<img alt="maya-getwell.jpg" src="http://jackbaty.com/images/blog/maya-getwell.jpg" width="300" height="225" border="0" />
+<img alt="maya-getwell.jpg" src="https://jackbaty.com/images/blog/maya-getwell.jpg" width="300" height="225" border="0" />
   
 
   

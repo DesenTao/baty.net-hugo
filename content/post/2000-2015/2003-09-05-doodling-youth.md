@@ -11,4 +11,4 @@ I bought a little flatbed scanner today and just for fun started going through s
   
 
   
-<img src="http://jackbaty.com/images/blog/board-1982.jpg" width="385" height="257" alt="" border="0" />
+<img src="https://jackbaty.com/images/blog/board-1982.jpg" width="385" height="257" alt="" border="0" />

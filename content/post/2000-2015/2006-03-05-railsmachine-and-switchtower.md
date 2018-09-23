@@ -13,4 +13,4 @@ One of the things on my list this weekend was to write some fancy deployment/con
 
 [2]: <http://railsmachine.com/> 
 
-[3]: <http://jackbaty.com/2005/11/26/the-benefits-of-procrastination>
+[3]: <https://jackbaty.com/2005/11/26/the-benefits-of-procrastination>

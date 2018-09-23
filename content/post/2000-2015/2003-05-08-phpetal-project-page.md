@@ -9,4 +9,4 @@ url: /2003/phpetal-project-page/
 
 I've added a [separate page for PHPetal][1]. All relevant links and information will be found there.
 
- [1]: http://www.jackbaty.com/apps/phpetal/
+ [1]: https://www.jackbaty.com/apps/phpetal/

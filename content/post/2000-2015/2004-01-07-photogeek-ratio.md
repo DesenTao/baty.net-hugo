@@ -11,6 +11,6 @@ So why has the photo to geek ratio taken such a turn around here recently? I thi
 
 So I'm talking about photography instead. After all, that's only been around since the early 1800s.
 
-<img alt="1stphoto01.jpg" src="http://www.jackbaty.com/images/blog/1stphoto01.jpg" width="400" height="308" border="0" />
+<img alt="1stphoto01.jpg" src="https://www.jackbaty.com/images/blog/1stphoto01.jpg" width="400" height="308" border="0" />
 
 Ah well, it's new to me anyway.

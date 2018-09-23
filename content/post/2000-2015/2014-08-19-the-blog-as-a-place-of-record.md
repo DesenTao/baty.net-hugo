@@ -19,4 +19,4 @@ Dave Winer (<a href="http://scripting.com/2014/08/15/whatDoesABlogDoIn2014.html"
 
 I’m with Dave. The more I spread things out over various social networks, the more I miss having a place to call “home”.
 
-<a href="http://baty.net/" title="" target="_blank">Start Here</a>
+<a href="https://www.baty.net/" title="" target="_blank">Start Here</a>

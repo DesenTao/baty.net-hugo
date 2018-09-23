@@ -7,7 +7,7 @@ title: Goodbye Rags
 url: /2003/goodbye-rags/
 ---
 
-<img alt="jess-and-rags.jpg" src="http://www.jackbaty.com/images/jess-and-rags.jpg" width="200" height="150" border="0" />
+<img alt="jess-and-rags.jpg" src="https://www.jackbaty.com/images/jess-and-rags.jpg" width="200" height="150" border="0" />
 
 My mom's dog Rags passed away yesterday. She was 17 years old and playful till the end.
 

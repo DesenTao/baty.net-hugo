@@ -8,7 +8,7 @@ dsq_thread_id:
 tags:
 - gear
 thesis_post_image:
-- http://baty.net/files/das-keyboard-professional.jpg
+- https://www.baty.net/files/das-keyboard-professional.jpg
 title: Das Keyboard Professional
 url: /2009/das-keyboard-professional/
 ---

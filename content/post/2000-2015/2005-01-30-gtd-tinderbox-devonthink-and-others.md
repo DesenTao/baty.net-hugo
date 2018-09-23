@@ -47,7 +47,7 @@ As a side note, the newcomer here is DEVONthink. I’ve not even finished the de
 
  [1]: http://www.davidco.com
  [2]: http://www.moleskine.co.uk/gallery.html
- [3]: http://jackbaty.com/2005/01/10/my-version-of-the-hipster-pda/
+ [3]: https://jackbaty.com/2005/01/10/my-version-of-the-hipster-pda/
  [4]: http://www.eastgate.com/Tinderbox
  [5]: http://www.devon-technologies.com/products/devonthink/overview.php
  [6]: http://www.stevenberlinjohnson.com/movabletype/archives/000230.html

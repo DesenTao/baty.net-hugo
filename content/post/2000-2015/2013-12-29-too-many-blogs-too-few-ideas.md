@@ -23,6 +23,6 @@ There are a few others, but those have been mostly abandoned. I need to decide w
 
  [1]: http://baty.net
  [2]: http://www.eastgate.com/Tinderbox/
- [3]: http://jackbaty.com
+ [3]: https://jackbaty.com
  [4]: https://medium.com
  [5]: http://jackbaty.tumblr.com

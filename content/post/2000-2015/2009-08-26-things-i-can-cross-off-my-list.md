@@ -6,7 +6,7 @@ date: 2009-08-27T00:10:45+00:00
 tags:
 - productivity
 thesis_post_image:
-- http://baty.net/files/nops3.jpg
+- https://www.baty.net/files/nops3.jpg
 title: Things I can cross off my list
 url: /2009/things-i-can-cross-off-my-list/
 ---
@@ -21,7 +21,7 @@ The first thing to go are video games. I buy every major gaming platform that co
 
 I'm keeping the XBox 360 because I use that for watching Netflix movies. But does anyone want a like-new PS3? It's the first to go. Who cares about Blu-ray anyway?
 
- [1]: http://baty.net/2009/08/das-keyboard-professional/
- [2]: http://baty.net/2009/08/olympus-om-1n/
- [3]: http://baty.net/2009/08/m8-1m7/
- [4]: http://baty.net/2009/08/medium-format-with-the-hasselblad-500-cm/
+ [1]: https://www.baty.net/2009/08/das-keyboard-professional/
+ [2]: https://www.baty.net/2009/08/olympus-om-1n/
+ [3]: https://www.baty.net/2009/08/m8-1m7/
+ [4]: https://www.baty.net/2009/08/medium-format-with-the-hasselblad-500-cm/

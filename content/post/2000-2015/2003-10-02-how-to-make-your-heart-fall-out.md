@@ -11,4 +11,4 @@ No parent wants to see this. She's alright, just a bruised neck. I'll take longe
 
 <img src="/images/blog/jess-hurt.jpg" width="400" height="266" alt="ouch" border="0" />
 
- [1]: http://www.jackbaty.com/gallery/jess
+ [1]: https://www.jackbaty.com/gallery/jess

@@ -8,7 +8,7 @@ url: /2003/mousaka-and-more/
 ---
 
 <div>
-  <img src="http://www.jackbaty.com/blog/archives/images/phHellas.jpg" alt="phHellas.jpg" width="200" height="147" border="0" />
+  <img src="https://www.jackbaty.com/blog/archives/images/phHellas.jpg" alt="phHellas.jpg" width="200" height="147" border="0" />
 </div>
 
 Spent the evening with Mary in Detroit’s Greektown – a first for me. We ate at Hellas. Never having eaten Greek food before, I had no idea what to expect. It was fantastic. My favorite was the Octopus – we ordered seconds. Then came Mousaka, some Saganaki and Grape leaves. (Didn’t care for the grape leaves.) We had 3 different desserts – Baklava, rice pudding and some custard thingy which was awesome.

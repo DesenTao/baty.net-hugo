@@ -23,4 +23,4 @@ If anyone's interested, I've got a few [more photos here][3]
 
  [1]: /images/blog/zimandjack.jpg
  [2]: /images/blog/zimhome.jpg
- [3]: http://jackbaty.com/gallery/zim/
+ [3]: https://jackbaty.com/gallery/zim/

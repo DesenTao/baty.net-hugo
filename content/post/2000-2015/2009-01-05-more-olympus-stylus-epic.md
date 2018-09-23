@@ -6,7 +6,7 @@ date: 2009-01-06T00:18:32+00:00
 tags:
 - photography
 thesis_post_image:
-- http://baty.net/files//20090105-004.jpg
+- https://www.baty.net/files//20090105-004.jpg
 thesis_post_image_alt:
 - Olympus Stylus Epics
 thesis_post_image_frame:
@@ -21,4 +21,4 @@ I've [written before][1] about why I like them so much. Today, it still boils do
 
 It's the shortest distance I know of between my pocket and taking a photo.
 
- [1]: http://jackbaty.com/2004/07/olympus-stylus-epic/
+ [1]: https://jackbaty.com/2004/07/olympus-stylus-epic/

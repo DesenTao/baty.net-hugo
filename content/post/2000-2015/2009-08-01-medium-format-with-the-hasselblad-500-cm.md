@@ -9,7 +9,7 @@ tags:
 - gear
 - photography
 thesis_post_image:
-- http://baty.net/files/hasselblad-500cm-01.jpg
+- https://www.baty.net/files/hasselblad-500cm-01.jpg
 title: Medium Format with the Hasselblad 500 C/M
 url: /2009/medium-format-with-the-hasselblad-500-cm/
 ---

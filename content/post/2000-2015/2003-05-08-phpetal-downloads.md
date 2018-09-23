@@ -9,4 +9,4 @@ url: /2003/phpetal-downloads/
 
 I just tossed together a download page for PHPetal. Until I get an anonymous cvs repository set up, the latest build of PHPetal will be [available here][1]
 
- [1]: http://www.jackbaty.com/downloads/
+ [1]: https://www.jackbaty.com/downloads/

@@ -11,7 +11,7 @@ title: A Photograph of a Shoe
 url: /2012/201211a-photograph-of-a-shoe/
 ---
 
-<a href="http://jackbaty.com/photography/2012/11/edward-weston-life-work" data-link-type="external"></a>Spending time with a <a href="http://jackbaty.com/photography/2012/11/edward-weston-life-work" data-link-type="external">copy of Edward Weston: Life Work</a>&nbsp;has been inspiring. I'm normally not interested in still life photography, but Weston's photos are so good and the book's reproductions are so well-done that I'm thinking still life is worth considering.&nbsp;</p> 
+<a href="https://jackbaty.com/photography/2012/11/edward-weston-life-work" data-link-type="external"></a>Spending time with a <a href="https://jackbaty.com/photography/2012/11/edward-weston-life-work" data-link-type="external">copy of Edward Weston: Life Work</a>&nbsp;has been inspiring. I'm normally not interested in still life photography, but Weston's photos are so good and the book's reproductions are so well-done that I'm thinking still life is worth considering.&nbsp;</p> 
 
 
 ![][1] 

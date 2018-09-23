@@ -17,7 +17,7 @@ creating friendly URLs. I didn't want the address for my blog to be
   
 
   
-<http://jackbaty.com/cgi-bin/blosxom.cgi>. Once again, Apache's
+<https://jackbaty.com/cgi-bin/blosxom.cgi>. Once again, Apache's
   
 
   
@@ -41,11 +41,11 @@ prepending "cgi-bin/blosxom.cgi" to the requested document. So, if I
   
 
   
-type <http://jackbaty.com/some_story.html>, the server actually serves
+type <https://jackbaty.com/some_story.html>, the server actually serves
   
 
   
-up <http://jackbaty.com/cgi-bin/blosxom.cgi/some_story.html>, which is a
+up <https://jackbaty.com/cgi-bin/blosxom.cgi/some_story.html>, which is a
 
 valid blosxom URL. Neato, eh?
 

@@ -30,5 +30,5 @@ Onward!
  [1]: http://www.fusionary.com/
  [2]: http://expressionengine.com/
  [3]: http://fusionary.com/
- [4]: http://jackbaty.com/jack/blog
- [5]: http://jackbaty.com/jack/poems
+ [4]: https://jackbaty.com/jack/blog
+ [5]: https://jackbaty.com/jack/poems

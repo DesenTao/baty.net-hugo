@@ -22,6 +22,6 @@ I still feel stupid, but I've apparently got a lot of company.
   
 
   
-<img alt="swimmingpool.jpg" src="http://www.jackbaty.com/images/blog/swimmingpool.jpg" width="269" height="400" border="0" />
+<img alt="swimmingpool.jpg" src="https://www.jackbaty.com/images/blog/swimmingpool.jpg" width="269" height="400" border="0" />
 
  [1]: http://www.imdb.com/title/tt0324133/

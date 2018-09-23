@@ -12,7 +12,7 @@ url: /2007/notes-on-the-kindle-after-a-few-days-of-use/
 
 My [Kindle][1] <img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=jackbaty-20&l=as2&o=1&a=B000FI73MA" alt="" width="1" height="1" border="0" />arrived last week, finally, and I’ll cut to the chase: I love it.
 
-[<img src="http://farm3.static.flickr.com/2111/2130291410_3f2da4a0fe.jpg" alt="Kindle" width="500" height="375" />][2]
+[<img src="https://farm3.static.flickr.com/2111/2130291410_3f2da4a0fe.jpg" alt="Kindle" width="500" height="375" />][2]
 
 What a relief the Kindle turned out to be! Scoble and others trashed it in their reviews. Amazon’s own ratings are still hovering at 3 stars. I was worried that I’d made a mistake. I didn’t. The Kindle is terrific. Following are some notes after a few days of using it. I’ll split them into pros and cons to keep things easy.
 
@@ -48,7 +48,7 @@ Notice I didn’t spend a lot of time discussing what the Kindle _doesn’t_ hav
 
 ### Conclusion
 
-[<img src="http://farm3.static.flickr.com/2407/2129513735_94a708867f_m.jpg" alt="Kindle" width="240" height="180" />][4]
+[<img src="https://farm3.static.flickr.com/2407/2129513735_94a708867f_m.jpg" alt="Kindle" width="240" height="180" />][4]
 
 As I said at the beginning, I love my Kindle. It’s not nearly as ugly as I thought it would be based on the photos. But, it is a version 1.0 product that could use a number of improvements. It’s also a version 1.0 product that is disruptive, highly useful, and like nothing else I’ve seen or used.
 

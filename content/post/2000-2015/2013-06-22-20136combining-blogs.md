@@ -11,4 +11,4 @@ After hearing from several people that they don't visit my site because I have "
 
 To that end, I've stopped posting to this /photography/ section and moved everything up to the main [jackbaty.com][1] area (aka /blog/). I don't get enough traffic for it to affect too many people, and I hope this will be better for those few who do visit.&nbsp;
 
- [1]: http://jackbaty.com/
+ [1]: https://jackbaty.com/

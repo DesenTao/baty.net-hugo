@@ -13,6 +13,6 @@ Speaking of VIM, I've been doing most of my code editing using GVIM on OS X. VIM
 
 In my efforts to become more productive, I may have passed the point of diminishing returns. As an experiment, I'm going to dial down the complexity until essential functionality starts falling off, then stop.
 
- [1]: http://jackbaty.com/2005/01/16/simple-is-better/
+ [1]: https://jackbaty.com/2005/01/16/simple-is-better/
  [2]: http://www.mutt.org/
  [3]: http://www.vim.org
