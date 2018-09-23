@@ -81,13 +81,14 @@ Here's the software that I currently use on a regular basis.
 
 ## Photography
 ### Software
-- [Lightroom][lightroom] – Photo library and Raw file editor.
+- [Capture One][captureone] – Photo library and Raw file editor.
 - [Photo Mechanic][photomechanic] – Ingesting, tagging, renaming photos from
   cards. Nothing is faster or easier. I’d like to not need it, but trying to
   caption and tag dozens of photos at a time is an exercise in frustration in
   any other app.
 - [SilverFast][silverfast] – Scanning software for the Epson. I can’t tell you
   how much I hate it, but it gets me the best results.
+- [Alien Skin Exposure][alienskin] - Wonderful presets and a nice editing experience.
 - [Luminar][luminar] - I use Luminar as an editor plugin for Lightroom. Some of
   the filters are too much fun to resist.
 
@@ -304,6 +305,9 @@ Whew!
 
 ## Changelog
 
+### Sunday, September 23, 2018
+- Replaced Lightroom with Capture One
+
 ### Friday, July 13, 2018
 - Removed 12.9" iPad Pro. I gave it to my dad.
 - Restored 1Password to its rightful place. Remind me to never switch password managers.
@@ -344,10 +348,11 @@ Whew!
 [tinderbox]: http://www.eastgate.com/Tinderbox/
 [thebrain]: http://www.thebrain.com/products/thebrain
 [ynab]: https://www.youneedabudget.com/
-[lightroom]: https://www.adobe.com/products/photoshop-lightroom-classic.html
+[captureone]: https://www.phaseone.com/en/Products/Software/Capture-One-Pro/Highlights.aspx
 [photomechanic]: http://www.camerabits.com/tour-v5/
 [silverfast]: http://www.silverfast.com/
 [luminar]: https://skylum.com/luminar
+[alienskin]: https://www.alienskin.com/exposure/
 [1password]: https://1password.com
 
 
