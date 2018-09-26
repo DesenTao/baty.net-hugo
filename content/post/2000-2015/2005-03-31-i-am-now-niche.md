@@ -8,10 +8,10 @@ url: /2005/i-am-now-niche/
 ---
 
 <div>
-  <br /> <a href="http://www.flickr.com/photos/stewart/7954868/" title="photo sharing"><img src="http://photos4.flickr.com/7954868_4dbd2fa19f_m.jpg" alt="" /></a></p> 
+  <br /> <a href="https://www.flickr.com/photos/stewart/7954868/" title="photo sharing"><img src="https://photos4.flickr.com/7954868_4dbd2fa19f_m.jpg" alt="" /></a></p> 
   
   <p>
-    <a href="http://www.flickr.com/photos/stewart/7954868/">Flickr photo by Stewart</a>
+    <a href="https://www.flickr.com/photos/stewart/7954868/">Flickr photo by Stewart</a>
   </p>
 </div>
 

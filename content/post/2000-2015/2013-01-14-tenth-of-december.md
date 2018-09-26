@@ -17,7 +17,7 @@ url: /2013/tenth-of-december/
         <div>
           <div>
             <div>
-              <a href="http://www.amazon.com/Tenth-December-Stories-George-Saunders/dp/0812993802%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Djackbaty-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0812993802" target="new"><br /> <img src="http://ecx.images-amazon.com/images/I/41J%2BCVyTftL.jpg" /><br /> </a>
+              <a href="http://www.amazon.com/Tenth-December-Stories-George-Saunders/dp/0812993802%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Djackbaty-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0812993802" target="new"><br /> <img src="https://ecx.images-amazon.com/images/I/41J%2BCVyTftL.jpg" /><br /> </a>
             </div>
             
             <div>

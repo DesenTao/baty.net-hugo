@@ -8,10 +8,10 @@ url: /2005/turning-the-table/
 ---
 
 <div>
-  <br /> <a href="http://www.flickr.com/photos/jbaty/6451771/" title="photo sharing"><img src="http://photos4.flickr.com/6451771_623958dedb_m.jpg" alt="" /></a></p> 
+  <br /> <a href="https://www.flickr.com/photos/jbaty/6451771/" title="photo sharing"><img src="https://photos4.flickr.com/6451771_623958dedb_m.jpg" alt="" /></a></p> 
   
   <p>
-    <a href="http://www.flickr.com/photos/jbaty/6451771/">Turning the table</a>
+    <a href="https://www.flickr.com/photos/jbaty/6451771/">Turning the table</a>
   </p>
 </div>
 

@@ -19,7 +19,7 @@ url: /2013/forty-tales-from-the-afterlives/
         <div>
           <div>
             <div>
-              <a href="http://www.amazon.com/Sum-Forty-Afterlives-David-Eagleman/dp/0307389936%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Djackbaty-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0307389936" target="new"><br /> <img src="http://ecx.images-amazon.com/images/I/41P--cAgKBL.jpg" /><br /> </a>
+              <a href="http://www.amazon.com/Sum-Forty-Afterlives-David-Eagleman/dp/0307389936%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Djackbaty-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0307389936" target="new"><br /> <img src="https://ecx.images-amazon.com/images/I/41P--cAgKBL.jpg" /><br /> </a>
             </div>
             
             <div>

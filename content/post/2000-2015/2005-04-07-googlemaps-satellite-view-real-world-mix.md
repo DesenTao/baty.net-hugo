@@ -8,10 +8,10 @@ url: /2005/googlemaps-satellite-view-real-world-mix/
 ---
 
 <div>
-  <br /> <a href="http://www.flickr.com/photos/kokogiak/8648226/" title="photo sharing"><img src="http://photos4.flickr.com/8648226_9a2133eba1_m.jpg" alt="" /></a></p> 
+  <br /> <a href="https://www.flickr.com/photos/kokogiak/8648226/" title="photo sharing"><img src="https://photos4.flickr.com/8648226_9a2133eba1_m.jpg" alt="" /></a></p> 
   
   <p>
-    <a href="http://www.flickr.com/photos/kokogiak/8648226/">Image by alan taylor</a>
+    <a href="https://www.flickr.com/photos/kokogiak/8648226/">Image by alan taylor</a>
   </p>
 </div>
 

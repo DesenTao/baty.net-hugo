@@ -7,7 +7,7 @@ title: 'Review: The Deep Whatsis'
 url: /2016/review-the-deep-whatsis/
 ---
 
-<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/17316555"><img src="http://d.gr-assets.com/books/1360646271m/17316555.jpg" alt="The Deep Whatsis" border="0" /></a>
+<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/17316555"><img src="https://d.gr-assets.com/books/1360646271m/17316555.jpg" alt="The Deep Whatsis" border="0" /></a>
   
 [The Deep Whatsis][1] by [Peter Mattei][2]
   

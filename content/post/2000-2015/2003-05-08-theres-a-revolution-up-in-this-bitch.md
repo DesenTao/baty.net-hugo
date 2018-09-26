@@ -8,7 +8,7 @@ url: /2003/theres-a-revolution-up-in-this-bitch/
 ---
 
 <div>
-  <img class="alignnone" src="http://ia.imdb.com/media/imdb/01/I/41/95/80m.jpg" alt="" width="94" height="140" />
+  <img class="alignnone" src="https://ia.imdb.com/media/imdb/01/I/41/95/80m.jpg" alt="" width="94" height="140" />
 </div>
 
 I’ve seen Undercover Brother twice, and it’s **still** funny.

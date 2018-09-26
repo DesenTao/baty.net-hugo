@@ -8,7 +8,7 @@ title: 'Review: Hyperion'
 url: /2016/review-hyperion/
 ---
 
-<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/77566"><img src="http://d.gr-assets.com/books/1405546838m/77566.jpg" alt="Hyperion" border="0" /></a>
+<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/77566"><img src="https://d.gr-assets.com/books/1405546838m/77566.jpg" alt="Hyperion" border="0" /></a>
   
 [Hyperion][1] by [Dan Simmons][2]
   
