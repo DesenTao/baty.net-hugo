@@ -22,5 +22,5 @@ url: /2009/fixing-copy-address-in-mail-on-10-6/
 </div>
 
 <p style="font-size: 10px;">
-  <a href="http://posterous.com">Posted via web</a> from <a href="http://jackbaty.posterous.com/fixing-copy-address-in-mail-on-106">Jack Baty's posterous</a>
+  <a href="https://posterous.com">Posted via web</a> from <a href="http://jackbaty.posterous.com/fixing-copy-address-in-mail-on-106">Jack Baty's posterous</a>
 </p>

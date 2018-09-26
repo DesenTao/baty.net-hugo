@@ -7,7 +7,7 @@ title: Posting from Posterous
 url: /2008/posting-from-posterous/
 ---
 
-Can Posterous (<http://posterous.com/>) really auto-post to my blog? Let's see...
+Can Posterous (<https://posterous.com/>) really auto-post to my blog? Let's see...
 
 
 **Well there's your answer**

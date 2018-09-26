@@ -15,4 +15,4 @@ One of the reasons Diafine is so great is that it's not sensitive to time or tem
 
 Agitation was 5 inversions every minute. 
 
-<img src="http://posterous.com/getfile/files.posterous.com/jackbaty/phHRqaR5gDzH3zKeg4USRnU0L2OaR4XTQ1lW4aL1gxOFMcysDCnVINA9s5F5/3258693751_e43bd8c772.jpg" width="500" height="332" />
+<img src="https://posterous.com/getfile/files.posterous.com/jackbaty/phHRqaR5gDzH3zKeg4USRnU0L2OaR4XTQ1lW4aL1gxOFMcysDCnVINA9s5F5/3258693751_e43bd8c772.jpg" width="500" height="332" />
