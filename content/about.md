@@ -14,11 +14,14 @@ something built for the web or mobile devices you should [send us a note](mailto
 
 Outside of helping create digital products at Fusionary, I have a few interests:
 
-- **Photography**. I call it “photography” but it’s more like “camera collecting.” Most of my photographs are shot on film, processed and printed in my darkroom.
+- **Photography**. I call it “photography” but it’s more like “camera collecting.” Many of my photographs are shot on film, processed and printed in my darkroom or scanned.
 - **Analog things**. Digital is where we are, but I still enjoy using things like film cameras, vinyl records, manual typewriters, notebooks and fancy pens and pencils.
 - **Now**. I keep a page updated with things I’m tinkering with at the moment at https://baty.net/now
 
 You can email me at [jack@baty.net](mailto:jack@baty.net).
+
+Or, if you have a ProtonMail account and prefer more secure communication: [jbaty@protonmail.com](mailto:jbaty@protonmail.com)
+
 
 **I don't have a plan**.
 
