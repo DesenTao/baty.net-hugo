@@ -1,0 +1,23 @@
+{{ define "content" }}
+<section id="posts" class="post">
+    {{/* (index .Site.Paginate) */}}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "micro") }}
+    {{ range $paginator.Pages }}
+    <article class="h-entry micropost bg-white" itemscope itemtype="https://schema.org/Article">
+        <header class="micro-header">
+        <div class="post-micro">
+            <span class="dt-published post-time"><a class="post-link" href="{{.URL}}">{{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}</a> </span>
+        </div>
+        </header>
+        <div class="post-content">
+            {{ .Content }}
+        </div>
+    </article>
+    {{ end }}
+</section>
+
+<!-- pagination -->
+{{ partial "pagination.html" . }}
+
+{{ end }}
+

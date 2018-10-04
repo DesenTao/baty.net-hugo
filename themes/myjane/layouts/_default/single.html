@@ -1,0 +1,28 @@
+{{ define "content" -}}
+<article class="h-entry post bg-white" itemscope itemtype="https://schema.org/Article">
+  <!-- post-header -->
+  <header class="post-header">
+    <h1 class="post-title p-name">{{ .Title }}</h1>
+    {{ partial "post/i18nlist.html" . }}
+    <div class="post-meta">
+      <span class="post-time dt-published" pubdate itemprop="datePublished">
+        {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+      </span>
+    </div>
+  </header>
+
+  <!-- TOC -->
+  {{ partial "post/toc.html" . }}
+
+  <!-- Content -->
+  <div class="post-content">
+      {{ .Content }}
+  </div>
+
+  <!-- Copyright -->
+  {{ partial "post/copyright.html" . }}
+
+  <!-- Reward -->
+  {{ partial "post/reward.html" . }}
+</article>
+{{- end }}
