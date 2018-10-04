@@ -9,7 +9,7 @@ This is my "Life Stack". I used to call it "Stuff I Use" but "Life Stack" sounds
 cooler. Either way, it's a list of things that I use to manage my life or that I
 simply enjoy using.
 
-Last updated **June 2018**
+Last updated **October 2018**
 
 ## Computing
 ![MacBook Pro](macbook-pro-300x188.jpg)
@@ -19,9 +19,10 @@ Last updated **June 2018**
 
 - Apple MacBook Pro (2016) – Great screen, awful keyboard, useless Touch Bar.
 - Lenovo ThinkPad X1 Carbon (2015) – New to me. Running Linux. So far so good, except for the trackpad.
-- Apple 27” Retina iMac (2015) – A monster with a big, beautiful screen.
-- Apple iPad Pro 10.5″ – I am not an iPad-only person. Not sure I ever will be but this is a great device anyway.
-- iPhone X – It’s an iPhone. A really nice one. I put it in the Computing category but it goes in nearly every category.
+- Apple 27" Retina iMac (2017) – A monster with a big, beautiful screen.
+- Apple 27" Retina iMac (2015) – An older monster with a big, beautiful screen.
+- Apple iPad Pro 10.5" – I am not an iPad-only person. Not sure I ever will be but this is a great device anyway.
+- iPhone X – It's an iPhone. A really nice one. I put it in the Computing category but it goes in nearly every category.
 - Fujitsu ScanSnap – Super-fast and easy document scanning
 
 
@@ -29,22 +30,13 @@ Last updated **June 2018**
 
 Here's the software that I currently use on a regular basis.
 
-- Emacs/[Spacemacs][spacemacs] – Once I discovered Org mode and Spacemacs I went
-  all-in with Emacs. Spacemacs lets me use my beloved Vim keybindings, with the
-  ridiculous power that comes with Emacs. I use Emacs for writing, publishing,
-  programming, email, task management, planning, and anything else I can squeeze
-  into it.
-- [Org-mode][orgmode] – While Org mode is technically just part of Emacs, I feel it needs
-  its own entry here. I live in Org mode. I can’t even begin to convey how
-  capable, configurable, and generally useful it is for just about everything I
-  need a computer for.
+
 - [DEVONthink][devonthink] – Email Archives, Manuals, PDFs, Scanned documents. Years of
   archives remain searchable and synced across devices.
-- [Tinderbox][tinderbox] – I have used and loved Tinderbox for at least a decade
-  now. Visual mapping, managing notes, timelines, etc. This is for when I need
-  to _visualize_ and think about a collection of notes.
 - [TheBrain][thebrain] – "No limits Mindmapping" is right. I have years of
   "thoughts" collected and interlinked in TheBrain.
+- [Bear](https://bear.app) - Bear is the app for notes that ticks more boxes than the 
+  many other options I've tried. If I'm not going to use Org-mode, I'll use Bear.
 - [YNAB][ynab] (You Need a Budget) – The only budgeting software I've loved.
   YNAB can be a financial life-changer. It was for me.
 - [Vim][vim] – I’ve used VIM for as long as I can remember. For a number of years it
@@ -82,6 +74,7 @@ Here's the software that I currently use on a regular basis.
 ## Photography
 ### Software
 - [Capture One][captureone] – Photo library and Raw file editor.
+- Apple Photos - For iPhone shots and keepers exported from Capture One
 - [Photo Mechanic][photomechanic] – Ingesting, tagging, renaming photos from
   cards. Nothing is faster or easier. I’d like to not need it, but trying to
   caption and tag dozens of photos at a time is an exercise in frustration in
@@ -91,6 +84,7 @@ Here's the software that I currently use on a regular basis.
 - [Alien Skin Exposure][alienskin] - Wonderful presets and a nice editing experience.
 - [Luminar][luminar] - I use Luminar as an editor plugin for Lightroom. Some of
   the filters are too much fun to resist.
+- [Affinity Photo](https://affinity.serif.com/en-gb/photo/) - Great for when I need to get "fancy". I don't enjoy Photoshop and this is a wonderful alternative.
 
 ### Cameras
 I love cameras. Most of mine are old film cameras. Here’s what I’m using currently.
@@ -102,6 +96,12 @@ I love cameras. Most of mine are old film cameras. Here’s what I’m using cur
 Medium format film cameras. Some cameras are iconic for a reason. The Hasselblad
 V series are iconic, beautiful, and superbly engineered. They also produce
 wonderful images, which is why they are my favorite all-around cameras.
+
+**Leica Q**
+
+![Leica Q](leicaq.jpg)
+
+The Leica Q is the first digital camera/lens combination from Leica that is both full-frame and even remotely affordable. 
 
 **Leica M6**
 
@@ -304,6 +304,11 @@ Whew!
 
 
 ## Changelog
+
+### Thursday, October 04, 2018
+- Added Leica Q
+- Added Photos and Affinity Photo
+- Deleted Emacs and friends :(
 
 ### Sunday, September 23, 2018
 - Replaced Lightroom with Capture One
