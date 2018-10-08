@@ -194,3 +194,12 @@ ol.commentlist .avatar {
 .archive-post-time {
     font-size: smaller;
 }
+
+#section-intro {
+padding-left: 30px;
+padding-right: 40px;
+}
+
+#section-intro a {
+color: #c05b4d;
+}

@@ -1,5 +1,8 @@
 {{ define "content" }}
 <section id="posts" class="post">
+<div id="section-intro">
+{{ with .Site.GetPage "/micro" }}{{ .Content }}{{ end }}
+</div>
     {{/* (index .Site.Paginate) */}}
     {{ $paginator := .Paginate (where .Data.Pages "Type" "micro") }}
     {{ range $paginator.Pages }}
