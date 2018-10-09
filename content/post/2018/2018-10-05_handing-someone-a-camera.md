@@ -6,7 +6,7 @@ tags: ["photography"]
 categories: ["Photography"]
 ---
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/jbaty/30169729857/in/dateposted-public/" title="Jack at JT&#x27;s (2018)"><img src="https://farm2.staticflickr.com/1962/30169729857_38137ae97b_c.jpg" width="800" height="640" alt="Jack at JT&#x27;s (2018)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/jbaty/30169729857/in/dateposted-public/" title="Jack at JT&#x27;s (2018)"><img src="https://farm2.staticflickr.com/1962/30169729857_38137ae97b_c.jpg" width="800" height="640" alt="Jack at JT&#x27;s (2018)"></a>
 
 When carrying a fully manual film camera, it's difficult to ask someone take my picture without first running a 10-minute training session on focusing, etc.
 
