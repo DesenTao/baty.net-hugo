@@ -1,6 +1,6 @@
 ---
 title: "Making org-journal more like Day One"
-date: 2018-10-26T09:02:57-04:00
+date: 2018-10-26T10:02:57-04:00
 description: ""
 tags: ["journaling","dayone","orgmode"]
 ---
