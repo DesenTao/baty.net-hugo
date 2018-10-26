@@ -25,7 +25,7 @@ I'm trying to level the playing field between Day One and Org Mode. To this end,
 
 First, I've made it easier to drag and drop images into entries. To do this, I
 used a [bit of code from John
-Kitchen](http://kitchingroup.cheme.cmu.edu/blog/2015/07/10/Drag-images-and-files-onto-org-mode-and-insert-a-link-to-them/). Still not as easy as Day One, but better than it was.
+Kitchin](http://kitchingroup.cheme.cmu.edu/blog/2015/07/10/Drag-images-and-files-onto-org-mode-and-insert-a-link-to-them/). Still not as easy as Day One, but better than it was.
 
 Next, I added a quick way to insert the current weather conditions into an
 entry. This is done using [wu](https://github.com/sramsay/wu), a command-line
