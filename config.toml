@@ -1,5 +1,5 @@
 baseURL = "https://www.baty.net/"
-title = "Jack Baty's Blog"
+title = "Jack Baty's Weblog"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "myjane"
