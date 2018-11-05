@@ -373,6 +373,8 @@ I also try to keep my
 1. The Obelisk Gate by N.K. Jemisin (2018-08-13)
 1. The Stone Sky by N.K. Jemisin (2018-09-02)
 1. Quick Service by P.G. Wodehouse (2018-09-08)
+1. Sandman Slim by Richard Kadrey (2018-10-02)
+1. The Bullet Journal Method by Ryder Carroll (2018-10-29)
 
 
 
