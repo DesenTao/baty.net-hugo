@@ -14,7 +14,7 @@ url: /2012/do-you-wanna-get-funky-with-me/
 
 A story about courage.
 
-<img src="http://i1.ytimg.com/vi/tjDRY8nr3Sk/hqdefault.jpg" /> 
+<img src="https://i1.ytimg.com/vi/tjDRY8nr3Sk/hqdefault.jpg" /> 
 
 My friend Brad and I wanted to buy Peter Brown's album, "Do You
 Wanna Get Funky With Me." I don't remember why we wanted
