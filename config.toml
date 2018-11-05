@@ -50,7 +50,7 @@ micro = "/micro/:year/:slug"
   name = "Micro"
   weight = 30
   identifier = "micro"
-  url = "/micro/"
+  url = "https://micro.baty.net/"
 [[menu.main]]
   name = "Life Stack"
   weight = 30
