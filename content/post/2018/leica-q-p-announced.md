@@ -11,3 +11,5 @@ tags: ["leica","photography"]
 > Leica Q-P gives the photographer the creative freedom that makes the difference.
 
 And of course I _just_ bought a used Leica Q a month ago. The good news is that the new Q-P only offers a few (admittedly nice) cosmetic updates. Technical specs are the same. Sure is pretty, though.
+
+[Preorder yours for only $4,995](https://www.leicacamerausa.com/leica-q-p-compact-digital-camera.html)
