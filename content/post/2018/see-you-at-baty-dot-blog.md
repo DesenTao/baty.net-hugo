@@ -10,4 +10,4 @@ be posting almost entirely either there or at [micro.blog](https://micro.baty.ne
 Yes, I've [been here before](https://www.baty.net/2017/why-did-blot-have-to-be-so-good/) but here we are.
 
 I may replace this page with a summary and links to everything else, including [this site's
-archives](https://www.baty.net/2017/why-did-blot-have-to-be-so-good/).
+archives](https://www.baty.net/post/)
