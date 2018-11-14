@@ -11,25 +11,25 @@ sidebar: true
 
 **Hello, I'm Jack Baty**.
 
-I’m a partner at **[Fusionary Media](https://fusionary.com)**, a terrific digital studio in Grand Rapids, MI. If your company needs something built for the web or mobile devices you should [send us a note](mailto:info@fusionary.com).
+I’m a partner at **[Fusionary Media](https://fusionary.com)**, a terrific digital studio in Grand Rapids, MI (Est. 1995). If your company needs something built for the web or mobile devices you should [send us a note](mailto:info@fusionary.com).
 
-Mostly, I blog at **[Baty.blog](https://baty.blog/)** ✒️.
+Mostly, I blog at **[Baty.blog](https://baty.blog/)** ✒️
 
-You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️.
+You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️
 
-If you have a ProtonMail account and prefer more secure communication: [jbaty@protonmail.com](mailto:jbaty@protonmail.com) ✉️.
+If you use ProtonMail account and prefer a more secure method: [jbaty@protonmail.com](mailto:jbaty@protonmail.com) ✉️
 
 
 I have a few other interests:
 
-**Photography**. I call it “photography” but it’s more like “camera collecting.” I shoot both film and digital and upload to [Flickr](https://flickr.com/photos/jbaty) 📷.
+**Photography**. I call it “photography” but it’s more like “camera collecting.” I shoot both film and digital and upload to [Flickr](https://flickr.com/photos/jbaty) 📷
 
 **Analog things**. Digital is where we are, but I still enjoy using things like film cameras, vinyl records, manual typewriters, notebooks and fancy pens and pencils.
 
 I also keep a ["Now" page](https://baty.net/now) ⏱ with a list of more specific current interests and projects.
 
 
-**I don't have a plan**.
+**Do not expect consistency**.
 
 ## Places you can find me online
 
