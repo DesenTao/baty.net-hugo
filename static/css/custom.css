@@ -210,3 +210,8 @@ padding-right: 40px;
 #section-intro a {
 color: #c05b4d;
 }
+
+#your-host {
+  float: right;
+  padding: 0 0 10px 20px;
+}

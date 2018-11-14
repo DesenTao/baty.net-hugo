@@ -1,5 +1,5 @@
 baseURL = "https://www.baty.net/"
-title = "Jack Baty's Weblog"
+title = "Jack Baty"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "myjane"
@@ -37,10 +37,10 @@ micro = "/micro/:year/:slug"
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "Home"
+  name = "Blog"
   weight = 10
-  identifier = "home"
-  url = "/"
+  identifier = "Blog"
+  url = "https://www.baty.blog/"
 [[menu.main]]
   name = "Archives"
   weight = 20
@@ -51,21 +51,6 @@ micro = "/micro/:year/:slug"
   weight = 30
   identifier = "micro"
   url = "https://micro.baty.net/"
-[[menu.main]]
-  name = "Life Stack"
-  weight = 30
-  identifier = "lifestack"
-  url = "/lifestack/"
-[[menu.main]]
-  name = "About"
-  weight = 40
-  identifier = "about"
-  url = "/about/"
-[[menu.main]]
-  name = "Photographs"
-  weight = 40
-  identifier = "photos"
-  url = "https://photos.baty.net/"
 [[menu.main]]
   name = "Elsewhere"
   weight = 50
