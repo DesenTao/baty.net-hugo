@@ -13,7 +13,7 @@ sidebar: true
 
 I’m a partner at **[Fusionary Media](https://fusionary.com)**, a terrific digital studio in Grand Rapids, MI (Est. 1995). If your company needs something built for the web or mobile devices you should [send us a note](mailto:info@fusionary.com).
 
-Mostly, I blog at **[Baty.blog](https://baty.blog/)** ✒️
+Mostly, I blog at **[Baty.blog](https://www.baty.blog/)** ✒️
 
 You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️
 
