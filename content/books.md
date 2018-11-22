@@ -375,6 +375,8 @@ I also try to keep my
 1. Quick Service by P.G. Wodehouse (2018-09-08)
 1. Sandman Slim by Richard Kadrey (2018-10-02)
 1. The Bullet Journal Method by Ryder Carroll (2018-10-29)
+1. Holding Dear: The Value of Real by Steve Leveen (2018-11-10)
+1. The Joy of Missing Out by Christina Cook (2018-11-19)
 
 
 
