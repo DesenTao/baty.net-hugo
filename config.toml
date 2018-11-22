@@ -51,12 +51,6 @@ micro = "/micro/:year/:slug"
   weight = 30
   identifier = "micro"
   url = "https://micro.baty.net/"
-[[menu.main]]
-  name = "Elsewhere"
-  weight = 50
-  identifier = "social"
-  url = "/social/"
-
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
