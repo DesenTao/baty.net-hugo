@@ -17,7 +17,7 @@ I blog at **[Baty.blog](https://www.baty.blog/)** ✒️
 
 You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️
 
-If you use ProtonMail and prefer a more secure method: [jbaty@protonmail.com](mailto:jbaty@protonmail.com) ✉️
+If you use ProtonMail and prefer a more secure method: [jbaty@pm.me](mailto:jbaty@pm.me) ✉️
 
 I have a few other interests:
 
