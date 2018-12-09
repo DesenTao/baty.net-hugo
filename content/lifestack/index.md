@@ -1,7 +1,7 @@
 ---
-date: 2018-06-01
-title: My Life Stack
-comment: false
+title: "My Life Stack"
+date: 2018-12-09
+description: a list of things that I use to manage my life or that I simply enjoy using
 ---
 
 ## What's a "Life Stack"?
@@ -9,7 +9,7 @@ This is my "Life Stack". I used to call it "Stuff I Use" but "Life Stack" sounds
 cooler. Either way, it's a list of things that I use to manage my life or that I
 simply enjoy using.
 
-Last updated **October 2018**
+Last updated **December 2018**
 
 ## Computing
 ![MacBook Pro](macbook-pro-300x188.jpg)
@@ -21,7 +21,7 @@ Last updated **October 2018**
 - Lenovo ThinkPad X1 Carbon (2015) – New to me. Running Linux. So far so good, except for the trackpad.
 - Apple 27" Retina iMac (2017) – A monster with a big, beautiful screen.
 - Apple 27" Retina iMac (2015) – An older monster with a big, beautiful screen.
-- Apple iPad Pro 10.5" – I am not an iPad-only person. Not sure I ever will be but this is a great device anyway.
+- Apple iPad Pro 12.9" (2018) – I am not an iPad-only person. Not sure I ever will be but this is a great device anyway. The Apple Pencil #2 and the way it integrates with the new iPad is terrific.
 - iPhone X – It's an iPhone. A really nice one. I put it in the Computing category but it goes in nearly every category.
 - Fujitsu ScanSnap – Super-fast and easy document scanning
 
@@ -30,15 +30,18 @@ Last updated **October 2018**
 
 Here's the software that I currently use on a regular basis.
 
-
+- [Tinderbox][tinderbox] -- "The Tool For Notes" indeed. And so much more.
 - [DEVONthink][devonthink] – Email Archives, Manuals, PDFs, Scanned documents. Years of
   archives remain searchable and synced across devices.
 - [TheBrain][thebrain] – "No limits Mindmapping" is right. I have years of
   "thoughts" collected and interlinked in TheBrain.
-- [Bear](https://bear.app) - Bear is the app for notes that ticks more boxes than the 
+- [Bear](https://bear.app) -- Bear is the app for notes that ticks more boxes than the 
   many other options I've tried. If I'm not going to use Org-mode, I'll use Bear.
-- [YNAB][ynab] (You Need a Budget) – The only budgeting software I've loved.
-  YNAB can be a financial life-changer. It was for me.
+- [Things 3](things3) -- I waffle between Things and OmniFocus but for now I'm using Things.
+- [BBEdit][bbedit] – As much as I try to remain in Emacs for editing, whenever I need
+  something fancy done with a lot of text, I turn to BBEdit. It’s the editor
+  I’ve used longest. In fact, it may be the piece of software I’ve used longest,
+  period. It remains truly great.
 - [Vim][vim] – I’ve used VIM for as long as I can remember. For a number of years it
   was my only editor, but today I use it mostly for quick local edits or for
   editing files on servers.
@@ -46,10 +49,6 @@ Here's the software that I currently use on a regular basis.
   laying out documents that I use it anyway. Mostly, this is done via Org mode
   but I also use LaTeX directly when I feel like being tweaky.
 - [iTerm2][iterm2] – I spend a lot of time in a terminal, and I use iTerm2 for that.
-- [BBEdit][bbedit] – As much as I try to remain in Emacs for editing, whenever I need
-  something fancy done with a lot of text, I turn to BBEdit. It’s the editor
-  I’ve used longest. In fact, it may be the piece of software I’ve used longest,
-  period. It remains truly great.
 - [Firefox][firefox] – My recent foray into Linux has made me ditch Safari as my primary
   web browser. Firefox is fast enough and I like their stance on privacy and
   security. They seem to have the right idea, anyway.
@@ -64,16 +63,16 @@ Here's the software that I currently use on a regular basis.
 - [Dropbox][dropbox] – Steve Jobs famously called Dropbox “a feature, not a product”. True
   or not, Dropbox is a pretty damn good feature. I still don’t trust iCloud. I
   trust Dropbox.
-- [1Password][1password] - Password management
+- [1Password][1password] -- Password management
 - [Chronosync][chronosync] – Helps me keep good drive and file backups
-- [Alfred][alfred] - Launcher and generally useful utility for all sorts of automation and shortcuts
+- [Alfred][alfred] -- Launcher and generally useful utility for all sorts of automation and shortcuts
 - [Keyboard Maestro][keyboardmaestro] – Macro wizardry. I wildly useful tool for
   automating things. I've also started using it as my text snippet expander and
   it works great for that, too.
 
 ## Photography
 ### Software
-- [Capture One][captureone] – Photo library and Raw file editor.
+- [Capture One Pro][captureone] – Photo library and Raw file editor.
 - Apple Photos - For iPhone shots and keepers exported from Capture One
 - [Photo Mechanic][photomechanic] – Ingesting, tagging, renaming photos from
   cards. Nothing is faster or easier. I’d like to not need it, but trying to
@@ -112,11 +111,11 @@ the M6 nearby. Sometimes I pick it up just to feel it in my hands. Leicas really
 are special cameras. They don't really help me make better images, but they
 still make me feel like I could.
 
-**Fujifilm X-Pro2**
+**Fujifilm X-T3**
 
-![Fujifilm X-Pro2](fuji-x-pro2.jpg)
+![Fujifilm X-T3](fuji-xt3.png)
 
-Great all-around digital camera with rangefinder sensibilities. I have a few awesome lenses to go with it.
+Great all-around digital camera. I have a few awesome lenses to go with it.
 
 - [23mm f/2 R WR][23mm] – Small, light, fast enough. It’s my “standard” lens.
 - [16mm f/1.4 R WR][16mm] – I sure love this lens. Who knew I was a wide-angle guy?
@@ -163,7 +162,6 @@ Like I said, I love cameras. Here's a list of the ones I currently own but don't
 - **Olympus OM–1n** – 35mm film camera
 - **Olympus OM–2n** – 35mm film camera
 - **Olympus Stylus Epic** – Compact 35mm film camera
-- **Ricoh GR1** – Terrific point and shoot 35mm film camera. Mine is broken :(.
 
 ### Photo Hardware
 
@@ -229,6 +227,7 @@ And the rest...
 - **Apple AirPods** – The most Apple-like device Apple has released in a while. They
   work great. I use them primarily for when I’m walking or when making phone
   calls.
+- **Apple HomePod** -- I ended up with a couple of these. I prefer the sound to the Sonos and don't really use the "smart" stuff at all. I stream from Roon.
 
 
 [regap1]: https://www.amazon.com/REGA-Rega-RP1-Turntable-Gray/dp/B004B3GELG
@@ -305,6 +304,11 @@ Whew!
 
 ## Changelog
 
+### Saturday, December 08, 2018
+- Added new iPad 12.9"
+- Added HomePods
+- Replaced X-Pro2 with X-T3
+
 ### Thursday, October 04, 2018
 - Added Leica Q
 - Added Photos and Affinity Photo
@@ -359,5 +363,8 @@ Whew!
 [luminar]: https://skylum.com/luminar
 [alienskin]: https://www.alienskin.com/exposure/
 [1password]: https://1password.com
+[things3]: https://culturedcode.com/things/
+
+
 
 

@@ -14,6 +14,7 @@ sidebar: true
 I’ve been a partner at **[Fusionary Media](https://fusionary.com)** since 1995. Fusionary is a terrific digital studio in Grand Rapids, MI. If your business needs something built for the web or mobile devices you should [send us a note](mailto:info@fusionary.com).
 
 I blog at **[Baty.blog](https://www.baty.blog/)** ✒️
+(also at **[jack.baty.net](https://jack.baty.net/)**)
 
 You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️
 
@@ -51,3 +52,9 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 - [@jackbaty](https://twitter.com/jackbaty) on Twitter, although I'm no longer participating there 
 - ~~[Jackbaty](https://www.facebook.com/jackbaty) on Facebook. I believe Facebook is actively harming society and no longer have an account there.~~
 - ~~[MrJackBaty](https://www.instagram.com/mrjackbaty) on Instagram. (See Facebook)~~
+
+
+### Miscellany
+
+- [Books I've Read](/books)
+- [My Life Stack](https://www.baty.blog/lifestack/)

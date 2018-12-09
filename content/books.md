@@ -6,6 +6,8 @@ type: page
 sidebar: true
 ---
 
+# Books I've Read
+
 This is a list of the books that I have read. I'm sure I've missed or forgotten
 many from before I began tracking them. I didn't record the dates until 2010. Books logged before then use
 1999-01-01 as the date.
@@ -14,6 +16,37 @@ I also try to keep my
 [Goodreads Profile](https://www.goodreads.com/user/show/1259384-jack-baty) up to date.
 
 1. Trixie Belden and the Red Trailer Mystery by Julie Campbell (1999-01-01)
+1. The Engineer of Human Souls by Josef Škvorecký (1999-01-01)
+1. The Talisman by Stephen King (1999-01-01)
+1. It by Stephen King (1999-01-01)
+1. Christine by Stephen King (1999-01-01)
+1. Four Past Midnight by Stephen King (1999-01-01)
+1. I Think I Don't Remember by Art Buchwald (1999-01-01)
+1. The Ceremonies by T.E.D. Klein (1999-01-01)
+1. The Main Experiment by Christopher Hodder-Williams (1999-01-01)
+1. The Boat by Lothar-Günther Buchheim (1999-01-01)
+1. Dune Messiah by Frank Herbert (1999-01-01)
+1. The Adam Experiment by Geoffrey S. Simmons (1999-01-01)
+1. Exhibt by Leslie Hollander (1999-01-01)
+1. Souls in Metal: an Anthology of Futures by Mike Ashley (1999-01-01)
+1. Coma by Robin Cook (1999-01-01)
+1. Systemic Shock by Dean Ing (1999-01-01)
+1. Athabasca by Alistair MacLean (1999-01-01)
+1. The Wolfen by Whitley Strieber (1999-01-01)
+1. If You Could See Me Now by Peter Straub (1999-01-01)
+1. Dreamsnake by Vonda N. McIntyre (1999-01-01)
+1. The Two Faces of Tomorrow by James P. Hogan (1999-01-01)
+1. The Macintosh Way by Guy Kawasaki (1999-01-01)
+1. Pet Sematary by Stephen King (1999-01-01)
+1. Cold Fire by Dean Koontz (1999-01-01)
+1. The Fifth Horseman by Larry Collins (1999-01-01)
+1. Seductions by Ray Garton (1999-01-01)
+1. Without Feathers by Woody Allen (1999-01-01)
+1. Job: A Comedy of Justice by Robert A. Heinlein (1999-01-01)
+1. Go Down, Moses by William Faulkner (1999-01-01)
+1. One Flew Over the Cuckoo's Nest by Ken Kesey (1999-01-01)
+1. A Time to Kill by John Grisham (1999-01-01)
+1. The Dark Half by Stephen King (1999-01-01)
 1. Gravity's Rainbow by Thomas Pynchon (1999-01-01)
 1. The War of Art by Steven Pressfield (1999-01-01)
 1. Letter to a Christian Nation by Sam Harris (1999-01-01)
@@ -377,7 +410,9 @@ I also try to keep my
 1. The Bullet Journal Method by Ryder Carroll (2018-10-29)
 1. Holding Dear: The Value of Real by Steve Leveen (2018-11-10)
 1. The Joy of Missing Out by Christina Cook (2018-11-19)
-
+1. Elevation by Stephen King (2018-11-22)
+1. The Collapsing Empire by John Scalzi (2018-12-01)
+1. The Consuming Fire by John Scalzi (2018-12-07)
 
 
 
