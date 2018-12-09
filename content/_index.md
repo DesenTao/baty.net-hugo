@@ -13,8 +13,7 @@ sidebar: true
 
 I’ve been a partner at **[Fusionary Media](https://fusionary.com)** since 1995. Fusionary is a terrific digital studio in Grand Rapids, MI. If your business needs something built for the web or mobile devices you should [send us a note](mailto:info@fusionary.com).
 
-I blog at **[Baty.blog](https://www.baty.blog/)** ✒️
-(also at **[jack.baty.net](https://jack.baty.net/)**)
+I blog at **[jack.baty.net](https://jack.baty.net/)** ✒️
 
 You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️
 
@@ -30,13 +29,14 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 
 **Do not expect consistency**.
 
-## Places you can find me online
+## Miscellany
 
 ### Weblogs and other publishing experiments
 
-- [baty.blog](https://www.baty.blog/) - My primary blog this week
+- [jack.baty.net](https://jack.baty.net/) - My blog
+- [baty.blog](https://www.baty.blog/) - Another blog using [Blot](https://blot.im), which is a fun way to publish
 - [micro.baty.net](https://micro.baty.net/) - A Microblog published with [Micro.blog](https://micro.blog/)
-- [baty.net](https://www.baty.net/) - You're soaking in it
+- [baty.net](https://www.baty.net/) - The hub of my online presence. You're soaking in it. 
 - [tilde.club/~jbaty](http://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
 
 
@@ -44,17 +44,17 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 
 - [Flickr](https://flickr.com/photos/jbaty/) - I've been posting photos to Flickr since forever. Flickr is still the best photo sharing service, and I'm looking forward to what's next now that it's owned by SmugMug.
 
-### Social
+### Social Media
 
 - [@jackbaty@mastodon.technology](https://mastodon.technology/@jackbaty) on Mastodon
 - [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
 - [Goodreads](https://goodreads.com/jackbaty) for sharing what I'm reading
 - [@jackbaty](https://twitter.com/jackbaty) on Twitter, although I'm no longer participating there 
-- ~~[Jackbaty](https://www.facebook.com/jackbaty) on Facebook. I believe Facebook is actively harming society and no longer have an account there.~~
-- ~~[MrJackBaty](https://www.instagram.com/mrjackbaty) on Instagram. (See Facebook)~~
+- ~~[Jackbaty](https://www.facebook.com/jackbaty) on Facebook. I believe Facebook is actively harmful so I left~~
+- ~~[MrJackBaty](https://www.instagram.com/mrjackbaty) on Instagram (See Facebook)~~
 
 
-### Miscellany
+### Other
 
 - [Books I've Read](/books)
 - [My Life Stack](https://www.baty.blog/lifestack/)
