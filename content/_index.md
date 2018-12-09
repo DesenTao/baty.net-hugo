@@ -33,12 +33,12 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 
 ### Weblogs and other publishing experiments
 
+- [baty.net](https://www.baty.net/) - The hub of my online presence. You're soaking in it. 
 - [jack.baty.net](https://jack.baty.net/) - My blog
 - [baty.blog](https://www.baty.blog/) - Another blog using [Blot](https://blot.im), which is a fun way to publish
 - [micro.baty.net](https://micro.baty.net/) - A Microblog published with [Micro.blog](https://micro.blog/)
-- [baty.net](https://www.baty.net/) - The hub of my online presence. You're soaking in it. 
+- [wiki.baty.net](https://wiki.baty.net) - An experiment using [Tiddlywiki](https://tiddlywiki.com/)
 - [tilde.club/~jbaty](http://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
-
 
 ### Photography
 
@@ -47,8 +47,6 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 ### Social Media
 
 - [@jackbaty@mastodon.technology](https://mastodon.technology/@jackbaty) on Mastodon
-- [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
-- [Goodreads](https://goodreads.com/jackbaty) for sharing what I'm reading
 - [@jackbaty](https://twitter.com/jackbaty) on Twitter, although I'm no longer participating there 
 - ~~[Jackbaty](https://www.facebook.com/jackbaty) on Facebook. I believe Facebook is actively harmful so I left~~
 - ~~[MrJackBaty](https://www.instagram.com/mrjackbaty) on Instagram (See Facebook)~~
@@ -57,4 +55,7 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 ### Other
 
 - [Books I've Read](/books)
-- [My Life Stack](https://www.baty.blog/lifestack/)
+- [My Life Stack](/lifestack/)
+- [Where my avatar came from](/avatar)
+- [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
+- [Goodreads](https://goodreads.com/jackbaty) for sharing what I'm reading
