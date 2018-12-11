@@ -13,7 +13,7 @@ sidebar: true
 
 I’ve been a partner at **[Fusionary Media](https://fusionary.com)** since 1995. Fusionary is a terrific digital studio in Grand Rapids, MI. If your business needs something built for the web or mobile devices you should [send us a note](mailto:info@fusionary.com).
 
-I blog at **[jack.baty.net](https://jack.baty.net/)** ✒️
+I blog at **[www.baty.blog](https://www.baty.blog/)** ✒️
 
 You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️
 
@@ -34,8 +34,8 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 ### Weblogs and other publishing experiments
 
 - [baty.net](https://www.baty.net/) - The hub of my online presence. You're soaking in it. 
-- [jack.baty.net](https://jack.baty.net/) - My blog
-- [baty.blog](https://www.baty.blog/) - Another blog using [Blot](https://blot.im), which is a fun way to publish
+- [baty.blog](https://www.baty.blog/) - My blog (Uses [Blot](https://blot.im), which is a fun way to publish)
+- [jack.baty.net](https://jack.baty.net/) -  A WordPress blog I can't seem to let go of
 - [micro.baty.net](https://micro.baty.net/) - A Microblog published with [Micro.blog](https://micro.blog/)
 - [wiki.baty.net](https://wiki.baty.net) - An experiment using [Tiddlywiki](https://tiddlywiki.com/)
 - [tilde.club/~jbaty](http://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
