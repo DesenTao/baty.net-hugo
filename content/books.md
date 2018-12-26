@@ -413,6 +413,7 @@ I also try to keep my
 1. Elevation by Stephen King (2018-11-22)
 1. The Collapsing Empire by John Scalzi (2018-12-01)
 1. The Consuming Fire by John Scalzi (2018-12-07)
+1. Killers of the Flower Moon: The Osage Murders and the Birth of the FBI by David Grann (2017)
 
 
 
