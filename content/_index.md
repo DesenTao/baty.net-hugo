@@ -15,6 +15,8 @@ I’ve been a partner at **[Fusionary Media](https://fusionary.com)** since 1995
 
 I blog at **[jack.baty.net](https://jack.baty.net/)** ✒️
 
+I've also been having a ball at my new wiki: [Rudimentary Lathe](https://rudimentarylathe.org).
+
 You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️
 
 If you use ProtonMail and prefer a more secure method: [jbaty@pm.me](mailto:jbaty@pm.me) ✉️
@@ -35,9 +37,9 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 
 - [baty.net](https://www.baty.net/) - The hub of my online presence. You're soaking in it. 
 - [jack.baty.net](https://jack.baty.net/) - My blog
+- [rudimentarylathe.org](https://rudimentarylathe.org/) - An experimental wiki (using Tiddlywiki)
 - [baty.blog](https://www.baty.blog/) - An experimental blog using [Blot](https://blot.im), which is a fun way to publish
 - [micro.baty.net](https://micro.baty.net/) - A Microblog published with [Micro.blog](https://micro.blog/)
-- [wiki.baty.net](https://wiki.baty.net) - An experiment using [Tiddlywiki](https://tiddlywiki.com/)
 - [tilde.club/~jbaty](http://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
 
 ### Photography

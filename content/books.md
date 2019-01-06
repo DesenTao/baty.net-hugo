@@ -4,6 +4,7 @@ date: 2015-02-04T02:09:15+00:00
 title: Books I've Read
 type: page
 sidebar: true
+toc: false
 ---
 
 # Books I've Read
