@@ -15,3 +15,11 @@
   float: right;
   padding: 0 0 10px 20px;
 }
+
+.archive .archive-post {
+  padding: 2px 0px 0px;
+  border-bottom: none;
+  font-size: 0.8em;
+  display: table;
+  width: 100%;
+}
