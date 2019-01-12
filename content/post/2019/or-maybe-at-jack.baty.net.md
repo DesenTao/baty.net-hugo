@@ -2,7 +2,7 @@
 title: "...or maybe at jack.baty.net"
 date: 2019-01-12T09:03:16-04:00
 tags: ["blogging"]
-permalink: /2019/or-maybe-jack-baty-net
+slug: or-maybe-jack-baty-net
 description: 
 ---
 
