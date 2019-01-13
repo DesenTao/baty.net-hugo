@@ -28,3 +28,8 @@ figcaption {
   font-size: 0.8em;
   color: #8a8a8a;
 }
+
+img.right-thumb {
+  float:right;
+  margin: 5px;
+}

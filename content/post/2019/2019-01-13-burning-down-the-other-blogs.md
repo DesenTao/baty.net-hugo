@@ -5,6 +5,9 @@ description: "All of my other blogs are gone"
 tags: ["blogging"]
 ---
 
+<img src="/img/2019/2019-01-13-yaoqi-lai-burn-it-down-thumb.jpg" alt="Match with
+flame" class="right-thumb"/>
+
 [Jean MacDonald](https://micro.blog/macgenie) invited me to be on the [Micro Monday
 podcast](http://monday.micro.blog/2019/01/06/episode-jack-baty.html) recently.
 It was fun. We talked about blogging, of course, and at one point I said
