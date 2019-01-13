@@ -12,7 +12,7 @@ categories:
 ---
 Sometimes I pour a dram of Scotch or two, put on Roger Waters&#8217; &#8220;Amused To Death&#8221;, turn it up loud, and just listen to the entire thing with my eyes closed.<figure class="wp-block-image">
 
-<img src="https://jack.baty.net/wp-content/uploads/2018/08/AmusedToDeath.jpg" alt="" class="wp-image-1669" srcset="https://jack.baty.net/wp-content/uploads/2018/08/AmusedToDeath.jpg 500w, https://jack.baty.net/wp-content/uploads/2018/08/AmusedToDeath-150x150.jpg 150w, https://jack.baty.net/wp-content/uploads/2018/08/AmusedToDeath-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure> 
+<img src="/wp-content/uploads/2018/08/AmusedToDeath.jpg" alt="" class="wp-image-1669" srcset="/wp-content/uploads/2018/08/AmusedToDeath.jpg 500w, /wp-content/uploads/2018/08/AmusedToDeath-150x150.jpg 150w, /wp-content/uploads/2018/08/AmusedToDeath-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure> 
 
 _&#8220;Perfect Sense, Part 1&#8221;_
 

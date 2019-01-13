@@ -13,7 +13,7 @@ tags:
 ---
 [transfer.sh][1]:
 
-<img src="https://jack.baty.net/wp-content/uploads/2018/06/Screen-Shot-on-2018-06-25-at-181953.png" alt="Screen Shot on 2018 06 25 at 18 19 53" title="Screen Shot on 2018-06-25 at 18:19:53.png" border="0" width="299" height="155" />
+<img src="/wp-content/uploads/2018/06/Screen-Shot-on-2018-06-25-at-181953.png" alt="Screen Shot on 2018 06 25 at 18 19 53" title="Screen Shot on 2018-06-25 at 18:19:53.png" border="0" width="299" height="155" />
 
 This should come in handy.
 

@@ -10,7 +10,7 @@ tags:
   - linux
 
 ---
-<img src="https://jack.baty.net/wp-content/uploads/2018/02/manjaro-i3-desktop.png" alt="Manjaro i3 desktop" title="manjaro-i3-desktop.png" border="0" width="1200" height="683" />
+<img src="/wp-content/uploads/2018/02/manjaro-i3-desktop.png" alt="Manjaro i3 desktop" title="manjaro-i3-desktop.png" border="0" width="1200" height="683" />
 
 After spending a few days with Ubuntu and Gnome (see [My Linux Experience Day Two][1]) I wanted a chance to finally try a &#8220;tiling&#8221; window manager. I&#8217;ve heard that they&#8217;re difficult at first but awesome once you&#8217;ve gotten the hang of it. Sounds right up my alley, so I installed [xmonad][2], rebooted, logged in, and&#8230;
 

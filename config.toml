@@ -42,15 +42,20 @@ micro = "/micro/:year/:slug"
   identifier = "archives"
   url = "/post/"
 [[menu.main]]             # config your menu              # 配置目录
-  name = "Blog"
+  name = "About"
   weight = 20
-  identifier = "Blog"
-  url = "https://jack.baty.net/"
+  identifier = "about"
+  url = "/about/"
 [[menu.main]]
   name = "Microblog"
   weight = 30
   identifier = "micro"
   url = "https://micro.baty.net/"
+[[menu.main]]
+  name = "Wiki"
+  weight = 30
+  identifier = "wiki"
+  url = "https://rudimentarylathe.org/"
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda

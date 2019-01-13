@@ -14,7 +14,7 @@ The fun part of any venture is naming things, so when I started my own little so
 
 This, unfortunately, is what I came up with:<figure class="wp-block-image">
 
-<img src="https://jack.baty.net/wp-content/uploads/2018/12/2018-12-16_Ground-Zero-Software-business-card-original-copy.jpg" alt="" class="wp-image-2177" srcset="https://jack.baty.net/wp-content/uploads/2018/12/2018-12-16_Ground-Zero-Software-business-card-original-copy.jpg 521w, https://jack.baty.net/wp-content/uploads/2018/12/2018-12-16_Ground-Zero-Software-business-card-original-copy-300x169.jpg 300w" sizes="(max-width: 521px) 100vw, 521px" /><figcaption>Ground Zero Software business card prototype</figcaption></figure> 
+<img src="/wp-content/uploads/2018/12/2018-12-16_Ground-Zero-Software-business-card-original-copy.jpg" alt="" class="wp-image-2177" srcset="/wp-content/uploads/2018/12/2018-12-16_Ground-Zero-Software-business-card-original-copy.jpg 521w, /wp-content/uploads/2018/12/2018-12-16_Ground-Zero-Software-business-card-original-copy-300x169.jpg 300w" sizes="(max-width: 521px) 100vw, 521px" /><figcaption>Ground Zero Software business card prototype</figcaption></figure> 
 
 With only a little imagination, even the logo I made could be a premonition. 
 

@@ -15,4 +15,4 @@ tags:
 ---
 It pleases me that all my tasks line up nicely in org-mode. I used to use keywords like &#8220;TODO&#8221;, &#8220;WAITING&#8221;, &#8220;CANCELED&#8221; etc. but that made for a jaggy, harder-to-scan list. Now I use &#8220;TODO&#8221;, &#8220;WAIT&#8221;, &#8220;CANC&#8221;, &#8220;NEXT&#8221;, and &#8220;DONE&#8221;. Aah, much prettier.
 
-<img class="alignnone size-full wp-image-1512" src="https://jack.baty.net/wp-content/uploads/2018/07/2018-07-03_todos.png" alt="" width="97" height="500" srcset="https://jack.baty.net/wp-content/uploads/2018/07/2018-07-03_todos.png 97w, https://jack.baty.net/wp-content/uploads/2018/07/2018-07-03_todos-58x300.png 58w" sizes="(max-width: 97px) 100vw, 97px" />
+<img class="alignnone size-full wp-image-1512" src="/wp-content/uploads/2018/07/2018-07-03_todos.png" alt="" width="97" height="500" srcset="/wp-content/uploads/2018/07/2018-07-03_todos.png 97w, /wp-content/uploads/2018/07/2018-07-03_todos-58x300.png 58w" sizes="(max-width: 97px) 100vw, 97px" />

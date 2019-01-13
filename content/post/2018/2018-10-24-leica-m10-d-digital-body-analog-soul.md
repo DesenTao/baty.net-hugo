@@ -13,7 +13,7 @@ tags:
 ---
 [Leica-camera.com][1]:
 
-<img src="https://jack.baty.net/wp-content/uploads/2018/10/2018-10-24_m10-d.jpg" alt="2018 10 24 m10 d" title="2018-10-24_m10-d.jpg" border="0" width="799" height="493" />
+<img src="/wp-content/uploads/2018/10/2018-10-24_m10-d.jpg" alt="2018 10 24 m10 d" title="2018-10-24_m10-d.jpg" border="0" width="799" height="493" />
 
 > The Leica M10-D brings the unique experience of analog photography back into the digital world. While modern photography encounters an overwhelming number of features and functions, the M10-D is a bold statement of a conscious focus on the essentials of both the philosophy and function of photography.
 > 

@@ -12,7 +12,7 @@ tags:
   - paper
 
 ---
-<img src="https://jack.baty.net/wp-content/uploads/2018/07/2018-07-15_Stamps.jpg" alt="2018 07 15 Stamps" title="2018-07-15_Stamps.jpg" border="0" />
+<img src="/wp-content/uploads/2018/07/2018-07-15_Stamps.jpg" alt="2018 07 15 Stamps" title="2018-07-15_Stamps.jpg" border="0" />
 
 I found my stamp collection today. I had written it off as lost for at least ten years, so I&#8217;m very happy about this.
 

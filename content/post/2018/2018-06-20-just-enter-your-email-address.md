@@ -10,6 +10,6 @@ categories:
   - Tech
 
 ---
-<img title="2018-06-20_mint-form.png" src="https://jack.baty.net/wp-content/uploads/2018/06/2018-06-20_mint-form.png" alt="2018 06 20 mint form" width="297" height="111" border="0" />
+<img title="2018-06-20_mint-form.png" src="/wp-content/uploads/2018/06/2018-06-20_mint-form.png" alt="2018 06 20 mint form" width="297" height="111" border="0" />
 
 No, I don&#8217;t think I will. I thought we were past this.

@@ -14,7 +14,7 @@ tags:
 format: link
 
 ---
-<img title="2018-08-19-agenda-logo.png" src="https://jack.baty.net/wp-content/uploads/2018/08/2018-08-19-agenda-logo.png" alt="2018 08 19 agenda logo" width="349" height="192" border="0" />
+<img title="2018-08-19-agenda-logo.png" src="/wp-content/uploads/2018/08/2018-08-19-agenda-logo.png" alt="2018 08 19 agenda logo" width="349" height="192" border="0" />
 
 I&#8217;ve tried using [Agenda][1] for my notes several times and only recently has it &#8220;stuck&#8221;. Here&#8217;s why.
 

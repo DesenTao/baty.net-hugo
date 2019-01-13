@@ -14,4 +14,4 @@ tags:
 format: image
 
 ---
-<img title="Album01-Scan214.jpg" src="https://jack.baty.net/wp-content/uploads/2018/06/Album01-Scan214.jpg" alt="Album01 Scan214" width="498" height="580" border="0" />
+<img title="Album01-Scan214.jpg" src="/wp-content/uploads/2018/06/Album01-Scan214.jpg" alt="Album01 Scan214" width="498" height="580" border="0" />

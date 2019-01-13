@@ -12,7 +12,7 @@ tags:
   - blogging
 
 ---
-<figure class="wp-block-image"><img src="https://jack.baty.net/wp-content/uploads/2018/07/2018-07-14-archives.png" alt="" class="wp-image-1589" srcset="https://jack.baty.net/wp-content/uploads/2018/07/2018-07-14-archives.png 400w, https://jack.baty.net/wp-content/uploads/2018/07/2018-07-14-archives-300x183.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></figure> 
+<figure class="wp-block-image"><img src="/wp-content/uploads/2018/07/2018-07-14-archives.png" alt="" class="wp-image-1589" srcset="/wp-content/uploads/2018/07/2018-07-14-archives.png 400w, /wp-content/uploads/2018/07/2018-07-14-archives-300x183.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></figure> 
 
 When showing title-less posts in the archives, I would prefer to show the first few words of the post rather than nothing. Is there an easy way to do that?
 

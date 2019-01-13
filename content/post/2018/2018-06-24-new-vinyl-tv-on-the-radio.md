@@ -11,4 +11,4 @@ tags:
   - vinyl
 
 ---
-<img src="https://jack.baty.net/wp-content/uploads/2018/06/2018-06-24_TV-On-The-Radio.jpg" alt="2018 06 24 TV On The Radio" title="2018-06-24_TV On The Radio.jpg" border="0" width="467" height="600" />
+<img src="/wp-content/uploads/2018/06/2018-06-24_TV-On-The-Radio.jpg" alt="2018 06 24 TV On The Radio" title="2018-06-24_TV On The Radio.jpg" border="0" width="467" height="600" />

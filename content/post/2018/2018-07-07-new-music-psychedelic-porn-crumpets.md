@@ -12,7 +12,7 @@ tags:
   - music
 
 ---
-<img class="alignnone wp-image-1539 size-medium" src="https://jack.baty.net/wp-content/uploads/2018/07/2018-07-07_ppc-cover-274x300.png" alt="Psychedelic Porn Crumpets" width="274" height="300" srcset="https://jack.baty.net/wp-content/uploads/2018/07/2018-07-07_ppc-cover-274x300.png 274w, https://jack.baty.net/wp-content/uploads/2018/07/2018-07-07_ppc-cover-640x700.png 640w, https://jack.baty.net/wp-content/uploads/2018/07/2018-07-07_ppc-cover.png 724w" sizes="(max-width: 274px) 100vw, 274px" />
+<img class="alignnone wp-image-1539 size-medium" src="/wp-content/uploads/2018/07/2018-07-07_ppc-cover-274x300.png" alt="Psychedelic Porn Crumpets" width="274" height="300" srcset="/wp-content/uploads/2018/07/2018-07-07_ppc-cover-274x300.png 274w, /wp-content/uploads/2018/07/2018-07-07_ppc-cover-640x700.png 640w, /wp-content/uploads/2018/07/2018-07-07_ppc-cover.png 724w" sizes="(max-width: 274px) 100vw, 274px" />
 
 Today I bought my first digital album from [Bandcamp][1]. Buying and downloading lossless (FLAC) music may not be fashionable these days, but I&#8217;m old and I still prefer _owning_ music.
 

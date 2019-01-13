@@ -13,7 +13,7 @@ tags:
 ---
 [PureForm: Diary &#8211; Your Digital Diary][1]:
 
-<img src="https://jack.baty.net/wp-content/uploads/2018/10/diary-screen-1.png" alt="Diary screen 1" title="diary-screen-1.png" border="0" width="599" height="411" />
+<img src="/wp-content/uploads/2018/10/diary-screen-1.png" alt="Diary screen 1" title="diary-screen-1.png" border="0" width="599" height="411" />
 
 > Beautiful, Safe and Secure &#8211; Diarly is designed so that you can focus on journaling. Pure in it&#8217;s form, powerful in it&#8217;s functions.
 

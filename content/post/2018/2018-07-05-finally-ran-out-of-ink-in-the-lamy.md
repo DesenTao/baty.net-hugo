@@ -14,6 +14,6 @@ tags:
 format: image
 
 ---
-<img class="alignnone size-full wp-image-1528" src="https://jack.baty.net/wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy.jpg" alt="" width="969" height="1200" srcset="https://jack.baty.net/wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy.jpg 969w, https://jack.baty.net/wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy-242x300.jpg 242w, https://jack.baty.net/wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy-768x951.jpg 768w, https://jack.baty.net/wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy-827x1024.jpg 827w, https://jack.baty.net/wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy-565x700.jpg 565w" sizes="(max-width: 969px) 100vw, 969px" />
+<img class="alignnone size-full wp-image-1528" src="/wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy.jpg" alt="" width="969" height="1200" srcset="/wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy.jpg 969w, /wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy-242x300.jpg 242w, /wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy-768x951.jpg 768w, /wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy-827x1024.jpg 827w, /wp-content/uploads/2018/07/2018-07-05_bernanke-in-lamy-565x700.jpg 565w" sizes="(max-width: 969px) 100vw, 969px" />
 
 I finally ran out of ink in the Lamy 2000. Refilled it with Noodler&#8217;s Bernanke black & blue &#8220;Q-E&#8217;ternity&#8221;. It dries so fast! Great for left-handed people like me.

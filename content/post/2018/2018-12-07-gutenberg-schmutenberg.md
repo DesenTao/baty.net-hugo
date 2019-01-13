@@ -14,7 +14,7 @@ tags:
 
 ---
 <div class="wp-block-image">
-  <figure class="alignright"><img src="https://jack.baty.net/wp-content/uploads/2018/12/Gutenberg-e1544296974950-300x236.jpg" alt="" class="wp-image-2105" srcset="https://jack.baty.net/wp-content/uploads/2018/12/Gutenberg-e1544296974950-300x236.jpg 300w, https://jack.baty.net/wp-content/uploads/2018/12/Gutenberg-e1544296974950-768x604.jpg 768w, https://jack.baty.net/wp-content/uploads/2018/12/Gutenberg-e1544296974950-1024x806.jpg 1024w, https://jack.baty.net/wp-content/uploads/2018/12/Gutenberg-e1544296974950.jpg 1322w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
+  <figure class="alignright"><img src="/wp-content/uploads/2018/12/Gutenberg-e1544296974950-300x236.jpg" alt="" class="wp-image-2105" srcset="/wp-content/uploads/2018/12/Gutenberg-e1544296974950-300x236.jpg 300w, /wp-content/uploads/2018/12/Gutenberg-e1544296974950-768x604.jpg 768w, /wp-content/uploads/2018/12/Gutenberg-e1544296974950-1024x806.jpg 1024w, /wp-content/uploads/2018/12/Gutenberg-e1544296974950.jpg 1322w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
 </div>
 
 Releasing an entirely new, and almost entirely different editor in WordPress is A Big Deal, but I personally don&#8217;t care that much.

@@ -14,7 +14,7 @@ tags:
   - hardware
 
 ---
-> [<img class="alignnone size-full" src="https://jack.baty.net/wp-content/uploads/2018/02/homePodChart2@2x-1.png" alt="" />][1]
+> [<img class="alignnone size-full" src="/wp-content/uploads/2018/02/homePodChart2@2x-1.png" alt="" />][1]
 
 [Joe Cieplinski][1]:
 

@@ -12,7 +12,7 @@ tags:
   - music
 
 ---
-<img title="homepod-top.png" src="https://jack.baty.net/wp-content/uploads/2018/01/homepod-top.png" alt="Homepod top" width="800" height="809" border="0" />
+<img title="homepod-top.png" src="/wp-content/uploads/2018/01/homepod-top.png" alt="Homepod top" width="800" height="809" border="0" />
   
 Lots of chatter this week around Apple’s (belated) release of the [HomePod][1]. It’s mostly the usual wild speculation and punditry, but of course I’ve been following along, as I’m interested in whether or not I should buy one.
 

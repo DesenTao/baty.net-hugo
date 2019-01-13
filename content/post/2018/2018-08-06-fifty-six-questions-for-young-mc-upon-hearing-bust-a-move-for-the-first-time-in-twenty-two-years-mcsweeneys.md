@@ -11,7 +11,7 @@ tags:
   - music
 
 ---
-[<img class="alignnone size-full" src="https://jack.baty.net/wp-content/uploads/2018/08/Young-MC-300x204.jpg" alt="" />][1]
+[<img class="alignnone size-full" src="/wp-content/uploads/2018/08/Young-MC-300x204.jpg" alt="" />][1]
 
 > 20. In regard to the vignette where one of us fellas goes to a movie alone, sees a yellow-clad woman seated in the same row, and the yellow-clad woman says “come sit next to me you fine fellow” and then a move is prescribed to be busted, what should I take for the headache accrued from trying to absorb your weirdo nonsense word pile?
 > 

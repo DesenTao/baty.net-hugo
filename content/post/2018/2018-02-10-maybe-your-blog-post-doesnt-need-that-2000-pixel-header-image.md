@@ -22,7 +22,7 @@ I haven’t read the entire Terms of Service for Medium.com, but I assume there 
 
 Like this:
 
-<figure id="attachment_1008" style="width: 2276px" class="wp-caption alignnone"><img class="size-full wp-image-1008" src="https://jack.baty.net/wp-content/uploads/2018/02/exit-sign-header.png" alt="" width="2276" height="2410" srcset="https://jack.baty.net/wp-content/uploads/2018/02/exit-sign-header.png 2276w, https://jack.baty.net/wp-content/uploads/2018/02/exit-sign-header-283x300.png 283w, https://jack.baty.net/wp-content/uploads/2018/02/exit-sign-header-768x813.png 768w, https://jack.baty.net/wp-content/uploads/2018/02/exit-sign-header-967x1024.png 967w, https://jack.baty.net/wp-content/uploads/2018/02/exit-sign-header-750x794.png 750w" sizes="(max-width: 2276px) 100vw, 2276px" /><figcaption class="wp-caption-text">Totally random example with no offense meant to <a class="ds-link ds-link--styleSubtle ui-captionStrong u-inlineBlock link link--darken link--darker" dir="auto" href="https://medium.com/@TebbaVonMathenstien?source=post_header_lockup" data-action="show-user-card" data-action-source="post_header_lockup" data-action-value="7147db7866ab" data-action-type="hover" data-user-id="7147db7866ab">Tyler Elliot Bettilyon</a></figcaption></figure>
+<figure id="attachment_1008" style="width: 2276px" class="wp-caption alignnone"><img class="size-full wp-image-1008" src="/wp-content/uploads/2018/02/exit-sign-header.png" alt="" width="2276" height="2410" srcset="/wp-content/uploads/2018/02/exit-sign-header.png 2276w, /wp-content/uploads/2018/02/exit-sign-header-283x300.png 283w, /wp-content/uploads/2018/02/exit-sign-header-768x813.png 768w, /wp-content/uploads/2018/02/exit-sign-header-967x1024.png 967w, /wp-content/uploads/2018/02/exit-sign-header-750x794.png 750w" sizes="(max-width: 2276px) 100vw, 2276px" /><figcaption class="wp-caption-text">Totally random example with no offense meant to <a class="ds-link ds-link--styleSubtle ui-captionStrong u-inlineBlock link link--darken link--darker" dir="auto" href="https://medium.com/@TebbaVonMathenstien?source=post_header_lockup" data-action="show-user-card" data-action-source="post_header_lockup" data-action-value="7147db7866ab" data-action-type="hover" data-user-id="7147db7866ab">Tyler Elliot Bettilyon</a></figcaption></figure>
 
 That is the top of what is otherwise an interesting article about something completely unrelated to the 2000&#215;1333 (1MB) image you see filling up the entire world.
 
@@ -32,13 +32,13 @@ I’m sure it’s been demonstrated that including an “eye-catching graphic”
 
 I’ve been testing Pocket as my “read later” service and here’s what my list looks like:
 
-<img title="not-useful-article-images.png" src="https://jack.baty.net/wp-content/uploads/2018/02/not-useful-article-images.png" alt="Not useful article images" width="516" height="600" border="0" />
+<img title="not-useful-article-images.png" src="/wp-content/uploads/2018/02/not-useful-article-images.png" alt="Not useful article images" width="516" height="600" border="0" />
 
 Only one of those has an even remotely useful image associated with it. If I squint, those thumbnails look kind of nice, but when actually trying to use the page to find something to read, they’re just distracting noise.
 
 And oh goody! Medium recently hooked up with [Unsplash][2] to make adding giant, off-topic images even easier…
 
-<img title="but-first.png" src="https://jack.baty.net/wp-content/uploads/2018/02/but-first.png" alt="But first" width="598" height="293" border="0" />
+<img title="but-first.png" src="/wp-content/uploads/2018/02/but-first.png" alt="But first" width="598" height="293" border="0" />
 
 I get why people do this, and I don&#8217;t expect anyone to stop doing it. I just wish they would.
 

@@ -14,7 +14,7 @@ tags:
 format: link
 
 ---
-<img title="2018-08-20-devonthink-import.png" src="https://jack.baty.net/wp-content/uploads/2018/08/2018-08-20-devonthink-import.png" alt="2018 08 20 devonthink import" width="564" height="410" border="0" />
+<img title="2018-08-20-devonthink-import.png" src="/wp-content/uploads/2018/08/2018-08-20-devonthink-import.png" alt="2018 08 20 devonthink import" width="564" height="410" border="0" />
 
 There&#8217;s a lot to be said for using the Mac&#8217;s Finder for long-term, portable, stable storage of files. It&#8217;s always right there. Add Dropbox and everything is seamlessly synced across both of my Macs.
 

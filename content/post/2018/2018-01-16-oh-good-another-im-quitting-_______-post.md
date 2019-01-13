@@ -13,7 +13,7 @@ tags:
   - social
 
 ---
-<img src="https://jack.baty.net/wp-content/uploads/2018/01/thatsallfolks-small.jpg" alt="" width="300" height="223" class="alignnone size-full wp-image-808" />
+<img src="/wp-content/uploads/2018/01/thatsallfolks-small.jpg" alt="" width="300" height="223" class="alignnone size-full wp-image-808" />
 
 I want to love Instagram. Really. It&#8217;s the least toxic of the big social networks and it&#8217;s mostly photography-centric. My problem with Instagram isn&#8217;t the content. My problem is with the feed. I don&#8217;t like it. In fact I don&#8217;t like it to the point of quitting the whole thing.
 

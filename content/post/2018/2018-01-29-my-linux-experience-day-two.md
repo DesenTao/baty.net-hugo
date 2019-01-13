@@ -15,7 +15,7 @@ tags:
 ---
 So here I sit in front of a new-to-me Thinkpad X1 Carbon from 2015. It&#8217;s running Linux. I spent yesterday wiping it of Windows 10 and installing Ubuntu 16.04.
 
-<img class="alignnone size-large wp-image-868" src="https://jack.baty.net/wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-946x1024.jpeg" alt="" width="946" height="1024" srcset="https://jack.baty.net/wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-946x1024.jpeg 946w, https://jack.baty.net/wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-277x300.jpeg 277w, https://jack.baty.net/wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-768x832.jpeg 768w, https://jack.baty.net/wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-750x812.jpeg 750w" sizes="(max-width: 946px) 100vw, 946px" />
+<img class="alignnone size-large wp-image-868" src="/wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-946x1024.jpeg" alt="" width="946" height="1024" srcset="/wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-946x1024.jpeg 946w, /wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-277x300.jpeg 277w, /wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-768x832.jpeg 768w, /wp-content/uploads/2018/01/File-Jan-29-7-12-35-PM-750x812.jpeg 750w" sizes="(max-width: 946px) 100vw, 946px" />
 
 The installation process wasn&#8217;t too bad. It was much better than I remember. I opted for Ubuntu because it seems like the easiest path to actually using Linux. I&#8217;m sure there are other options that I&#8217;ll want to try later. First things first.
 

@@ -17,7 +17,7 @@ tags:
 
 > I want to limit the number of times I need to reach out and touch the screen as much as possible<figure class="wp-block-image">
 
-<img src="https://jack.baty.net/wp-content/uploads/2018/12/2018-12-06-12-09-01.jpeg" alt="iPad with mechanical keyboard" class="wp-image-2161" srcset="https://jack.baty.net/wp-content/uploads/2018/12/2018-12-06-12-09-01.jpeg 799w, https://jack.baty.net/wp-content/uploads/2018/12/2018-12-06-12-09-01-300x249.jpeg 300w, https://jack.baty.net/wp-content/uploads/2018/12/2018-12-06-12-09-01-768x636.jpeg 768w, https://jack.baty.net/wp-content/uploads/2018/12/2018-12-06-12-09-01-750x621.jpeg 750w" sizes="(max-width: 799px) 100vw, 799px" /><figcaption>Federico Viticci&#8217;s iPad configured for writing</figcaption></figure> 
+<img src="/wp-content/uploads/2018/12/2018-12-06-12-09-01.jpeg" alt="iPad with mechanical keyboard" class="wp-image-2161" srcset="/wp-content/uploads/2018/12/2018-12-06-12-09-01.jpeg 799w, /wp-content/uploads/2018/12/2018-12-06-12-09-01-300x249.jpeg 300w, /wp-content/uploads/2018/12/2018-12-06-12-09-01-768x636.jpeg 768w, /wp-content/uploads/2018/12/2018-12-06-12-09-01-750x621.jpeg 750w" sizes="(max-width: 799px) 100vw, 799px" /><figcaption>Federico Viticci&#8217;s iPad configured for writing</figcaption></figure> 
 
 In which Federico Viticci demonstrates the hoops he&#8217;ll jump through in order to convert his iPad into a real computer.
 

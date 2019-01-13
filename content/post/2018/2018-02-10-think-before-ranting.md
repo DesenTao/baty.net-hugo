@@ -10,7 +10,7 @@ categories:
 ---
 The first draft of my earlier [rant about images on blog posts][1] used the following screenshot as an example:
 
-<img src="https://jack.baty.net/wp-content/uploads/2018/02/andy-sparks-header-image-2.png" alt="Andy sparks header image" title="andy-sparks-header-image.png" border="0" width="537" height="600" />
+<img src="/wp-content/uploads/2018/02/andy-sparks-header-image-2.png" alt="Andy sparks header image" title="andy-sparks-header-image.png" border="0" width="537" height="600" />
 
 The screenshot is of a [Medium post by Andy Sparks][2] about his new service, [Holloway][3], (which looks awesome, by the way).
 

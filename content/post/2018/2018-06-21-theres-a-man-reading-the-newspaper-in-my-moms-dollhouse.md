@@ -12,6 +12,6 @@ tags:
   - family
 
 ---
-<img class="alignnone size-full wp-image-1370" src="https://jack.baty.net/wp-content/uploads/2018/06/2018-06-21-dollhouse.jpg" alt="" width="2907" height="3390" srcset="https://jack.baty.net/wp-content/uploads/2018/06/2018-06-21-dollhouse.jpg 2907w, https://jack.baty.net/wp-content/uploads/2018/06/2018-06-21-dollhouse-257x300.jpg 257w, https://jack.baty.net/wp-content/uploads/2018/06/2018-06-21-dollhouse-768x896.jpg 768w, https://jack.baty.net/wp-content/uploads/2018/06/2018-06-21-dollhouse-878x1024.jpg 878w, https://jack.baty.net/wp-content/uploads/2018/06/2018-06-21-dollhouse-600x700.jpg 600w" sizes="(max-width: 2907px) 100vw, 2907px" />
+<img class="alignnone size-full wp-image-1370" src="/wp-content/uploads/2018/06/2018-06-21-dollhouse.jpg" alt="" width="2907" height="3390" srcset="/wp-content/uploads/2018/06/2018-06-21-dollhouse.jpg 2907w, /wp-content/uploads/2018/06/2018-06-21-dollhouse-257x300.jpg 257w, /wp-content/uploads/2018/06/2018-06-21-dollhouse-768x896.jpg 768w, /wp-content/uploads/2018/06/2018-06-21-dollhouse-878x1024.jpg 878w, /wp-content/uploads/2018/06/2018-06-21-dollhouse-600x700.jpg 600w" sizes="(max-width: 2907px) 100vw, 2907px" />
 
 My mom loves tinkering with her dollhouse. The gentleman reading a newspaper showed up recently.

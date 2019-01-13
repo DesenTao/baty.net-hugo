@@ -13,7 +13,7 @@ tags:
   - email
 
 ---
-<img title="Screenshot 2018-10-20 13.40.23.png" src="https://jack.baty.net/wp-content/uploads/2018/10/Screenshot-2018-10-20-13.40.23.png" alt="Screenshot 2018 10 20 13 40 23" width="598" height="315" border="0" />
+<img title="Screenshot 2018-10-20 13.40.23.png" src="/wp-content/uploads/2018/10/Screenshot-2018-10-20-13.40.23.png" alt="Screenshot 2018 10 20 13 40 23" width="598" height="315" border="0" />
 
 After several interesting email-related discussions this week on [Micro.blog][1], I was reminded of [MailSteward][2]. I like the idea of having a local copy of all my email, and I&#8217;ve done this before with tools like mbsync but decided to buy MailSteward as an easier way to maintain a searchable, up-to-date email archive.
 
