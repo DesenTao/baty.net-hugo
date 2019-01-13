@@ -10,7 +10,7 @@ tags:
   - orgmode
 
 ---
-<img title="weight.png" src="https://jack.baty.net/wp-content/uploads/2017/12/weight.png" alt="Weight" width="480" height="480" border="0" />
+<img title="weight.png" src="/wp-content/uploads/2017/12/weight.png" alt="Weight" width="480" height="480" border="0" />
 
 I record my weight nearly every day. My bathroom scale uploads the data to a couple of tracking sites, but I also record it in a CSV file, like this…
 

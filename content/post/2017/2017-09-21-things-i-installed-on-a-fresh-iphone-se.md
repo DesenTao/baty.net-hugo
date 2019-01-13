@@ -15,7 +15,7 @@ tags:
 ---
 After weeks of flakiness with my iPhone SE, I decided to wipe it and start over. This always seems like a good idea at the time.
 
-<img class="wp-image-187 size-medium alignnone" src="https://jack.baty.net/wp-content/uploads/2017/09/IMG_0001-169x300.jpg" alt="" width="169" height="300" srcset="https://jack.baty.net/wp-content/uploads/2017/09/IMG_0001-169x300.jpg 169w, https://jack.baty.net/wp-content/uploads/2017/09/IMG_0001-577x1024.jpg 577w, https://jack.baty.net/wp-content/uploads/2017/09/IMG_0001-394x700.jpg 394w, https://jack.baty.net/wp-content/uploads/2017/09/IMG_0001.jpg 640w" sizes="(max-width: 169px) 100vw, 169px" />
+<img class="wp-image-187 size-medium alignnone" src="/wp-content/uploads/2017/09/IMG_0001-169x300.jpg" alt="" width="169" height="300" srcset="/wp-content/uploads/2017/09/IMG_0001-169x300.jpg 169w, /wp-content/uploads/2017/09/IMG_0001-577x1024.jpg 577w, /wp-content/uploads/2017/09/IMG_0001-394x700.jpg 394w, /wp-content/uploads/2017/09/IMG_0001.jpg 640w" sizes="(max-width: 169px) 100vw, 169px" />
 
 Every time I do this, I plan to install only the absolutely necessary non-stock apps. &#8220;Absolutely necessary&#8221; ends up meaning &#8220;apps I want to have&#8221; I guess. Here&#8217;s the list.
 

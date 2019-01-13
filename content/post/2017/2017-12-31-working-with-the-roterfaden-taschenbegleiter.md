@@ -16,7 +16,7 @@ My [Notebook intentions for 2018][1] didn’t take into account my work projects
 
 Enter the [Hobonichi Techo Cousin][4] and [Roterfaden Taschenbegleiter][5]
 
-<figure style="width: 1024px" class="wp-caption alignnone"><img title="Roterfaden (1).jpg" src="https://jack.baty.net/wp-content/uploads/2017/12/Roterfaden-1.jpg" alt="Roterfaden 1" width="1024" height="876" border="0" /><figcaption class="wp-caption-text">Roterfaden Taschenbegleiter</figcaption></figure>
+<figure style="width: 1024px" class="wp-caption alignnone"><img title="Roterfaden (1).jpg" src="/wp-content/uploads/2017/12/Roterfaden-1.jpg" alt="Roterfaden 1" width="1024" height="876" border="0" /><figcaption class="wp-caption-text">Roterfaden Taschenbegleiter</figcaption></figure>
 
 I’ve had the Roterfaden for a few years but haven’t used it lately. I guess I thought it was too bulky.  However, after using the Boorum & Pease record book for a while, my tolerance for larger notebooks has increased.
 
@@ -26,9 +26,9 @@ The Roterfaden is a high-quality notebook cover with a clever and flexible bindi
 
 I may try to add a soft-cover Leuchtturm2017, thus combining my work planner and personal Bullet Journal. That could end up being too bulky or cumbersome, so we’ll see.
 
-<figure style="width: 1024px" class="wp-caption alignnone"><img title="Roterfaden (2).jpg" src="https://jack.baty.net/wp-content/uploads/2017/12/Roterfaden-2.jpg" alt="Roterfaden 2" width="1024" height="787" border="0" /><figcaption class="wp-caption-text">Roterfaden with Hobonichi Techo Cousin</figcaption></figure>
+<figure style="width: 1024px" class="wp-caption alignnone"><img title="Roterfaden (2).jpg" src="/wp-content/uploads/2017/12/Roterfaden-2.jpg" alt="Roterfaden 2" width="1024" height="787" border="0" /><figcaption class="wp-caption-text">Roterfaden with Hobonichi Techo Cousin</figcaption></figure>
 
-<figure style="width: 1024px" class="wp-caption alignnone"><img title="Roterfaden.jpg" src="https://jack.baty.net/wp-content/uploads/2017/12/Roterfaden.jpg" alt="Roterfaden" width="1024" height="1194" border="0" /><figcaption class="wp-caption-text">Roterfaden with Field Notes &#8220;Dime Novel Edition&#8221; tucked in back</figcaption></figure>
+<figure style="width: 1024px" class="wp-caption alignnone"><img title="Roterfaden.jpg" src="/wp-content/uploads/2017/12/Roterfaden.jpg" alt="Roterfaden" width="1024" height="1194" border="0" /><figcaption class="wp-caption-text">Roterfaden with Field Notes &#8220;Dime Novel Edition&#8221; tucked in back</figcaption></figure>
 
  [1]: https://jack.baty.net/2017/paper-notebook-intentions-for-2018/
  [2]: https://fusionary.com

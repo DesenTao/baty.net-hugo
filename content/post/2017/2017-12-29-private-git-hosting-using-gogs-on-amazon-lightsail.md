@@ -102,7 +102,7 @@ The nginx gogs config looks like this
 
 That&#8217;s it. I now have a true all-to-myself private Gogs instance. In order to clone or push via SSH I added my public SSH key to my account in Gogs.
 
-<img class="alignnone size-large wp-image-735" src="https://jack.baty.net/wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-1024x586.png" alt="" width="1024" height="586" srcset="https://jack.baty.net/wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-1024x586.png 1024w, https://jack.baty.net/wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-300x172.png 300w, https://jack.baty.net/wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-768x440.png 768w, https://jack.baty.net/wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-750x429.png 750w, https://jack.baty.net/wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50.png 1036w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="alignnone size-large wp-image-735" src="/wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-1024x586.png" alt="" width="1024" height="586" srcset="/wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-1024x586.png 1024w, /wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-300x172.png 300w, /wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-768x440.png 768w, /wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50-750x429.png 750w, /wp-content/uploads/2017/12/jack-Dashboard-Gogs-2017-12-29-10-30-50.png 1036w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 I&#8217;ll still need to configure an SSL cert from Let&#8217;s Encrypt but this got me going.
 

@@ -14,7 +14,7 @@ tags:
   - paper
 
 ---
-<figure id="attachment_700" style="width: 1024px" class="wp-caption alignnone"><img class="size-large wp-image-700" src="https://jack.baty.net/wp-content/uploads/2017/12/20171226_Notebooks06-1024x819.jpg" alt="" width="1024" height="819" srcset="https://jack.baty.net/wp-content/uploads/2017/12/20171226_Notebooks06-1024x819.jpg 1024w, https://jack.baty.net/wp-content/uploads/2017/12/20171226_Notebooks06-300x240.jpg 300w, https://jack.baty.net/wp-content/uploads/2017/12/20171226_Notebooks06-768x614.jpg 768w, https://jack.baty.net/wp-content/uploads/2017/12/20171226_Notebooks06-750x600.jpg 750w, https://jack.baty.net/wp-content/uploads/2017/12/20171226_Notebooks06.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-caption-text">Hobonichi, Field Notes, Leuchtturm1917, Epica</figcaption></figure>
+<figure id="attachment_700" style="width: 1024px" class="wp-caption alignnone"><img class="size-large wp-image-700" src="/wp-content/uploads/2017/12/20171226_Notebooks06-1024x819.jpg" alt="" width="1024" height="819" srcset="/wp-content/uploads/2017/12/20171226_Notebooks06-1024x819.jpg 1024w, /wp-content/uploads/2017/12/20171226_Notebooks06-300x240.jpg 300w, /wp-content/uploads/2017/12/20171226_Notebooks06-768x614.jpg 768w, /wp-content/uploads/2017/12/20171226_Notebooks06-750x600.jpg 750w, /wp-content/uploads/2017/12/20171226_Notebooks06.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-caption-text">Hobonichi, Field Notes, Leuchtturm1917, Epica</figcaption></figure>
 
 The final week of December is a good time for planning. I spend the week organizing things, tidying up my desk and files, and laying out plans for the year.
 

@@ -12,7 +12,7 @@ tags:
 ---
 I&#8217;ve only had the [Fujifilm XF 56mm f/1.2 R][1] for a few hours and I can already tell we&#8217;re going to become fine friends.
 
-<img class="alignnone size-full wp-image-113" src="https://jack.baty.net/wp-content/uploads/2017/11/IMG_0242-edit.jpg" alt="" width="1024" height="848" srcset="https://jack.baty.net/wp-content/uploads/2017/11/IMG_0242-edit.jpg 1024w, https://jack.baty.net/wp-content/uploads/2017/11/IMG_0242-edit-300x248.jpg 300w, https://jack.baty.net/wp-content/uploads/2017/11/IMG_0242-edit-768x636.jpg 768w, https://jack.baty.net/wp-content/uploads/2017/11/IMG_0242-edit-750x621.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="alignnone size-full wp-image-113" src="/wp-content/uploads/2017/11/IMG_0242-edit.jpg" alt="" width="1024" height="848" srcset="/wp-content/uploads/2017/11/IMG_0242-edit.jpg 1024w, /wp-content/uploads/2017/11/IMG_0242-edit-300x248.jpg 300w, /wp-content/uploads/2017/11/IMG_0242-edit-768x636.jpg 768w, /wp-content/uploads/2017/11/IMG_0242-edit-750x621.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 I love fast lenses, and f/1.2 is darn fast. The only other lens I have for the X-Pro2 is the [XF 23mm f/2 R WR][2] which is terrific for when I want the full-frame equivalent of 35mm.
 
@@ -28,7 +28,7 @@ Here are a few from lunch at Founders Brewing this afternoon. All are straight o
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://jack.baty.net/2017/first-day-with-the-fujifilm-xf-56mm-f-1-2-r/giovanni/'><img width="819" height="1024" src="https://jack.baty.net/wp-content/uploads/2017/11/DSCF1658-Edit-819x1024.jpg" class="attachment-large size-large" alt="" srcset="https://jack.baty.net/wp-content/uploads/2017/11/DSCF1658-Edit.jpg 819w, https://jack.baty.net/wp-content/uploads/2017/11/DSCF1658-Edit-240x300.jpg 240w, https://jack.baty.net/wp-content/uploads/2017/11/DSCF1658-Edit-768x960.jpg 768w, https://jack.baty.net/wp-content/uploads/2017/11/DSCF1658-Edit-750x938.jpg 750w" sizes="(max-width: 819px) 100vw, 819px" /></a>
+    <a href='https://jack.baty.net/2017/first-day-with-the-fujifilm-xf-56mm-f-1-2-r/giovanni/'><img width="819" height="1024" src="/wp-content/uploads/2017/11/DSCF1658-Edit-819x1024.jpg" class="attachment-large size-large" alt="" srcset="/wp-content/uploads/2017/11/DSCF1658-Edit.jpg 819w, /wp-content/uploads/2017/11/DSCF1658-Edit-240x300.jpg 240w, /wp-content/uploads/2017/11/DSCF1658-Edit-768x960.jpg 768w, /wp-content/uploads/2017/11/DSCF1658-Edit-750x938.jpg 750w" sizes="(max-width: 819px) 100vw, 819px" /></a>
   </div></figure>
 </div>
 

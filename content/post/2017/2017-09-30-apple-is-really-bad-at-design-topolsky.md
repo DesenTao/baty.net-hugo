@@ -15,7 +15,7 @@ tags:
 ---
 [Joshua Topolsky, in an unabashedly clickbaity article][1]:
 
-<img class="alignnone size-full wp-image-330" src="https://jack.baty.net/wp-content/uploads/2017/09/visually-disgusting.gif" alt="" width="643" height="228" />
+<img class="alignnone size-full wp-image-330" src="/wp-content/uploads/2017/09/visually-disgusting.gif" alt="" width="643" height="228" />
 
 Ok fine, Josh, I&#8217;m not going to argue with you. Lots of other people will do that. And many others will argue with _them_ . And so on.
 

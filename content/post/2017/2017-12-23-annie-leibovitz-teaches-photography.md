@@ -10,7 +10,7 @@ tags:
   - photography
 
 ---
-<img src="https://jack.baty.net/wp-content/uploads/2017/12/Annie-Leibovitz-Teaches-Photography-MasterClass-2017-12-23-09-34-15.png" alt="Annie Leibovitz Teaches Photography | MasterClass 2017 12 23 09 34 15" title="Annie Leibovitz Teaches Photography | MasterClass 2017-12-23 09-34-15.png" border="0" width="748" height="601" />
+<img src="/wp-content/uploads/2017/12/Annie-Leibovitz-Teaches-Photography-MasterClass-2017-12-23-09-34-15.png" alt="Annie Leibovitz Teaches Photography | MasterClass 2017 12 23 09 34 15" title="Annie Leibovitz Teaches Photography | MasterClass 2017-12-23 09-34-15.png" border="0" width="748" height="601" />
 
 A [Masterclass featuring Annie Leibovitz][1] looked like a great idea, so I paid the $90 and signed up.
 

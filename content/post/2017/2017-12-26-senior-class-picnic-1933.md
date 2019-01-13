@@ -8,6 +8,6 @@ categories:
   - Photography
 
 ---
-<img src="https://jack.baty.net/wp-content/uploads/2017/12/20171226_Class-Picnic-1933-Dick-Baty-2.jpg" alt="20171226 Class Picnic 1933 Dick Baty 2" title="20171226_Class Picnic 1933 Dick Baty-2.jpg" border="0" width="1200" height="960" />
+<img src="/wp-content/uploads/2017/12/20171226_Class-Picnic-1933-Dick-Baty-2.jpg" alt="20171226 Class Picnic 1933 Dick Baty 2" title="20171226_Class Picnic 1933 Dick Baty-2.jpg" border="0" width="1200" height="960" />
 
 I just found these awesome tiny photos tucked into my grandfather&#8217;s high school yearbook. Written on the back of each is &#8220;Senior class picnic 1933 Grand Haven.&#8221; Pretty cool.

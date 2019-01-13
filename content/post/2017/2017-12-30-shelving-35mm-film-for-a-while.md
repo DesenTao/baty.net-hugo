@@ -10,7 +10,7 @@ tags:
   - 35mm
 
 ---
-<img src="https://jack.baty.net/wp-content/uploads/2017/12/20171229_35mm-film-camera-shelf.jpg" alt="20171229 35mm film camera shelf" title="20171229_35mm film camera shelf.jpg" border="0" width="1200" height="800" />
+<img src="/wp-content/uploads/2017/12/20171229_35mm-film-camera-shelf.jpg" alt="20171229 35mm film camera shelf" title="20171229_35mm film camera shelf.jpg" border="0" width="1200" height="800" />
 
 I&#8217;m taking a hiatus from shooting 35mm film, so I thought I&#8217;d share some notes about why.
 

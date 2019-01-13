@@ -13,7 +13,7 @@ tags:
 format: link
 
 ---
-<img title="2015 LF002.jpg" src="https://jack.baty.net/wp-content/uploads/2017/12/2015-LF002-1.jpg" alt="2015 LF002" width="1023" height="788" border="0" />
+<img title="2015 LF002.jpg" src="/wp-content/uploads/2017/12/2015-LF002-1.jpg" alt="2015 LF002" width="1023" height="788" border="0" />
 
 [Janko Roettgers in Variety][1]:
 

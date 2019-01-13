@@ -12,6 +12,6 @@ tags:
   - blogging
 
 ---
-<img class="alignnone size-full wp-image-311" src="https://jack.baty.net/wp-content/uploads/2017/09/eRvNKWrZcZ-blog-po…-2017-09-29-07-23-02.png" alt="" width="620" height="359" srcset="https://jack.baty.net/wp-content/uploads/2017/09/eRvNKWrZcZ-blog-po…-2017-09-29-07-23-02.png 620w, https://jack.baty.net/wp-content/uploads/2017/09/eRvNKWrZcZ-blog-po…-2017-09-29-07-23-02-300x174.png 300w, https://jack.baty.net/wp-content/uploads/2017/09/eRvNKWrZcZ-blog-po…-2017-09-29-07-23-02-518x300.png 518w" sizes="(max-width: 620px) 100vw, 620px" />
+<img class="alignnone size-full wp-image-311" src="/wp-content/uploads/2017/09/eRvNKWrZcZ-blog-po…-2017-09-29-07-23-02.png" alt="" width="620" height="359" srcset="/wp-content/uploads/2017/09/eRvNKWrZcZ-blog-po…-2017-09-29-07-23-02.png 620w, /wp-content/uploads/2017/09/eRvNKWrZcZ-blog-po…-2017-09-29-07-23-02-300x174.png 300w, /wp-content/uploads/2017/09/eRvNKWrZcZ-blog-po…-2017-09-29-07-23-02-518x300.png 518w" sizes="(max-width: 620px) 100vw, 620px" />
 
 Heh.

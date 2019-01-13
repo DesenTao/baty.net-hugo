@@ -17,4 +17,4 @@ I could not love this more. Can we get all of the news sites to do this?
 
 <http://lite.cnn.io/en>
 
-<img title="CNN - Breaking News, Latest News and Videos 2017-09-10 17-53-10.png" src="https://jack.baty.net/wp-content/uploads/2017/09/CNN-Breaking-News-Latest-News-and-Videos-2017-09-10-17-53-10.png" alt="CNN Breaking News Latest News and Videos 2017 09 10 17 53 10" width="568" height="410" border="0" />
+<img title="CNN - Breaking News, Latest News and Videos 2017-09-10 17-53-10.png" src="/wp-content/uploads/2017/09/CNN-Breaking-News-Latest-News-and-Videos-2017-09-10-17-53-10.png" alt="CNN Breaking News Latest News and Videos 2017 09 10 17 53 10" width="568" height="410" border="0" />

@@ -23,25 +23,25 @@ I love cameras, but what do I mean by a &#8220;good&#8221; camera? For me, a goo
 
 &nbsp;
 
-<figure id="attachment_129" style="width: 1024px" class="wp-caption alignnone"><img class="size-full wp-image-129" src="https://jack.baty.net/wp-content/uploads/2017/11/20090716-IMG_0277.jpg" alt="" width="1024" height="768" /><figcaption class="wp-caption-text">Leica M4</figcaption></figure>
+<figure id="attachment_129" style="width: 1024px" class="wp-caption alignnone"><img class="size-full wp-image-129" src="/wp-content/uploads/2017/11/20090716-IMG_0277.jpg" alt="" width="1024" height="768" /><figcaption class="wp-caption-text">Leica M4</figcaption></figure>
 
 Leica film cameras are my idea of the perfect camera. Picking up a vintage Leica M is a tactile experience that no other camera can replicate. The feel of an M is perfect. The size, shape, texture, and weight are all ideal. Beyond that, there&#8217;s the emotional &#8220;feel&#8221; of a Leica. It&#8217;s impossible for me to separate Leica from its storied history. I&#8217;m sentimental that way, so using a Leica _feels_ good in every way that a camera can.
 
 &nbsp;
 
-<figure id="attachment_128" style="width: 1024px" class="wp-caption alignnone"><img class="size-full wp-image-128" src="https://jack.baty.net/wp-content/uploads/2017/11/20100619_P6190593-edit.jpg" alt="" width="1024" height="768" srcset="https://jack.baty.net/wp-content/uploads/2017/11/20100619_P6190593-edit.jpg 1024w, https://jack.baty.net/wp-content/uploads/2017/11/20100619_P6190593-edit-300x225.jpg 300w, https://jack.baty.net/wp-content/uploads/2017/11/20100619_P6190593-edit-768x576.jpg 768w, https://jack.baty.net/wp-content/uploads/2017/11/20100619_P6190593-edit-750x563.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-caption-text">Olympus OM-1n</figcaption></figure>
+<figure id="attachment_128" style="width: 1024px" class="wp-caption alignnone"><img class="size-full wp-image-128" src="/wp-content/uploads/2017/11/20100619_P6190593-edit.jpg" alt="" width="1024" height="768" srcset="/wp-content/uploads/2017/11/20100619_P6190593-edit.jpg 1024w, /wp-content/uploads/2017/11/20100619_P6190593-edit-300x225.jpg 300w, /wp-content/uploads/2017/11/20100619_P6190593-edit-768x576.jpg 768w, /wp-content/uploads/2017/11/20100619_P6190593-edit-750x563.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-caption-text">Olympus OM-1n</figcaption></figure>
 
 My old, beat up Olympus OM-1n is a good camera. It had fallen down the side of volcano, so the previous owner gave it to me. It was a mess. The bottom plate literally required a hammer to get it back into shape. It&#8217;s tiny and barely works but I always remember where it&#8217;s been and I love it.
 
 &nbsp;
 
-<figure id="attachment_130" style="width: 640px" class="wp-caption alignnone"><img class="size-full wp-image-130" src="https://jack.baty.net/wp-content/uploads/2017/11/olympus-stylus-epic.jpg" alt="" width="640" height="512" /><figcaption class="wp-caption-text">Olympus Stylus Epic</figcaption></figure>
+<figure id="attachment_130" style="width: 640px" class="wp-caption alignnone"><img class="size-full wp-image-130" src="/wp-content/uploads/2017/11/olympus-stylus-epic.jpg" alt="" width="640" height="512" /><figcaption class="wp-caption-text">Olympus Stylus Epic</figcaption></figure>
 
 And yes, sometimes, a good camera is the one you have with you. I&#8217;ve been carrying a little Stylus Epic, on and off, for years. I paid $10 for the one in the photo. It&#8217;s plastic and cheap, but I love how it _works_. I can reach into my pocket, open the camera, and take a photo with one quick, smooth movement. And I don&#8217;t worry about dropping it. It&#8217;s a very good camera.
 
 &nbsp;
 
-<figure id="attachment_131" style="width: 1024px" class="wp-caption alignnone"><img class="size-full wp-image-131" src="https://jack.baty.net/wp-content/uploads/2017/11/20171122-1.jpg" alt="" width="1024" height="848" srcset="https://jack.baty.net/wp-content/uploads/2017/11/20171122-1.jpg 1024w, https://jack.baty.net/wp-content/uploads/2017/11/20171122-1-300x248.jpg 300w, https://jack.baty.net/wp-content/uploads/2017/11/20171122-1-768x636.jpg 768w, https://jack.baty.net/wp-content/uploads/2017/11/20171122-1-750x621.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-caption-text">Fuji X-Pro2 with Fujinon 56mm f/1.2</figcaption></figure>
+<figure id="attachment_131" style="width: 1024px" class="wp-caption alignnone"><img class="size-full wp-image-131" src="/wp-content/uploads/2017/11/20171122-1.jpg" alt="" width="1024" height="848" srcset="/wp-content/uploads/2017/11/20171122-1.jpg 1024w, /wp-content/uploads/2017/11/20171122-1-300x248.jpg 300w, /wp-content/uploads/2017/11/20171122-1-768x636.jpg 768w, /wp-content/uploads/2017/11/20171122-1-750x621.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-caption-text">Fuji X-Pro2 with Fujinon 56mm f/1.2</figcaption></figure>
 
 And then there&#8217;s the camera that got me thinking about all this again. The Fuji X-Pro2. It handles similarly to a Leica M. It feels good in the hand. The controls are designed and arranged the way I like them. Finally, the images are technically very very good.
 

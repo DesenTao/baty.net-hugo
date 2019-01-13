@@ -12,4 +12,4 @@ tags:
   - blogging
 
 ---
-<img class="alignnone size-full wp-image-314" src="https://jack.baty.net/wp-content/uploads/2017/09/why-i-blog.png" alt="" width="363" height="120" srcset="https://jack.baty.net/wp-content/uploads/2017/09/why-i-blog.png 363w, https://jack.baty.net/wp-content/uploads/2017/09/why-i-blog-300x99.png 300w" sizes="(max-width: 363px) 100vw, 363px" />
+<img class="alignnone size-full wp-image-314" src="/wp-content/uploads/2017/09/why-i-blog.png" alt="" width="363" height="120" srcset="/wp-content/uploads/2017/09/why-i-blog.png 363w, /wp-content/uploads/2017/09/why-i-blog-300x99.png 300w" sizes="(max-width: 363px) 100vw, 363px" />

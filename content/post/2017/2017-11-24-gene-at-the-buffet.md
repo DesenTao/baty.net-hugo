@@ -11,7 +11,7 @@ tags:
   - Fuji
 
 ---
-<figure id="attachment_125" style="width: 1024px" class="wp-caption alignnone"><img class="size-full wp-image-125" src="https://jack.baty.net/wp-content/uploads/2017/11/gene.jpg" alt="" width="1024" height="819" /><figcaption class="wp-caption-text">Gene at the buffet. X-Pro2. 56mm f1.2. Acros simulation.</figcaption></figure>
+<figure id="attachment_125" style="width: 1024px" class="wp-caption alignnone"><img class="size-full wp-image-125" src="/wp-content/uploads/2017/11/gene.jpg" alt="" width="1024" height="819" /><figcaption class="wp-caption-text">Gene at the buffet. X-Pro2. 56mm f1.2. Acros simulation.</figcaption></figure>
 
 I took this photo of Gene at brunch today. It&#8217;s not a good photo, but I really like it because it looks the way I want black and white photos to look. I like deep blacks, sparkly highlights, and smooth out of focus areas.
 

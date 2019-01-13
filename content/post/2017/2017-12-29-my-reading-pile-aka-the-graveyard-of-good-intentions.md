@@ -14,7 +14,7 @@ tags:
 
 Here&#8217;s my pile. I call it &#8220;The Graveyard of Good Intentions&#8221;.
 
-<img src="https://jack.baty.net/wp-content/uploads/2017/12/graveyard-of-good-intentions.jpg" alt="Graveyard of good intentions" title="graveyard-of-good-intentions.jpg" border="0" width="800" height="1200" />
+<img src="/wp-content/uploads/2017/12/graveyard-of-good-intentions.jpg" alt="Graveyard of good intentions" title="graveyard-of-good-intentions.jpg" border="0" width="800" height="1200" />
 
  [1]: http://patrickrhone.com
  [2]: http://www.patrickrhone.net/shot-on-december-29-2017-at-0936am/
