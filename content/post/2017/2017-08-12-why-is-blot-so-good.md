@@ -1,6 +1,6 @@
 ---
 title: "Why Did Blot Have to Be So Good?"
-slug: "why-is-blot-so-good"
+slug: "why-did-blot-have-to-be-so-good"
 date: "2017-08-12T10:22:29-04:00"
 tags: ["blogging","hugo","blot"]
 draft: false
