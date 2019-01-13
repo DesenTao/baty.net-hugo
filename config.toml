@@ -2,7 +2,7 @@ baseURL = "https://www.baty.net/"
 title = "Jack Baty"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "myjane"
+theme = "hugo-theme-jane"
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 newContentEditor = "vim"
 
