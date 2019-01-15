@@ -36,5 +36,7 @@ option. I don't like not having control over the underlying files.
 This experiment may be drawing to a close. I may have to crawl back and beg
 Capture One Pro to take me back.
 
+[Wiki note](https://rudimentarylathe.org/#Lightroom%20CC)
+
 
 
