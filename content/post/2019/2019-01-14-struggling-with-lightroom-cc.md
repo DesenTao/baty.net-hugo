@@ -12,8 +12,8 @@ I don't think I can.
 This is me just thinking out loud after a few weeks of giving Lightroom a
 fair shake.
 
-Overall, Lightroom CC is fine. Sure, it's missing a lot of "power user" features
-of Lightroom Classic or Capture One Pro, but it's easy to use, fairly powerful,
+Overall, Lightroom CC is fine. It's missing some "power user" features
+from things like Lightroom Classic or Capture One Pro, but it's easy to use, fairly powerful,
 and "nice". I love being able to view and edit photos on any device at any time.
 That alone is what lead me to try this experiment. I like that it's pared down
 and simple. I like that it now has Faces and "Sensei" for searches. The cloud
