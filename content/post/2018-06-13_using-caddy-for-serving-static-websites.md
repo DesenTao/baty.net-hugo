@@ -1,7 +1,7 @@
 +++
 title = "Using Caddy for serving static content"
 date = 2018-06-13T18:17:00-04:00
-slug = "using-caddy-for-serving-static-websites"
+slug = "using-caddy-for-serving-static-content"
 draft = false
 +++
 
