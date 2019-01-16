@@ -1,14 +1,14 @@
 ---
 title: "Fixing Easy Hugo"
-date: 2019-01-16T12:53:57-05:00
+date: 2019-01-16T13:20:50-05:00
 tags: ["hugo","emacs"]
 ---
 
-I'd been fighting with what I thought was a [bug in easy-hug](https://github.com/masasam/emacs-easy-hugo/issues/47) for a while, but when I stopped posting with Hugo I sort of forgot about it.
+I'd been fighting with what I thought was a [bug in easy-hugo](https://github.com/masasam/emacs-easy-hugo/issues/47) for a while, but when I stopped posting with Hugo I sort of forgot about it.
 
 Now that [I'm back](https://www.baty.net/2019/burning-down-the-other-blogs/) I finally dug in and tried solving the problem.
 
-It was a simple thing that took me hours to find. I had put the following in my `config.toml` file...
+The solution was simple but took me hours to find. I had put the following in my `config.toml` file...
 
 `newContentEditor = "vim"`
 
