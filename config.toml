@@ -1,5 +1,5 @@
 baseURL = "https://www.baty.net/"
-title = "Jack Baty"
+title = "Jack Baty's Blog"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hugo-theme-jane"
@@ -65,7 +65,7 @@ micro = "/micro/:year/:slug"
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Jack Baty"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "Jack Baty's Blog"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Tech", "Photography","Analog"]
   description = "Jack Baty's personal weblog"
 
