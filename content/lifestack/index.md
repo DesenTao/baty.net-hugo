@@ -9,7 +9,7 @@ This is my "Life Stack". I used to call it "Stuff I Use" but "Life Stack" sounds
 cooler. Either way, it's a list of things that I use to manage my life or that I
 simply enjoy using.
 
-Last updated **December 2018**
+Last updated **January 2019**
 
 ## Computing
 ![MacBook Pro](macbook-pro-300x188.jpg)
@@ -30,14 +30,15 @@ Last updated **December 2018**
 
 Here's the software that I currently use on a regular basis.
 
-- [Tinderbox][tinderbox] -- "The Tool For Notes" indeed. And so much more.
+- [Emacs](https://www.gnu.org/software/emacs/) -- "An extensible, customizable, free/libre text editor — and more."
+- [Org mode](https://orgmode.org/) -- Tasks, lists, documents, publishing, all in plain text.
+- [TiddlyWiki](https://tiddlywiki.com) -- Single-file wiki with a kick.
 - [DEVONthink][devonthink] – Email Archives, Manuals, PDFs, Scanned documents. Years of
   archives remain searchable and synced across devices.
 - [TheBrain][thebrain] – "No limits Mindmapping" is right. I have years of
   "thoughts" collected and interlinked in TheBrain.
 - [Bear](https://bear.app) -- Bear is the app for notes that ticks more boxes than the 
   many other options I've tried. If I'm not going to use Org-mode, I'll use Bear.
-- [Things 3](things3) -- I waffle between Things and OmniFocus but for now I'm using Things.
 - [BBEdit][bbedit] – As much as I try to remain in Emacs for editing, whenever I need
   something fancy done with a lot of text, I turn to BBEdit. It’s the editor
   I’ve used longest. In fact, it may be the piece of software I’ve used longest,
@@ -69,9 +70,12 @@ Here's the software that I currently use on a regular basis.
 - [Keyboard Maestro][keyboardmaestro] – Macro wizardry. I wildly useful tool for
   automating things. I've also started using it as my text snippet expander and
   it works great for that, too.
+- [Tinderbox][tinderbox] -- "The Tool For Notes" indeed. And so much more.
+
 
 ## Photography
 ### Software
+- [Lightroom CC](https://www.adobe.com/products/photoshop-lightroom.html) -- I hate the idea of keeping my library in the cloud, but love having everything available everywhere all the time.
 - [Capture One Pro][captureone] – Photo library and Raw file editor.
 - Apple Photos - For iPhone shots and keepers exported from Capture One
 - [Photo Mechanic][photomechanic] – Ingesting, tagging, renaming photos from
@@ -182,7 +186,7 @@ Some miscellaneous photo-related support items
 ![Focomat IIc](focomat-IIc.jpg)
 ![Focomat V35](focomat-v35.jpg)
 
-I spend time in the darkroom pretty regularly. It’s like a form of meditation.
+I haven't had a darkroom since my recent move, but here's what's in storage for when I make room.
 
 - [Leitz Focomat v35][focomatv35] – 35mm auto-focus enlarger. Solid and reliable. It cost as much as a Volkswagon when it was first produced in 1979. It is an
 amazing device.
@@ -241,6 +245,7 @@ And the rest...
 
 - **Amazon Kindle Oasis** (2nd gen) – Books on the go. I prefer real books but the
   Kindle sure is handy. I like the larger size of this model.
+- **Kobe Forma** ebook reader -- An alternative to Amazon that works great with more formats
 - **Amazon Echo** – I have several, but am using them less recently. I don't love
   using voice-controlled devices.
   
@@ -286,7 +291,7 @@ And the rest...
 
 - [Tag Heuer Aquaracer Automatic watch][tag] – No batteries, beautiful, and good to 300
   meters in the water – because that’s handy right?
-- **Apple Watch (Series 2)** – Neat, but I rarely wear it
+- **Apple Watch (Series 4)** – The health stuff and proper notifications are handy
 - [Goruck GR1 backpack][goruck] – If I ever go outside I’m ready
 - [Benchmade Mini Griptilian AXIS Lock Knife][knife] – Always in my pocket. I never
   realized how handy a pocket knife could be until I started carrying one
@@ -297,12 +302,17 @@ And the rest...
 - [Blunt Classic Umbrella][blunt] – Who knew a good umbrella would make such a difference? This is a very nice one.
 - [Filson original Briefcase][filson] – I’ve owned a number of bags and this one is the one I’ve settled on. Well-designed and very well-made.
 - [ONA Prince Street][ona] – Camera bag. Leather. Gorgeous.
+- [Peak Design Everyday Messenger - 13"](https://www.peakdesign.com/collections/everyday-bags/products/everyday-messenger?variant=11607015194668) -- Camera and iPad to work and back.
 
 Whew!
 
 
 
 ## Changelog
+
+### Friday, January 18, 2019
+- Added Emacs back :)
+- New bag
 
 ### Saturday, December 08, 2018
 - Added new iPad 12.9"
