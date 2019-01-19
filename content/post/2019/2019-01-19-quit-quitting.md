@@ -1,7 +1,6 @@
 ---
 title: "Now that I've deleted [Social Network]..."
 date: 2019-01-19T12:14:25-05:00
-draft: true
 tags: ["social"]
 slug: "now-that-ive-deleted-social-network"
 ---
