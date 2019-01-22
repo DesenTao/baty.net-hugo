@@ -1,5 +1,5 @@
 baseURL = "https://www.baty.net/"
-title = "Jack Baty's Blog"
+title = "Jack Baty"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hugo-theme-jane"
@@ -42,10 +42,10 @@ micro = "/micro/:year/:slug"
   identifier = "archives"
   url = "/post/"
 [[menu.main]]             # config your menu              # 配置目录
-  name = "About"
+  name = "Blog"
   weight = 20
-  identifier = "about"
-  url = "/about/"
+  identifier = "blog"
+  url = "https://www.baty.blog/"
 [[menu.main]]
   name = "Microblog"
   weight = 30

@@ -36,10 +36,10 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 ### Weblogs and other publishing experiments
 
 - [baty.net](https://www.baty.net/) - The hub of my online presence. You're soaking in it. 
+- [baty.blog](https://www.baty.blog/) - My blog using [Blot](https://blot.im) (resurrected on 2019.01.22) 
 - [rudimentarylathe.org](https://rudimentarylathe.org/) - My life wiki (using Tiddlywiki)
 - [micro.baty.net](https://micro.baty.net/) - A Microblog published with [Micro.blog](https://micro.blog/)
 - [tilde.club/~jbaty](http://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
-- ~~[baty.blog](https://www.baty.blog/) - An experimental blog using [Blot](https://blot.im)~~ (deleted on 2019.01.13)
 - ~~[jack.baty.net](https://jack.baty.net/) - My WordPress blog~~ (deleted on 2019.01.13)
 
 ### Photography
