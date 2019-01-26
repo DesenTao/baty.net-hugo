@@ -30,6 +30,8 @@ This leaves me with...
 
 How long will this last? `¯\_(ツ)_/¯`
 
+**Update 2019.01.26**: Not long, apparently. I missed using Blot so much that I've reverted to posting to [baty.blog](https://www.baty.blog).
+
 
 
 

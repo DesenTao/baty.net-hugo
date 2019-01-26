@@ -56,7 +56,7 @@ See the ["Now" page](https://baty.net/now) ⏱ for a list of more specific curre
 
 ### Other
 
-- [Books I've Read](/books)
+- [Books I've Read](https://rudimentarylathe.org/#Books)
 - [My Life Stack](/lifestack/)
 - [Where my avatar came from](/avatar/)
 - [Letterboxd](https://letterboxd.com/jackbaty) is where I track and rate the movies I watch
