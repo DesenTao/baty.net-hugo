@@ -13,7 +13,7 @@ sidebar: true
 
 I’ve been a partner at **[Fusionary Media](https://fusionary.com)** since 1995. Fusionary is a terrific digital studio in Grand Rapids, MI. If your business needs something built for the web or mobile devices you should [send us a note](mailto:info@fusionary.com).
 
-I blog at **[jack.baty.net](https://jack.baty.net/)** ✒️
+I blog at **[baty.blog](https://baty.blog/)** ✒️
 
 I've also been having a ball at my new wiki: [Rudimentary Lathe](https://rudimentarylathe.org).
 
