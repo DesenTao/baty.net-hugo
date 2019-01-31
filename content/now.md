@@ -6,6 +6,8 @@ type: page
 comment: false
 ---
 
+**This page has been moved to my wiki at [rudimentarylathe.org](https://rudimentarylathe.org/#Now)**
+
 A few of the things I'm working on or thinking about as of **Sunday, January 13, 2019**
 
 - Exploring my renewed interest in digital photography
