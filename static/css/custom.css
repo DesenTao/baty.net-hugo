@@ -34,8 +34,12 @@ img.right-thumb {
   margin: 5px;
 }
 
-#commento
-{
-  width: 80%;
-  margin: auto;
+#archive-content {
+  margin: 0 5em 3em;
+  background-color: #fff;
+  padding: 1em 5em 1em;
+}
+
+#archive-content a {
+  color: #c05b4d;
 }
