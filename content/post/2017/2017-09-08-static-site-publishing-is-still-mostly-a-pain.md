@@ -11,7 +11,7 @@ tags:
   - wordpress
 
 ---
-I l<img class="size-full wp-image-9 alignright" src="http://jack.baty.net/wp-content/uploads/2017/09/backpain.png" alt="" width="100" height="100" />ove that static websites can just sit somewhere behind a simple web server and always just work. They&#8217;re fast and secure. However, I&#8217;m beginning to think that for certain sites, blogs for example, the joy of easy hosting loses out to the pain of publishing.
+I love that static websites can just sit somewhere behind a simple web server and always just work. They&#8217;re fast and secure. However, I&#8217;m beginning to think that for certain sites, blogs for example, the joy of easy hosting loses out to the pain of publishing.
 
 I know, &#8220;But it&#8217;s just a folder full of text files!&#8221; I get it, baty.net is currently a folder full of about 3000 markdown files. Still, in order to publish something I have to create a new markdown file in a particular folder, named in a particular way, in a particular format. I have scripts that help, but I tire of tinkering with scripts instead of just writing stuff and clicking &#8220;Post&#8221;.
 
