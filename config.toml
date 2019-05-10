@@ -116,7 +116,7 @@ micro = "/micro/:year/:slug"
 
 
   [params.commento] # Commento is a feature rich lightweight comment system oriented on privacy (https://commento.io/)
-    enable = false
+    enable = true
     url = "https://cdn.commento.io"
 
 

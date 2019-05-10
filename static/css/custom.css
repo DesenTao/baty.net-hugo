@@ -33,3 +33,9 @@ img.right-thumb {
   float:right;
   margin: 5px;
 }
+
+#commento
+{
+  width: 80%;
+  margin: auto;
+}
