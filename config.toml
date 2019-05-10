@@ -37,15 +37,15 @@ micro = "/micro/:year/:slug"
   filename = "sitemap.xml"
 
 [[menu.main]]
+  name = "About"
+  weight = 10
+  identifier = "about"
+  url = "/about/"
+[[menu.main]]
   name = "Archives"
   weight = 10
   identifier = "archives"
   url = "/post/"
-[[menu.main]]             # config your menu              # 配置目录
-  name = "Blog"
-  weight = 20
-  identifier = "blog"
-  url = "https://www.baty.blog/"
 [[menu.main]]
   name = "Microblog"
   weight = 30
