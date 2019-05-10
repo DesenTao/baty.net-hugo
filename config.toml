@@ -114,6 +114,12 @@ micro = "/micro/:year/:slug"
     fancyboxJs = '<script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>'
     fancyboxCss = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">'
 
+
+  [params.commento] # Commento is a feature rich lightweight comment system oriented on privacy (https://commento.io/)
+    enable = false
+    url = "https://cdn.commento.io"
+
+
   [params.reward]                                         # 文章打赏
     enable = false
     wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
