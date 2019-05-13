@@ -1,8 +1,3 @@
-*.swp
-.DS_Store
-/public/*
-.#*
-*.bbprojectd/*
-*.bbprojectd*
-*.Ulysses-Group.plist
-*.Ulysses-favorites.plist
+.gitignore
+./public
+/public
