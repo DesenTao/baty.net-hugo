@@ -5,7 +5,6 @@
 #+author:
 
 * Drafts
-
 ** TODO My Monthly Notetaking Rollover
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-monthly-notetaking-rollover
@@ -20,11 +19,37 @@ On the first of every month I start a new section in each of my notebooks. I
 also export last months org-journal entries to LaTeX->PDF and print them. I
 can’t explain why I love it so much, but it could be my favorite day.
 #+END_QUOTE
+** TODO A micro post
+:PROPERTIES:
+:EXPORT_FILE_NAME: a-micro-post
+:EXPORT_HUGO_TITLE: 
+:END:
+
+Thjis is a micro post
 * Posts
 :PROPERTIES:
-  :EXPORT_HUGO_SECTION: post
-  :END:
-** DONE Using Caddy for serving static content
+:EXPORT_HUGO_SECTION: post
+:END:
+** 2019
+:PROPERTIES:
+:EXPORT_HUGO_SECTION*: 2019
+:END:
+*** DONE Test to All Posts
+CLOSED: [2019-06-28 Fri 14:23]
+:PROPERTIES:
+:EXPORT_FILE_NAME: test-to-all-posts
+:END:
+
+Oh hi there!
+*** DONE Test Post using ox-hugo
+CLOSED: [2019-06-28 Fri 10:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: test-post-using-ox-hugo
+:END:
+
+I'm wondering how well this will work. Thinking it could be an easy way to microblog. Only one way to find out! Well, it does work.
+
+*** DONE Using Caddy for serving static content
 CLOSED: [2018-06-13 Wed 18:17]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-06-13_using-caddy-for-serving-static-websites
@@ -69,7 +94,7 @@ Having super-simple HTTPS automatically should be compelling for people looking
 to get on the HTTPS-everywhere train.
 
 
-** DONE The Frictionless Joy of Using a Single Platform
+*** DONE The Frictionless Joy of Using a Single Platform
 CLOSED: [2018-06-09 Sat 09:18]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-06-09_the-frictionless-joy-of-a-single-platform
@@ -145,7 +170,7 @@ differences in how everything works.
 
 
 
-** DONE The Intel NUC and Roon as My Music System
+*** DONE The Intel NUC and Roon as My Music System
 CLOSED: [2018-06-02 Sat 11:05]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-06-02_music-via-roon-and-the-intel-nuc
@@ -203,7 +228,7 @@ want, using the same system.
 
 It's pretty great.
 
-** DONE Hugo Page Bundles :hugo:org_mode:blogging: 
+*** DONE Hugo Page Bundles :hugo:org_mode:blogging: 
 CLOSED: [2018-05-24 Thu 13:06]
 :PROPERTIES:
 :EXPORT_FILE_NAME: index
@@ -233,7 +258,7 @@ Page Bundles.
 
 Nice.
 
-** DONE Packed The First of Many Boxes
+*** DONE Packed The First of Many Boxes
 CLOSED: [2018-05-24 Thu 10:57]
 :PROPERTIES:
 :EXPORT_FILE_NAME: packed-the-first-of-many-boxes
@@ -253,7 +278,7 @@ keeping all the books.
 
 It's begun!
 
-** DONE Posting with ox-hugo so far
+*** DONE Posting with ox-hugo so far
 CLOSED: [2018-05-24 Thu 07:57]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-05-24_posts-using-ox-hugo-so-far
@@ -269,7 +294,7 @@ Here's what the source Org-mode file looks like right now.
 
 I like it!
 
-** DONE Things I Write With :analog:writing:tools:
+*** DONE Things I Write With :analog:writing:tools:
 CLOSED: [2018-05-23 Wed 21:28]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-05-23_things-i-write-with
@@ -307,7 +332,7 @@ settled on two fountain pens; The TWSBI Diamond 580 and the Pelikan M400.
 I'm pretty happy with these choices. It's been months since I've struggled with
 deciding what to write with.
 
-** DONE Don MacAskill's AMA Reinforces My Optimism About Flickr :flickr:photography:
+*** DONE Don MacAskill's AMA Reinforces My Optimism About Flickr :flickr:photography:
 CLOSED: [2018-05-22 Tue 08:48]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-05-22_don-macaskill-ama
@@ -330,7 +355,7 @@ so if that's your definition of "social" then my answer is no.
 
 The possibilities around SmugMug's purchase of Flickr has me so very excited.
 This Reddit AMA with MacAskill makes me feel even better about it.
-** DONE Blue Apron after Five Years :cooking:
+*** DONE Blue Apron after Five Years :cooking:
 CLOSED: [2018-05-21 Mon 18:38]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-05-21_blue-apron
@@ -366,7 +391,7 @@ I'm happy to be back with Blue Apron. If you're looking for a meal delivery
 service, I'd give the nod to Blue Apron, but you wouldn't be disappointed with
 HomeChef either.
 
-** DONE Org-Journal May Replace My Daybook.org File :org_mode:journal:
+*** DONE Org-Journal May Replace My Daybook.org File :org_mode:journal:
 CLOSED: [2018-05-21 Mon 15:34]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-05-21_org-journal-replaces-daybook
@@ -396,7 +421,7 @@ file to a nicely-typeset PDF easily enough.
 I'm not quite ready to completely let go of my habit of logging things into
 my Daybook, but the writing is on the wall.
 
-** DONE Let's try using ox-hugo again :blogging:hugo:org_mode:
+*** DONE Let's try using ox-hugo again :blogging:hugo:org_mode:
 CLOSED: [2018-05-20 Sun 13:52]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2018-05-20-lets-try-ox-hugo-again
@@ -465,7 +490,7 @@ Tags are set just like normal org headings (e.g. "tag1:tag2").
 Being able to directly publish to my Hugo-based blog while still living in an
 Org-mode is pretty sweet.
 
-** DONE Syncthing :sync:dropbox:
+*** DONE Syncthing :sync:dropbox:
 CLOSED: [2018-05-20 Sun 12:14]
 :PROPERTIES:
 :EXPORT_FILE_NAME: syncthing
@@ -489,6 +514,7 @@ seems like a perfectly fine solution.
 
 
 [fn:1] The case-insensitive rename issue is [[https://github.com/syncthing/syncthing/issues/1787][known]] and tricky to solve.
+
 
 
 * Microblog
@@ -749,12 +775,9 @@ CLOSED: [2018-05-22 Tue 17:08]
 I'm thinking about moving small, "microblog" posts back into baty.net. This is
 one of them.
 
+
 * Footnotes
-
-​* COMMENT Local Variables                          :ARCHIVE:
-
-
-
+* COMMENT Local Variables :ARCHIVE:
 # Local Variables:
-# eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
+# eval: (org-hugo-auto-export-mode)
 # End:

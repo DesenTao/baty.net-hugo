@@ -1,13 +1,13 @@
 PUBLIC_DIR=public/
 SERVER_HOST=static.baty.net
 SERVER_DIR=/home/jbaty/apps/blog/public_html
-TARGET=lightsail
+TARGET=aws
 
 
 
 deploy: build commit push
-#	@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
-#	rsync -v -rz -e "ssh -i ~/.ssh/lightsail-us-east.pem" --checksum --delete --no-perms $(PUBLIC_DIR) $(SERVER_HOST):$(SERVER_DIR)
+	@echo "\033[0;32mDeploying updates to $(TARGET)...\033[0m"
+	rsync -v -rz -e "ssh -i ~/.ssh/lightsail-us-east.pem" --checksum --delete --no-perms $(PUBLIC_DIR) $(SERVER_HOST):$(SERVER_DIR)
 
 
 build:
