@@ -1,0 +1,58 @@
+-*- mode: Org; org-download-image-dir: "~/Dropbox/sites/blog/static/img"; -*-
+#+hugo_section: post
+#+hugo_base_dir: ../
+#+seq_todo: TODO DONE
+#+property: header-args :eval never-export
+#+author:
+
+* Drafts
+** TODO My Monthly Notetaking Rollover
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-monthly-notetaking-rollover
+:EXPORT_HUGO_SLUG: my-monthly-notetaking-rollover
+:EXPORT_HUGO_BUNDLE: /2018/my-monthly-notetaking-rollover
+:END:
+
+See https://micro.blog/rohdesign/611232
+
+#+BEGIN_QUOTE
+On the first of every month I start a new section in each of my notebooks. I
+also export last months org-journal entries to LaTeX->PDF and print them. I
+can’t explain why I love it so much, but it could be my favorite day.
+#+END_QUOTE
+** TODO A micro post
+:PROPERTIES:
+:EXPORT_FILE_NAME: a-micro-post
+:EXPORT_HUGO_TITLE: 
+:END:
+
+Thjis is a micro post
+* Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: post
+:END:
+** 2019
+:PROPERTIES:
+:EXPORT_HUGO_SECTION*: 2019
+:END:
+*** DONE Test Post using ox-hugo
+CLOSED: [2019-06-28 Fri 10:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: test-post-using-ox-hugo
+:END:
+
+I'm wondering how well this will work. Thinking it could be an easy way to microblog. Only one way to find out! Well, it does work.
+
+And more
+
+
+* Microblog
+:PROPERTIES:
+  :EXPORT_HUGO_SECTION: micro
+  :END:
+
+* Footnotes
+* COMMENT Local Variables :ARCHIVE:
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
