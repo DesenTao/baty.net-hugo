@@ -43,3 +43,16 @@ img.right-thumb {
 #archive-content a {
   color: #c05b4d;
 }
+
+/* Stop things from moving around on hover */
+.archive .archive-post:hover {
+transform: none;
+}
+
+.post .post-footer .post-nav .next:hover, .post .post-footer .post-nav .prev:hover {
+    transform: none;
+}
+
+.archive .collection-title .archive-year {
+    margin: 2em 0 1em;
+}

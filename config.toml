@@ -42,10 +42,10 @@ micro = "/micro/:year/:slug"
   identifier = "about"
   url = "/about"
 [[menu.main]]  
-  name = "Blog"
+  name = "Archives"
   weight = 20
-  identifier = "blog"
-  url = "https://www.baty.blog/"
+  identifier = "archives"
+  url = "/post"
 [[menu.main]]
   name = "Microblog"
   weight = 30
