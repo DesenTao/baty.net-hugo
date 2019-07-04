@@ -31,20 +31,42 @@ Thjis is a micro post
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post
 :END:
+
 ** 2019
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
-*** DONE Test Post using ox-hugo
-CLOSED: [2019-06-28 Fri 10:22]
+*** DONE Algorithms in NetNewsWire - Brent Simmons :social:
+CLOSED: [2019-07-04 Thu 08:14]
 :PROPERTIES:
-:EXPORT_FILE_NAME: test-post-using-ox-hugo
+:EXPORT_FILE_NAME: algorithms-brent-simmons
 :END:
 
-I'm wondering how well this will work. Thinking it could be an easy way to microblog. Only one way to find out! Well, it does work.
+[[https://inessential.com/2019/07/03/no_algorithms_follow_up][Brent Simmons]]:
 
-And more
+#+begin_quote
+So here’s the thing I keep coming back to: I think of NetNewsWire as almost a kind of ideal public utility. As such, it should be completely trustworthy — you should never wonder if it’s leading you down some path or other you didn’t intend or foresee.
+#+end_quote
 
+"trustworthy" is a good word and a great feature.
+
+*** DONE Resurrecting baty.net (for now) :meta:blogging:hugo:
+CLOSED: [2019-07-04 Thu 08:14]
+:PROPERTIES:
+:EXPORT_FILE_NAME: resurrecting-baty-dot-net--for-now
+:END:
+
+There are two things that cause me to occasionally abandon this blog at baty.net for something else.
+
+The first is friction. Hosting with [[https://gohugo.io][Hugo]] wonderful, but /posting/ can feel like more trouble than it's worth. That's when things like [[https://blot.im][Blot]] or [[https://wordpress.org/][WordPress]] start to look tempting.
+
+The second is boredom. I love trying new things, so whenever I find some new blogging tool, I trick myself into thinking "This is the one, for real this time!"
+
+So, I stop posting here and add a message letting my handful of readers know where I've gone. Of course then I find myself looking something up here that I know I posted some time in the past 15 years and poking around and wondering why I ever left.
+
+Since re-discovering [[https://ox-hugo.scripter.co][ox-hugo - Org to Hugo exporter]], I've found ways to reduce the friction of publishing posts. And I love writing in Emacs and Org-mode.
+
+All this to say that I've dusted off baty.net, re-jiggered my Hugo setup, and will be posting here again for a while.
 
 * Microblog
 :PROPERTIES:
