@@ -1,0 +1,58 @@
+.post-content ul, .post-content ol {
+    line-height: 1.4em;
+    font-size: smaller;
+}
+
+.post .post-content p {
+  font-size: 16px;
+  line-height: 1.8;
+  font-family: 'Merriweather', serif;
+  color: #444;
+}
+
+
+#your-host {
+  float: right;
+  padding: 0 0 10px 20px;
+}
+
+.archive .archive-post {
+  padding: 2px 0px 0px;
+  border-bottom: none;
+  font-size: 0.8em;
+  display: table;
+  width: 100%;
+}
+
+figcaption {
+  font-size: 0.8em;
+  color: #8a8a8a;
+}
+
+img.right-thumb {
+  float:right;
+  margin: 5px;
+}
+
+#archive-content {
+  margin: 0 5em 3em;
+  background-color: #fff;
+  padding: 1em 5em 1em;
+}
+
+#archive-content a {
+  color: #c05b4d;
+}
+
+/* Stop things from moving around on hover */
+.archive .archive-post:hover {
+transform: none;
+}
+
+.post .post-footer .post-nav .next:hover, .post .post-footer .post-nav .prev:hover {
+    transform: none;
+}
+
+.archive .collection-title .archive-year {
+    margin: 2em 0 1em;
+}

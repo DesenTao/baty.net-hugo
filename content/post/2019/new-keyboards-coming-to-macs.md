@@ -8,6 +8,6 @@ draft = false
 
 > In a report published today, Ming-Chi Kuo says that Apple will roll out a new keyboard design based on scissor switches, offering durability and longer key travel, starting with the 2019 MacBook Air.
 
-Instabuy if true.
+Instabuy if true. It _has_ to be better than the butterfly nonsense I'm working with now
 
 (via [John Gordon](http://www.kateva.org/sh/?p=68385))
