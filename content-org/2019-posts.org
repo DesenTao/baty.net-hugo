@@ -9,7 +9,6 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post
 :END:
-
 ** 2019
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
@@ -51,7 +50,7 @@ CLOSED: [2019-07-04 Thu 08:14]
 
 There are two things that cause me to occasionally abandon this blog at baty.net for something else.
 
-The first is friction. Hosting with [[https://gohugo.io][Hugo]] wonderful, but /posting/ can feel like more trouble than it's worth. That's when things like [[https://blot.im][Blot]] or [[https://wordpress.org/][WordPress]] start to look tempting.
+The first is friction. Hosting with [[https://gohugo.io][Hugo]] is wonderful, but /posting/ can feel like more trouble than it's worth. That's when things like [[https://blot.im][Blot]] or [[https://wordpress.org/][WordPress]] start to look tempting.
 
 The second is boredom. I love trying new things, so whenever I find some new blogging tool, I trick myself into thinking "This is the one, for real this time!"
 

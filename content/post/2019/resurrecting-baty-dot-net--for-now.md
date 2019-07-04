@@ -7,7 +7,7 @@ draft = false
 
 There are two things that cause me to occasionally abandon this blog at baty.net for something else.
 
-The first is friction. Hosting with [Hugo](https://gohugo.io) wonderful, but _posting_ can feel like more trouble than it's worth. That's when things like [Blot](https://blot.im) or [WordPress](https://wordpress.org/) start to look tempting.
+The first is friction. Hosting with [Hugo](https://gohugo.io) is wonderful, but _posting_ can feel like more trouble than it's worth. That's when things like [Blot](https://blot.im) or [WordPress](https://wordpress.org/) start to look tempting.
 
 The second is boredom. I love trying new things, so whenever I find some new blogging tool, I trick myself into thinking "This is the one, for real this time!"
 
