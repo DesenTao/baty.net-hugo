@@ -5,28 +5,6 @@
 #+property: header-args :eval never-export
 #+author:
 
-* Drafts
-** TODO My Monthly Notetaking Rollover
-:PROPERTIES:
-:EXPORT_FILE_NAME: my-monthly-notetaking-rollover
-:EXPORT_HUGO_SLUG: my-monthly-notetaking-rollover
-:EXPORT_HUGO_BUNDLE: /2018/my-monthly-notetaking-rollover
-:END:
-
-See https://micro.blog/rohdesign/611232
-
-#+BEGIN_QUOTE
-On the first of every month I start a new section in each of my notebooks. I
-also export last months org-journal entries to LaTeX->PDF and print them. I
-can’t explain why I love it so much, but it could be my favorite day.
-#+END_QUOTE
-** TODO A micro post
-:PROPERTIES:
-:EXPORT_FILE_NAME: a-micro-post
-:EXPORT_HUGO_TITLE: 
-:END:
-
-Thjis is a micro post
 * Posts
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: post
@@ -36,6 +14,21 @@ Thjis is a micro post
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** DONE New keyboards coming to Macs
+CLOSED: [2019-07-04 Thu 09:13]
+:PROPERTIES:
+:EXPORT_FILE_NAME: new-keyboards-coming-to-macs
+:END:
+
+[[https://9to5mac.com/2019/07/04/kuo-new-keyboard-macbook-air-pro/][Kuo: Apple to include new scissor switch keyboard in 2019 MacBook Air]]
+
+#+begin_quote
+In a report published today, Ming-Chi Kuo says that Apple will roll out a new keyboard design based on scissor switches, offering durability and longer key travel, starting with the 2019 MacBook Air.
+#+end_quote
+
+Instabuy
+
+(via [[http://www.kateva.org/sh/?p=68385][John Gordon]])
 *** DONE Algorithms in NetNewsWire - Brent Simmons :social:
 CLOSED: [2019-07-04 Thu 08:14]
 :PROPERTIES:
