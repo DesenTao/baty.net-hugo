@@ -62,6 +62,7 @@ Since re-discovering [[https://ox-hugo.scripter.co][ox-hugo - Org to Hugo export
 All this to say that I've dusted off baty.net, re-jiggered my Hugo setup, and will be posting here again for a while.
 
 * Now
+CLOSED: [2019-07-05 Fri 08:20]
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: now
