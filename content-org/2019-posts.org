@@ -3,7 +3,7 @@
 #+hugo_base_dir: ../
 #+seq_todo: TODO DONE
 #+property: header-args :eval never-export
-#+author:
+#+title: baty.net
 
 * Posts
 :PROPERTIES:
@@ -60,10 +60,18 @@ Since re-discovering [[https://ox-hugo.scripter.co][ox-hugo - Org to Hugo export
 
 All this to say that I've dusted off baty.net, re-jiggered my Hugo setup, and will be posting here again for a while.
 
-* Microblog
+* Now
 :PROPERTIES:
-  :EXPORT_HUGO_SECTION: micro
-  :END:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: now
+:END:
+
+A few of the things I’m doing as of Friday, July 05, 2019...
+
+ - (Still) Reading [[https://rudimentarylathe.org/#Leonardo%2520da%2520Vinci%2520by%2520Walter%2520Isaacson][Leonardo da Vinci by Walter Isaacson]]
+ - Reading [[https://rudimentarylathe.org/#Fall%252C%2520or%2520Dodge%2520in%2520Hell%2520by%2520Neal%2520Stephenson][Fall, or Dodge in Hell by Neal Stephenson]]
+ - Not taking many photos for some reason
+ - Getting to know Alice, our new dog
 
 * About
 CLOSED: [2019-07-04 Thu 11:18]

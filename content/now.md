@@ -1,20 +1,11 @@
----
-author: Jack
-date: 2018-06-09
-title: Things I’m doing now
-type: page
-comment: false
----
++++
+title = "Now"
+draft = false
++++
 
-**This page has been moved to my wiki at [rudimentarylathe.org](https://rudimentarylathe.org/#Now)**
+A few of the things I’m doing as of Friday, July 05, 2019...
 
-A few of the things I'm working on or thinking about as of **Sunday, January 13, 2019**
-
-- Exploring my renewed interest in digital photography
-- Reading "[Jack Reacher](https://www.goodreads.com/book/show/37752621-how-to-invent-everything)" by Lee Child. Time for something easy I guess.
-- Having a ball with my new wiki at [rudimentarylathe.org](https://rudimentarylathe.org)
-- Wondering what I'm going to be when I grow up.
-
-(_The idea for this page was inspired by [Derek Sivers][3]_)
-
-[3]: https://sivers.org/nowff
+-   (Still) Reading [Leonardo da Vinci by Walter Isaacson](https://rudimentarylathe.org/#Leonardo%20da%20Vinci%20by%20Walter%20Isaacson)
+-   Reading [Fall, or Dodge in Hell by Neal Stephenson](https://rudimentarylathe.org/#Fall%2C%20or%20Dodge%20in%20Hell%20by%20Neal%20Stephenson)
+-   Not taking many photos for some reason
+-   Getting to know Alice, our new dog
