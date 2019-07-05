@@ -66,9 +66,78 @@ All this to say that I've dusted off baty.net, re-jiggered my Hugo setup, and wi
   :END:
 
 * About
+CLOSED: [2019-07-04 Thu 11:18]
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: about
 :END:
+
+#+begin_export html
+<div id="your-host">
+<img src="/img/jack-home.jpg" alt="Jack Baty" width="300" height="300" />
+</div>
+#+end_export
+
+
+*Hello, I'm Jack Baty*.
+
+** A little about me
+
+I’ve been a partner at [[https://fusionary.com][Fusionary Media]] since 1995. Fusionary is a
+terrific digital studio in Grand Rapids, MI. If your business needs
+something built for the web or mobile devices you should [[mailto:info@fusionary.com][send us a
+note]].
+
+I blog at *[[https://www.baty.net/][baty.net]]* ✒️
+
+I've also been having a ball at my new wiki: [[https://rudimentarylathe.org][Rudimentary Lathe]].
+
+You can email me at [[mailto:jack@baty.net][jack@baty.net]] ✉️
+
+If you use ProtonMail and prefer a more secure method: [[mailto:jbaty@pm.me][jbaty@pm.me]] ✉️
+
+I have a few other interests:
+
+*Photography*. I call it “photography” but it’s more like “camera
+collecting.” I shoot both film and digital and upload to [[https://flickr.com/photos/jbaty][Flickr]]
+
+*Analog*. Digital is where we are, but I still enjoy using things like
+film cameras, vinyl records, manual typewriters, notebooks, and
+fountain pens.
+
+See the [[/now][Now page]] for a list of more specific current interests and projects.
+
+**Do not expect consistency**.
+
+** Miscellany
+
+*** Weblogs and other publishing experiments
+
+- [[https://www.baty.net][baty.net]] - The hub of my online presence. You're soaking in it. 
+- [[https://www.baty.blog/][baty.blog]] - My blog using [Blot](https://blot.im) (resurrected on 2019.01.22) 
+- [[https://rudimentarylathe.org/][rudimentarylathe.org]] - My life wiki (using Tiddlywiki)
+- [[https://micro.baty.net/][micro.baty.net]] - A Microblog
+- [[http://tilde.club/~jbaty][tilde.club/~jbaty]] - because nostalgia is strong and Paul Ford is my hero
+
+*** Photography
+
+- [[https://flickr.com/photos/jbaty/][Flickr]] - I've been posting photos to Flickr since forever. Flickr is still the best photo sharing service, and I'm looking forward to what's next now that it's owned by SmugMug.
+
+*** Social Media
+
+- [[https://mastodon.technology/@jackbaty][@jackbaty@mastodon.technology]] on Mastodon
+- [[https://twitter.com/jackbaty][@jackbaty]] on Twitter, although I'm no longer participating there 
+- [[https://instagram.com/mrjackbaty][MrJackBaty]] on Instagram, although I don't post often
+
+
+*** Other
+
+- [[https://rudimentarylathe.org/#Books][Books I've Read]]
+- [[/lifestack][Things I use]]
+- [[https://www.baty.net/avatar/][The origin of my avatar]]
+- [[https://letterboxd.com/jackbaty][Letterboxd]] is where I track and rate the movies I watch
+- [[https://goodreads.com/jackbaty][Goodreads]] for sharing what I'm reading
+
 
 * Footnotes
 * COMMENT Local Variables :ARCHIVE:
