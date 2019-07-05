@@ -3,6 +3,7 @@
 #+hugo_base_dir: ../
 #+seq_todo: TODO DONE
 #+property: header-args :eval never-export
+#+author: 
 #+title: baty.net
 
 * Posts
@@ -64,6 +65,7 @@ All this to say that I've dusted off baty.net, re-jiggered my Hugo setup, and wi
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: now
+:EXPORT_TITLE: Things I'm doing now
 :END:
 
 A few of the things I’m doing as of Friday, July 05, 2019...
