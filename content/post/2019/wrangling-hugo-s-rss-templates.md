@@ -69,4 +69,4 @@ And in config.toml I've replaced `rssLimit` with this...
   limit = 20
 ```
 
-If there's an easier way to do all this I'd love to hear about it. Maybe the addition of the new `[services.rss]` section hints and other pending improvements. Ideally, I wouldn't need to override the entire RSS template in order to make these changes. And I'll be sure to read the release notes more thoroughly next time.
+If there's an easier way to do all this I'd love to hear about it. Maybe the addition of the new `[services.rss]` section suggests other pending improvements. Ideally, I wouldn't need to override the entire RSS template in order to make these changes. And I'll be sure to read the release notes more thoroughly next time.
