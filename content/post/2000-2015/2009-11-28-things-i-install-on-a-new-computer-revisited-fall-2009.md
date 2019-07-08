@@ -24,48 +24,82 @@ url: /2009/things-i-install-on-a-new-computer-revisited-fall-2009/
 
 <img src="https://www.baty.net/files/macbookpro-unibody.png" alt="macbookpro-unibody.png" width="400" height="220" border="0" />
 
-My new MacBook Pro arrived yesterday. This will replace my aging, 2-year old version. It's a thing of beauty. Whenever I get a new machine, I'm tempted to just run the simple data migration to move everything over, but never do. Instead, I start from scratch. This is a complete pain in the ass, but very much worth the trouble. It just feels so good!
+My new MacBook Pro arrived yesterday. This will replace my aging,
+2-year old version. It's a thing of beauty. Whenever I get a new
+machine, I'm tempted to just run the simple data migration to move
+everything over, but never do. Instead, I start from scratch. This is
+a complete pain in the ass, but very much worth the trouble. It just
+feels so good!
 
-Below is a list of things I installed this time. I'm listing only software, not the geeky bits like Ruby On Rails, MacPorts etc. It took me most of the day yesterday, but I think I've got things pretty much how I like them.
+Below is a list of things I installed this time. I'm listing only
+software, not the geeky bits like Ruby On Rails, MacPorts etc. It took
+me most of the day yesterday, but I think I've got things pretty much
+how I like them.
 
-  * [Launchbar][1] &#8211; Without a good launcher, using a Mac feels like working
-  
-    with one hand behind my back.
+  * [Launchbar][1] &#8211; Without a good launcher, using a Mac feels
+    like working with one hand behind my back.
   * [Dropbox][2] &#8211; Sync made so easy it's ridiculous.
-  * [Tinderbox][3] &#8211; "The tool for notes" (and nearly everything else.) This is where I live.
-  * [1Password][4] &#8211; Passwords, forms, card numbers, etc. Beautifully done.
-  * [Yojimbo][5] &#8211; An anything bucket. Simple enough that it actually gets used.
-  * [BBEdit][6] &#8211; Text editing done very well. Yes, better than TextMate.
+  * [Tinderbox][3] &#8211; "The tool for notes" (and nearly everything
+    else.) This is where I live.
+  * [1Password][4] &#8211; Passwords, forms, card numbers,
+    etc. Beautifully done.
+  * [Yojimbo][5] &#8211; An anything bucket. Simple enough that it
+    actually gets used.
+  * [BBEdit][6] &#8211; Text editing done very well. Yes, better than
+    TextMate.
   * [OmniFocus][7] &#8211; Task management with enough oomph.
   * [AppZapper][8] &#8211; I change my mind a lot.
-  * [Backblaze][9] &#8211; Online backup without thinking. Just in case.
-  * [BusyCal][10] &#8211; Because iCal isn't good enough, and I don't like web based calendars.
-  * [Daylite][11] &#8211; Gotta put all those contacts and opportunities somewhere.
-  * [DEVONthink Pro][12] &#8211; Anything project related goes here, and I'm guaranteed to find it.
+  * [Backblaze][9] &#8211; Online backup without thinking. Just in
+    case.
+  * [BusyCal][10] &#8211; Because iCal isn't good enough, and I don't
+    like web based calendars.
+  * [Daylite][11] &#8211; Gotta put all those contacts and
+    opportunities somewhere.
+  * [DEVONthink Pro][12] &#8211; Anything project related goes here,
+    and I'm guaranteed to find it.
   * [Fluid][13] &#8211; For running web stuff as their own "apps".
-  * [Interarchy][14] &#8211; SFTP client. I've been using this for years. No reason to change.
-  * [MarsEdit][15] &#8211; Still the best way to consistently post to a number of sites.
-  * [MindManager][16] &#8211; Mindmapping. Expensive, but still the best there is.
-  * [NetNewsWire][17] &#8211; Because even the good web-based readers suck.
-  * [OmmWriter][18]&#8211; Weird, new-agey writing app for distraction-free writing. Surprised by how much I like it.
-  * [Photo Mechanic][19] &#8211; Not used as much now that I don't shoot digital, but it's great for pulling photos of cards when I do.
-  * [QuickCursor][20] &#8211; Like the "Edit In&#8230;" plugins, without the hacks.
+  * [Interarchy][14] &#8211; SFTP client. I've been using this for
+    years. No reason to change.
+  * [MarsEdit][15] &#8211; Still the best way to consistently post to
+    a number of sites.
+  * [MindManager][16] &#8211; Mindmapping. Expensive, but still the
+    best there is.
+  * [NetNewsWire][17] &#8211; Because even the good web-based readers
+    suck.
+  * [OmmWriter][18]&#8211; Weird, new-agey writing app for
+    distraction-free writing. Surprised by how much I like it.
+  * [Photo Mechanic][19] &#8211; Not used as much now that I don't
+    shoot digital, but it's great for pulling photos of cards when I
+    do.
+  * [QuickCursor][20] &#8211; Like the "Edit In&#8230;" plugins,
+    without the hacks.
   * [Sequel Pro][21] &#8211; Best MySQL management GUI available.
   * [SizeUp][22] &#8211; Move and size windows with the keyboard.
   * [Skitch][23] &#8211; Almost perfect screen capture.
-  * [Spirited Away][24] &#8211; Automatically hides inactive apps. Fits my minimalist tendencies nicely.
-  * [SuperDuper][25] &#8211; Simple, bootable backups. Saved my ass a number of times.
+  * [Spirited Away][24] &#8211; Automatically hides inactive
+    apps. Fits my minimalist tendencies nicely.
+  * [SuperDuper][25] &#8211; Simple, bootable backups. Saved my ass a
+    number of times.
   * [Ulysses][26] &#8211; Complete semantic writing environment.
   * [WriteRoom][27] &#8211; Distraction free writing.
-  * [Lightroom][28] &#8211; Image management and editing. Does everything.
-  * [Nik Plugins for Lightroom][29] &#8211; The Complete Collection. Awesome set of tools for Lightroom.
-  * [SilverFast Ai Studio][30] &#8211; The best scanning results, with the worst UI of any software, anywhere.
-  * [TextExpander][31] &#8211; Wonderful typing utility/accelerator. I'm lost without this.
-  * [iStat Menus][32] &#8211; Very nice system monitors. I use the menu bar calendar instead of the built in version.
+  * [Lightroom][28] &#8211; Image management and editing. Does
+    everything.
+  * [Nik Plugins for Lightroom][29] &#8211; The Complete
+    Collection. Awesome set of tools for Lightroom.
+  * [SilverFast Ai Studio][30] &#8211; The best scanning results, with
+    the worst UI of any software, anywhere.
+  * [TextExpander][31] &#8211; Wonderful typing
+    utility/accelerator. I'm lost without this.
+  * [iStat Menus][32] &#8211; Very nice system monitors. I use the
+    menu bar calendar instead of the built in version.
   * [Mail Act-On][33] &#8211; Keyboard email management for Mail.app.
-  * [Chronosync][34] &#8211; Synchronizes all my external drives nicely, automatically, on a schedule.
-  * [Acorn][35] &#8211; It really is "The image editor for humans." I despise Photoshop, and now I don't need it.
-  * [ClickToFlash][36] &#8211; Great Safari plug-in which gets Flash under control.
+  * [Chronosync][34] &#8211; Synchronizes all my external drives
+    nicely, automatically, on a schedule.
+  * [Acorn][35] &#8211; It really is "The image editor for humans." I
+    despise Photoshop, and now I don't need it.
+  * [ClickToFlash][36] &#8211; Great Safari plug-in which gets Flash
+    under control.
+	
 
  [1]: http://www.obdev.at/launchbar
  [2]: https://www.dropbox.com/
