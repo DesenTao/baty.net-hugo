@@ -24,7 +24,7 @@ It's fashionable lately to "ditch" Dropbox for other sync services. The reasons 
 
 Dropbox has only rarely caused me grief, and only with resource usage. Sometimes the client takes too many of them. Otherwise, it's been reliable and dependable for many years.
 
-I've used Syncthing and Resilio Sync as alternatives. Both are fine, but other services depending on sync don't often support them, meaning I /still/ need to use Dropbox. This puts me in the unhappy situation of keeping things in 2 places. I did this for a while, and it ended up a confusing mess.
+I've used Syncthing and Resilio Sync as alternatives. Both are fine, but other services depending on sync don't often support them, meaning I /still/ need to use Dropbox for some of my "stuff". This puts me in the unhappy situation of keeping things in 2 places. I did this for a while, and it ended up a confusing mess.
 
 iCloud is handy, but only on my Macs and iOS devices. It's also never been as dependable as Dropbox. I've lost things. And stories like [[https://mjtsai.com/blog/2019/07/11/icloud-data-loss-with-macos-10-15-and-ios-13-betas/][iCloud data loss with macos and ios 13 betas]] doesn't help my confidence.
 
