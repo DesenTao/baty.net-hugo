@@ -22,7 +22,7 @@ CLOSED: [2019-07-12 Fri 10:01]
 
 It's fashionable lately to "ditch" Dropbox for other sync services. The reasons stated are usually around cost or privacy. This is understandable, but for anyone with a significant number of files and/or services using Dropbox, the time and complexity of switching could easily be costlier than what it would be to just continue using Dropbox.
 
-I'm sticking with Dropbox for syncing my files. Dropbox has only rarely caused me grief, and only with resource usage. Sometimes the client takes too many of them. Otherwise, it's been reliable and dependable for many years.
+Dropbox has only rarely caused me grief, and only with resource usage. Sometimes the client takes too many of them. Otherwise, it's been reliable and dependable for many years.
 
 I've used Syncthing and Resilio Sync as alternatives. Both are fine, but other services depending on sync don't often support them, meaning I /still/ need to use Dropbox. This puts me in the unhappy situation of keeping things in 2 places. I did this for a while, and it ended up a confusing mess.
 
