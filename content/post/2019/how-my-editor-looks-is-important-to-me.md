@@ -4,13 +4,13 @@ date = 2019-07-13T09:15:00-04:00
 draft = false
 +++
 
-[This post at irreal](https://irreal.org/blog/?p=8166) laments the fact that people make such a big deal out of how their text editor looks rather than its functionality.
+[This post at irreal](https://irreal.org/blog/?p=8166) laments the fact that people make such a big deal out of how their text editor looks, suggesting that it's only the functionality that matters.
 
 He quotes [Vivak Halder](https://blog.vivekhaldar.com/post/31970017734/new-frontiers-in-text-editing)...
 
 > “why should you ever care how your editor looks, unless you’re trying to win a screenshot competition?”
 
-In general, I agree, what my editor does and how it does it is what's most important.
+In general, I agree, what my editor does and how it does it is what's most important. No one is ignoring
 
 But there's an easy answer to Vivak's question: I care about how my editor looks because _I stare at it all day_. How could I _not_ care deeply about how it looks?
 
