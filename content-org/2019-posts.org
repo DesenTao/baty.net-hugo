@@ -14,6 +14,35 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** DONE How my editor looks is important to me
+CLOSED: [2019-07-13 Sat 09:15]
+:PROPERTIES:
+:EXPORT_FILE_NAME: how-my-editor-looks-is-important-to-me
+:END:
+
+[[https://irreal.org/blog/?p=8166][This post at irreal]] laments the fact that people make such a big deal out of how their text editor looks rather than its functionality.
+
+He quotes [[https://blog.vivekhaldar.com/post/31970017734/new-frontiers-in-text-editing][Vivak Halder]]...
+
+#+begin_quote
+“why should you ever care how your editor looks, unless you’re trying to win a screenshot competition?”
+#+end_quote
+
+In general, I agree, what my editor does and how it does it is what's most important. 
+
+But there's an easy answer to Vivak's question: I care about how my editor looks because /I stare at it all day/. How could I /not/ care deeply about how it looks?
+
+There are many great reasons to defend Emacs, but appearance isn't one of them. Dismissing aesthetics as unnecessary feels like defensive rationalization.
+
+I've spent many hours trying to improve the look and feel of my Emacs experience, and I've gotten it to the point where, while no one would call it beautiful, it's at least no longer aesthetically offensive.
+
+I want the things I use and stare at all day to be pleasant. Emacs doesn't need to be beautiful, but it does need to be /nice/. 
+
+Now, if I could only find a decent font and a light theme I don't hate[fn:leuven].
+
+[fn:leuven] Please don't say "Leuven". I would try and make my own theme but I doubt I could come up with anything I like, even if I was capable of making one.
+
+
 *** DONE Sticking with Dropbox :dropbox:icloud:
 CLOSED: [2019-07-12 Fri 10:01]
 :PROPERTIES:
