@@ -10,7 +10,7 @@ He quotes [Vivak Halder](https://blog.vivekhaldar.com/post/31970017734/new-front
 
 > “why should you ever care how your editor looks, unless you’re trying to win a screenshot competition?”
 
-In general, I agree, what my editor does and how it does it is what's most important. No one is ignoring
+In general, I agree. What my editor can do and how it does it is what's most important.
 
 But there's an easy answer to Vivak's question: I care about how my editor looks because _I stare at it all day_. How could I _not_ care deeply about how it looks?
 
