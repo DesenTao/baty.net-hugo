@@ -14,7 +14,8 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
-*** TODO Org Super Agenda :emacs:orgmode:
+*** DONE Org Super Agenda :emacs:orgmode:
+CLOSED: [2019-07-16 Tue 12:18]
 :PROPERTIES:
 :EXPORT_FILE_NAME: org-super-agenda
 :END:

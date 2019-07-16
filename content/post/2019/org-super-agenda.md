@@ -1,7 +1,8 @@
 +++
 title = "Org Super Agenda"
+date = 2019-07-16T12:18:00-04:00
 tags = ["emacs", "orgmode"]
-draft = true
+draft = false
 +++
 
 [Org-super-agenda](https://github.com/alphapapa/org-super-agenda) really helps wrangle the agenda view when there are lots of tasks.
