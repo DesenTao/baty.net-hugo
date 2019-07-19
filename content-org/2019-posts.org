@@ -14,6 +14,23 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** DONE In My (Peak Design 5L Sling) Bag :photography:
+CLOSED: [2019-07-19 Fri 12:31]
+:PROPERTIES:
+:EXPORT_FILE_NAME: in-my-peak-design-5l-sling--bag
+:END:
+
+Here's a snap of today's all-analog combo in the [[https://www.peakdesign.com/products/everyday-sling-5/][Peak Design Everyday Sling 5L]].
+
+#+DOWNLOADED: file:/Users/jbaty/Desktop/Export/Lightroom CC Export/2019-07-19-peak-design-sling.jpg @ 2019-07-19 12:13:44
+[[file:../static/img/Posts/2019-07-19-peak-design-sling-2019-07-19.jpg]]
+
+- Fuji Instax Square camera
+- Leica M6 w/50mm Summicron
+- Film for both
+
+I love this bag. I wish that the clever strap adjustment mechanism worked more easily, but otherwise, for carrying a small camera and accessories it's nearly perfect.
+
 *** DONE Org Super Agenda :emacs:orgmode:
 CLOSED: [2019-07-16 Tue 12:18]
 :PROPERTIES:
