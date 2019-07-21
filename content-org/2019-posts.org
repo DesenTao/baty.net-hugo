@@ -14,6 +14,22 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** DONE Where did all the glitter go? :internet:nostalgia:
+CLOSED: [2019-07-21 Sun 06:59]
+:PROPERTIES:
+:EXPORT_FILE_NAME: where-did-all-the-glitter-go
+:END:
+
+From a [[https://jarredsumner.com/codeblog/?source=post_page---------------------------][post by Jared Sumner]]:
+
+
+
+#+DOWNLOADED: file:/Users/jbaty/Desktop/2019-07-21-wheres-the-glitter.png @ 2019-07-21 06:57:34
+[[file:../static/img/Posts/2019-07-21-wheres-the-glitter-2019-07-21.png]]
+
+It's becoming cliche for Olds like me to pine for the days of the old, quirky, "fun" internet, but dammit I kind of miss the old, quirky, fun internet.
+
+
 *** DONE In My (Peak Design 5L Sling) Bag :photography:
 CLOSED: [2019-07-19 Fri 12:31]
 :PROPERTIES:
