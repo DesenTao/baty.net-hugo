@@ -9,4 +9,4 @@ From a [post by Jared Sumner](https://jarredsumner.com/codeblog/?source=post%5Fp
 
 {{< figure src="/img/Posts/2019-07-21-wheres-the-glitter-2019-07-21.png" >}}
 
-It's becoming cliche for Olds like me to pine for the days of the old, quirky, "fun" internet, but dammit I kind of miss the old, quirky, fun internet.
+It's become cliche for Olds like me to pine for the days of the old, quirky, "fun" internet, but dammit I kind of miss the old, quirky, fun internet.
