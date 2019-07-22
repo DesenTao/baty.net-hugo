@@ -14,7 +14,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
-*** DONE Book: Space Opera, by Catherynne Valente :book:
+*** DONE Book: Space Opera, by Catherynne Valente 📚:book:
 CLOSED: [2019-07-22 Mon 08:17]
 :PROPERTIES:
 :EXPORT_FILE_NAME: book-space-opera-by-catherynne-valente
