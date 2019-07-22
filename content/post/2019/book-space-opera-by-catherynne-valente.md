@@ -1,6 +1,7 @@
 +++
-title = "Book: Space Opera, by Catherynne Valente 📚:book:"
+title = "Book: Space Opera, by Catherynne Valente 📚"
 date = 2019-07-22T08:17:00-04:00
+tags = ["book"]
 draft = false
 +++
 
