@@ -1,5 +1,5 @@
 +++
-title = "Book: Armada by Ernest Cline"
+title = "Book: Armada by Ernest Cline 📚"
 date = 2019-07-26T07:56:00-04:00
 tags = ["book"]
 draft = false

@@ -14,7 +14,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
-*** DONE Book: Armada by Ernest Cline :book:
+*** DONE Book: Armada by Ernest Cline 📚  :book:
 CLOSED: [2019-07-26 Fri 07:56]
 :PROPERTIES:
 :EXPORT_FILE_NAME: book-armada-by-ernest-cline
