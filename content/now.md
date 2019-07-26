@@ -11,3 +11,4 @@ A few of the things I’m doing as of Friday, July 05, 2019...
 - Not taking many photos for some reason
 - Resurrecting baty.net using ox-hugo
 - Getting to know Alice, our new dog
+
