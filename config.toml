@@ -22,7 +22,6 @@ PygmentsOptions = "linenos=table"
 # language support # en / zh-cn / other...
 defaultContentLanguage = "en"
 
-
 [services.rss]
   limit = 20
 
