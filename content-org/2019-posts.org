@@ -14,7 +14,7 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
-*** DONE LeicaM4 is out of storage :leica:film:
+*** DONE Leica M4 is out of storage :leica:film:
 CLOSED: [2019-08-06 Tue 14:53]
 :PROPERTIES:
 :EXPORT_FILE_NAME: leica-m4-is-out-of-storage

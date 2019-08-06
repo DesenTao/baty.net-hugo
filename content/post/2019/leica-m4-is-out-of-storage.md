@@ -1,5 +1,5 @@
 +++
-title = "LeicaM4 is out of storage"
+title = "Leica M4 is out of storage"
 date = 2019-08-06T14:53:00-04:00
 tags = ["leica", "film"]
 draft = false
