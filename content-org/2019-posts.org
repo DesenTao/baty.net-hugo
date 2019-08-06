@@ -14,6 +14,20 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** DONE I still like using ox-hugo :blogging:hugo:
+CLOSED: [2019-08-06 Tue 09:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: i-still-like-using-ox-hugo
+:END:
+
+I'm still using [[https://ox-hugo.scripter.co][ox-hugo]] for publishing with [[https://gohugo.io][Hugo]]. I like writing in org-mode. I also like that my entire site can be in a single text file. It's clever enough to be helpful, but not so clever that it feels like magic.
+
+Here's a current screenshot.
+
+#+DOWNLOADED: file:/Users/jbaty/Desktop/2019-08-06-ox-hugo-screen.png @ 2019-08-06 09:13:45
+[[file:../static/img/Posts/2019-08-06-ox-hugo-screen-2019-08-06.png]]
+
+
 *** DONE Book: Bad Monkeys by Matt Ruff :book:
 CLOSED: [2019-08-06 Tue 08:35]
 :PROPERTIES:
@@ -353,11 +367,11 @@ CLOSED: [2019-07-05 Fri 08:20]
 :EXPORT_TITLE: Things I'm doing now
 :END:
 
-A few of the things I’m doing as of Friday, July 05, 2019...
+A few of the things I’m doing as of August 06, 2019...
 
+ - Reading [[https://www.goodreads.com/book/show/8380409-the-instructions][The Instructions, by Adam Levin]]
  - (Still) Reading [[https://rudimentarylathe.org/#Leonardo%2520da%2520Vinci%2520by%2520Walter%2520Isaacson][Leonardo da Vinci by Walter Isaacson]]
- - Reading [[https://rudimentarylathe.org/#Fall%252C%2520or%2520Dodge%2520in%2520Hell%2520by%2520Neal%2520Stephenson][Fall, or Dodge in Hell by Neal Stephenson]]
- - Not taking many photos for some reason
+ - Working on my color film scanning process
  - Getting to know Alice, our new dog
 
 * About
