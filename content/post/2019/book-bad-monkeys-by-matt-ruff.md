@@ -1,5 +1,5 @@
 +++
-title = "Book: Bad Monkeys by Matt Ruff"
+title = "Book: Bad Monkeys by Matt Ruff 📚"
 date = 2019-08-06T08:35:00-04:00
 tags = ["book"]
 draft = false
