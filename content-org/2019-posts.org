@@ -14,7 +14,8 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
-*** TODO Update on using Elfeed :rss:elfeed:
+*** DONE Update on using Elfeed :rss:elfeed:
+CLOSED: [2019-08-18 Sun 08:34]
 :PROPERTIES:
 :EXPORT_FILE_NAME: update-on-using-elfeed
 :END:
