@@ -14,6 +14,19 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** DONE Tumblr :blogging:social:tumblr:
+CLOSED: [2019-08-18 Sun 11:53]
+:PROPERTIES:
+:EXPORT_FILE_NAME: tumblr
+:END:
+
+Yep, I'm [[https://jackbaty.tumblr.com/][posting to Tumblr again]]. It could just be nostalgia, but I've been thinking about Tumblr ever since Matt [[https://photomatt.tumblr.com/post/186964618222/automattic-tumblr][announced the purchase]].
+
+I posted to Tumblr for the [[https://jackbaty.tumblr.com/post/3645/first-post][first time on Febuary 24th, 2007]] and continued pretty regularly through 2015, right about the time Yahoo was determined to ruin it.
+
+I really liked Tumblr. I liked the content, the easy posting UI, the "community", the weirdness, all of it.
+
+Like SmugMug taking over Flickr, I feel like Automattic owning Tumblr is the best turn of events I can think of, so I'm optimistically starting to post there again. No idea yet what effect it will have on my current posting venues, but what counts is that I'm having fun.
 *** DONE Update on using Elfeed :rss:elfeed:
 CLOSED: [2019-08-18 Sun 08:34]
 :PROPERTIES:
