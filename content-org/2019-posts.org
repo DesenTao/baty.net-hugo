@@ -14,6 +14,16 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** TODO Update on using Elfeed :rss:elfeed:
+:PROPERTIES:
+:EXPORT_FILE_NAME: update-on-using-elfeed
+:END:
+
+It turns out that most of the problems I wrote about in [[https://www.baty.net/2018/i-failed-at-using-elfeed-as-my-rss-reader/][I Failed at Using Elfeed as My RSS Reader]] were due to the "improvements" introduced by the [[https://github.com/algernon/elfeed-goodies][elfeed-goodies package]]. Removing that package made Elfeed behave as I'd expect, and now I'm reading feeds in Emacs again :)
+
+This isn't likely to replace [[https://ranchero.com/netnewswire/][NetNewsWire]] for the majority of my read-for-pleasure feeds, but it's quite nice for cranking through more "transactional" feeds.
+
+
 *** DONE Fewer of more
 CLOSED: [2019-08-15 Thu 13:11]
 :PROPERTIES:
