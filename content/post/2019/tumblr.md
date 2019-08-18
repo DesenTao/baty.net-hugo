@@ -11,4 +11,4 @@ I posted to Tumblr for the [first time on Febuary 24th, 2007](https://jackbaty.t
 
 I really liked Tumblr. I liked the content, the easy posting UI, the "community", the weirdness, all of it.
 
-Like SmugMug taking over Flickr, I feel like Automattic owning Tumblr is the best turn of events I can think of, so I'm optimistically starting to post there again. No idea yet what effect it will have on my current posting venues, but what counts is that I'm having fun.
+Like SmugMug taking over Flickr, Automattic owning Tumblr is the best turn of events I can think of, so I'm optimistically starting to post there again. No idea yet what effect it will have on my current posting venues, but what counts is that I'm having fun.
