@@ -14,3 +14,5 @@ draft = false
 > My favorite language of all, the language that I think will outlast all the others, the language that I believe will eventually become the standard language that all programmers use…
 >
 > …is Lisp.
+
+I haven't learned a new programming language in a decade, but I'm fascinated by Clojure.
