@@ -14,6 +14,32 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** DONE Why Clojure? - (Uncle) Bob Martin :lisp:programming:
+CLOSED: [2019-08-23 Fri 07:42]
+:PROPERTIES:
+:EXPORT_FILE_NAME: why-clojure--uncle--bob-martin
+:END:
+
+[Bob Martin](http://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html):
+
+#+begin_quote
+ Over the last 5 decades, I’ve used a LOT of different languages.
+ 
+ And I’ve come to a conclusion.
+ 
+ My favorite language of all, the language that I think will outlast all the others, the language that I believe will eventually become the standard language that all programmers use…
+ 
+ …is Lisp.
+#+end_quote
+*** TODO Why I switched to...
+:PROPERTIES:
+:EXPORT_FILE_NAME: why-i-switched-to-dot-dot-dot
+
+:END:
+
+Write about why people switch. Or why they /claim/ to switch.
+
+Gyrations, rationalizations, boredom, etc
 *** DONE Tumblr :blogging:social:tumblr:
 CLOSED: [2019-08-18 Sun 11:53]
 :PROPERTIES:
