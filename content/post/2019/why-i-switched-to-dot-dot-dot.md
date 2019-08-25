@@ -5,9 +5,9 @@ tags = ["productivity"]
 draft = false
 +++
 
-I could write a post every day titled "Why I switched to [INSERT TOOL HERE]"
+I could write a post every day titled "Why I switched to [INSERT TOOL HERE]."
 
-I don't do that, because 90% of the time the reasons I switch from one tool to another have little to do with how I'd characterizeq them in a blog post. In other words, most of my "reasons" for switching, while based on facts, are still bullshit.
+I don't do that, because 90% of the time the reasons I switch from one tool to another have little to do with how I'd characterizeq them in a blog post. In other words, most of my "reasons" for switching, while based on facts, are still bullshit[^fn:1].
 
 See, most of the time I'm just bored and want to try something new.
 
@@ -19,6 +19,7 @@ I do like to try new things, and if I'm being honest, there are only 3 reasons I
 2.  Procrastination
 3.  Curiosity
 
-Everything else is rationalization[^fn:1].
+Everything else is rationalization[^fn:2].
 
-[^fn:1]: I'm sure _your_ reasons are valid, though ;).
+[^fn:1]: This doesn't mean I'll _never_ write about it!
+[^fn:2]: I'm sure _your_ reasons are valid, though ;).

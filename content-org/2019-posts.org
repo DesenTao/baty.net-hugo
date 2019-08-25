@@ -20,9 +20,9 @@ CLOSED: [2019-08-25 Sun 10:00]
 :EXPORT_FILE_NAME: why-i-switched-to-dot-dot-dot
 :END:
 
-I could write a post every day titled "Why I switched to [INSERT TOOL HERE]"
+I could write a post every day titled "Why I switched to [INSERT TOOL HERE]."
 
-I don't do that, because 90% of the time the reasons I switch from one tool to another have little to do with how I'd characterizeq them in a blog post. In other words, most of my "reasons" for switching, while based on facts, are still bullshit.
+I don't do that, because 90% of the time the reasons I switch from one tool to another have little to do with how I'd characterizeq them in a blog post. In other words, most of my "reasons" for switching, while based on facts, are still bullshit[fn:2].
 
 See, most of the time I'm just bored and want to try something new. 
 
@@ -651,6 +651,8 @@ See the [[/now][Now page]] for a list of more specific current interests and pro
 
 
 * Footnotes
+
+[fn:2] This doesn't mean I'll /never/ write about it! 
 
 [fn:1] I'm sure /your/ reasons are valid, though ;). 
 * COMMENT Local Variables :ARCHIVE:
