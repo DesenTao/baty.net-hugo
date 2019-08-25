@@ -14,15 +14,28 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
-*** TODO Why I switched to...
+*** DONE Why I switched to... :productivity:
+CLOSED: [2019-08-25 Sun 10:00]
 :PROPERTIES:
 :EXPORT_FILE_NAME: why-i-switched-to-dot-dot-dot
-
 :END:
 
-Write about why people switch. Or why they /claim/ to switch.
+I could write a post every day titled "Why I switched to [INSERT TOOL HERE]"
 
-Gyrations, rationalizations, boredom, etc
+I don't do that, because 90% of the time the reasons I switch from one tool to another have little to do with how I'd characterizeq them in a blog post. In other words, most of my "reasons" for switching, while based on facts, are still bullshit.
+
+See, most of the time I'm just bored and want to try something new. 
+
+I rarely try new things when I'm actually busy or productive. I can be productive with any text editor at all. Or any todo manager, or any git client, or any browser, or any shell, or any terminal, or any operating system, or any blogging system, or any image editor, or any keyboard, or any camera, or any film developer, or... you see what I mean.
+
+I do like to try new things, and if I'm being honest, there are only 3 reasons I switch tools:
+
+1. Boredom
+2. Procrastination
+3. Curiosity
+
+Everything else is rationalization[fn:1].
+
 *** DONE Why Clojure? - (Uncle) Bob Martin :lisp:programming:
 CLOSED: [2019-08-23 Fri 07:42]
 :PROPERTIES:
@@ -638,6 +651,8 @@ See the [[/now][Now page]] for a list of more specific current interests and pro
 
 
 * Footnotes
+
+[fn:1] I'm sure /your/ reasons are valid, though ;). 
 * COMMENT Local Variables :ARCHIVE:
 # Local Variables:
 # eval: (org-hugo-auto-export-mode)
