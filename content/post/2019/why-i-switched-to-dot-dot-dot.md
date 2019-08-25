@@ -7,7 +7,7 @@ draft = false
 
 I could write a post every day titled "Why I switched to [INSERT TOOL HERE]."
 
-I don't do that, because 90% of the time the reasons I switch from one tool to another have little to do with how I'd characterizeq them in a blog post. In other words, most of my "reasons" for switching, while based on facts, are still bullshit[^fn:1].
+I don't do that, because 90% of the time the reasons I switch from one tool to another have little to do with how I'd characterize them in a blog post. In other words, most of my "reasons" for switching, while based on facts, are still bullshit[^fn:1].
 
 See, most of the time I'm just bored and want to try something new.
 
