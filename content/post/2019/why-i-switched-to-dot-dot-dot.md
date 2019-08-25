@@ -22,4 +22,4 @@ I do like to try new things, and if I'm being honest, there are only 3 reasons I
 Everything else is rationalization[^fn:2].
 
 [^fn:1]: This doesn't mean I'll _never_ write about it!
-[^fn:2]: I'm sure _your_ reasons are valid, though ;).
+[^fn:2]: I'm of course speaking for myself here.
