@@ -32,7 +32,24 @@ I'd been using a super minimal mode line and was finding it a bit /too/ minimal.
 #+DOWNLOADED: file:/Users/jbaty/Desktop/2019-08-26-spaceline.png @ 2019-08-26 15:28:33
 [[file:../static/img/Posts/2019-08-26-spaceline-2019-08-26.png]]
 
- 
+The relevant config looks like this...
+
+ #+begin_src emacs-lisp
+(use-package spaceline 
+  :ensure t)
+
+(use-package spaceline-config 
+  :ensure spaceline
+  :config
+  (spaceline-helm-mode 1)
+  (spaceline-emacs-theme)
+  (spaceline-toggle-org-clock-on)
+  (spaceline-toggle-minor-modes-off)
+  (spaceline-toggle-version-control-off))
+
+ #+end_src
+
+
 *** DONE Consume Less, Create More - TJCX
 CLOSED: [2019-08-26 Mon 08:24]
 :PROPERTIES:
