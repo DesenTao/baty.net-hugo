@@ -14,6 +14,25 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** DONE Consume Less, Create More - TJCX
+CLOSED: [2019-08-26 Mon 08:24]
+:PROPERTIES:
+:EXPORT_FILE_NAME: consume-less-create-more-tjcx
+:END:
+
+
+[[https://tjcx.me/posts/consumption-distraction/][TJCX]]:
+
+#+begin_quote
+Most knowledge worth having comes from practice. It comes from doing. It comes from creating. Reading about the trade war with China doesn’t make you smarter—it gives you something to say at dinner parties. It gives you the illusion that you have the vaguest idea what is happening in our enormously complex world.
+#+end_quote
+
+I agree with the article in general, but disagree with the above. Perhaps reading /Twitter/ about the trade war with China doesn't make you smarter. On the other hand reading, say, The Economist about it, does. The article sort of addresses this by asking "How much can you really remember from all of those New York Times op-eds you’ve read?" I don't understand the question. I don't /memorize/ everything I read, but that doesn't mean I don't learn from it. Careful consumption adds to the framework by which I understand the world. And that makes me smarter.
+
+Aren't many of the best writers also voracious readers? Seems like it. Great photographers study the work of the great photographers before them. And so on.
+
+So, while I agree that we should create more and consume less, let's not underestimate the value of careful consumption.
+
 *** DONE Why I switched to... :productivity:
 CLOSED: [2019-08-25 Sun 10:00]
 :PROPERTIES:
