@@ -14,6 +14,24 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** TODO Technical vs creative blogging
+:PROPERTIES:
+:EXPORT_FILE_NAME: technical-vs-creative-blogging
+
+:END:
+@Ron I understand the sentiment, but allow me to offer a bit of the pushback you (correctly, it seems!) anticipated. I agree with you generally, and would _love_ more diversity in topics here. I control my feed, however, and maybe I just haven't found the people to follow who would make that happen. Suggestions are welcome!
+
+I disagree, however, with your limited definition of blogging. Writing about one's interests, however technical they may be, is very much blogging. It's no different than writing about art, or telling stories, or anything else.
+
+I have zero interest in comic books, but lots of people enjoy writing about them, and, it seems, talking about them here on micro.blog. Hurray for them! It's still blogging.
+
+The distinction you're making seems to be between blogs that lean technical and those leaning more creative. That's fair, but they're all blogs. 
+
+> figure out a way to arrange for the tech-talk to be in its own area, separate from the blogging
+
+Could he then separate out the comic book talk? I don't enjoy that. Or maybe some other topic I'm not interested in? And what about everyone else's interests? 
+
+
 *** DONE Spaceline for Emacs :emacs:
 CLOSED: [2019-08-26 Mon 15:29]
 :PROPERTIES:
@@ -89,6 +107,8 @@ I do like to try new things, and if I'm being honest, there are only 3 reasons I
 3. Curiosity
 
 Everything else is rationalization[fn:1].
+
+Update: [[https://karl-voit.at/][Karl Voit]] has [[https://karl-voit.at/2019/08/29/switching-tools/][posted a followup]] with some additional thoughts.
 
 *** DONE Why Clojure? - (Uncle) Bob Martin :lisp:programming:
 CLOSED: [2019-08-23 Fri 07:42]

@@ -21,5 +21,7 @@ I do like to try new things, and if I'm being honest, there are only 3 reasons I
 
 Everything else is rationalization[^fn:2].
 
+Update: [Karl Voit](https://karl-voit.at/) has [posted a followup](https://karl-voit.at/2019/08/29/switching-tools/) with some additional thoughts.
+
 [^fn:1]: This doesn't mean I'll _never_ write about it!
 [^fn:2]: I'm of course speaking for myself here.
