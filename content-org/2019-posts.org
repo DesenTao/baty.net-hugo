@@ -20,7 +20,7 @@ CLOSED: [2019-08-31 Sat 11:24]
 :EXPORT_FILE_NAME: deleting-tweets
 :END:
 
-I just deleted 14,247 tweets going back to 2006.
+I just deleted 14,247 tweets going back to 2006[fn:3].
 
 Why? Aren't I supposed to archive and keep everything forever? Yes, and that's what I did. I downloaded my entire Twitter archive before deleting anything. I still have a local copy of everything.
 
@@ -745,6 +745,8 @@ See the [[/now][Now page]] for a list of more specific current interests and pro
 
 
 * Footnotes
+
+[fn:3] I used the paid version of [[https://martani.github.io/Twitter-Archive-Eraser/#][Twitter Archive Eraser]] 
 
 [fn:2] This doesn't mean I'll /never/ write about it! 
 
