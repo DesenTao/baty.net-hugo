@@ -28,12 +28,6 @@ I kept all tweets from 2019 and a bunch of my favorites going back to 2007. Even
 
 Data is becoming a liability. I'm not worried about being called out on things I said ten years ago, but having everything I've muttered since 2006 on someone else's servers feels icky and this is one place where I don't see the harm in getting rid of it.
 
-
-
-
-
-
-
 *** TODO Technical vs creative blogging
 :PROPERTIES:
 :EXPORT_FILE_NAME: technical-vs-creative-blogging

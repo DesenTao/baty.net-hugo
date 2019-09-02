@@ -1,0 +1,1 @@
+/System/Volumes/Data/Applications/Emacs.app/Contents/MacOS/Emacs
