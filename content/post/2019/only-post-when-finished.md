@@ -1,5 +1,5 @@
 ---
-title: "Only Post When Finished"
+title: "Post about after rather than before"
 date: 2019-09-06T10:56:51-04:00
 tags: ["blogging"]
 ---
