@@ -69,4 +69,6 @@ Up to this point it all worked without a hitch. I hit a wall while trying to get
 
 So for now it's just running on port 80 at an old-school http URL. I have no idea if I'll do anything with it, but it's fun to play with.
 
+**UPDATE 2019.09.06**: I _really_ want to keep trying, but I'm suddenly
+hitting walls at every step and I'm not sure it's worth the trouble. It's a shame, really.
 
