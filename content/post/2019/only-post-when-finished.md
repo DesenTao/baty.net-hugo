@@ -1,10 +1,11 @@
 ---
 title: "Only Post When Finished"
-date: 2019-09-05T07:15:16-04:00
-draft: true
-tags: [""]
+date: 2019-09-06T10:56:51-04:00
+tags: ["blogging"]
 ---
 
-Stop with the aspirational posts. Starting to read a book is irrelevant. Planning to work out every day doesn't matter to anyone. Intending to regularly write morning pages before breakfast isn't actually writing anything.
+I would prefer seeing fewer aspirational posts/tweets/etc. I'm not terribly interested that you've _started_ to read a book, but please do let me know how you liked it when you're finished. It's great that you're planning to work out every day, but why tell _me_ that? _Intending_ to regularly write morning pages before breakfast isn't actually writing anything, but I can't wait to hear how it's helped you after you've done it for six months.
+
+Writing aspirational posts can be self-motivating, and feel free to write about anything you damn well please. I'm just asking for fewer _before_ and more _after_ posts.
 
 
