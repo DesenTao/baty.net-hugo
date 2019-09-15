@@ -4,7 +4,7 @@ date: 2019-09-15T09:11:48-04:00
 tags: ["Linux"]
 ---
 
-I have a (5th Gen?) ThinkPad just _itching_ to run Linux. I'm a decades-long Mac user also itching to try Linux. This combination meant that I've been experimenting with Linux for several months now.
+I have a (5th Gen?) ThinkPad just _itching_ to run Linux. I'm a decades-long Mac user also itching to try Linux. This combination meant that I've been experimenting with Linux for several months.
 
 But it's over...for now.
 
