@@ -22,7 +22,7 @@ Or I want to link to a file I just created but the file is still on my Desktop s
 
 What if I want to take notes about a document? In DTP I just add an annotation and type as much as I want. Finder comments aren't nearly as flexible or accessible.
 
-You see what I mean? For something as simple as a "glorified Finder", DEVONthink sure brings a lot of power to the process of capturing, managing, and finding information.
+You see what I mean? For something as simple as a "glorified file manager", DEVONthink sure brings a lot of power to the process of capturing, managing, and finding information.
 
 I just bought the [upgrade to version 3](https://www.devontechnologies.com/apps/devonthink/new) and I'll be spending time today bringing everything back in (which, of course, DTP also makes easy work of).
 
