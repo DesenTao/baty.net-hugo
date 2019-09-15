@@ -8,7 +8,7 @@ On August 22nd [I wrote](https://rudimentarylathe.org/#2019.08.22%20-%20Journal)
 
 > I took DEVONthink out of the rotation today. Too much overhead for how I use it (as a glorified file manager). HoudahSpot does a fine job of helping me find things. I'll miss capture and inboxes, so we'll see if it takes.
 
-It didn't take.
+It didn't take. I've been using DEVONthink since 2005 and I should have known better.
 
 [DEVONthink](https://www.devontechnologies.com/apps/devonthink) Pro (DTP) is a deep and powerful app that can masquerade as merely a fancy file manager. I sometimes feel that it's unnecessary overkill for my purposes, so I move things out of it and into the Finder. (DEVONthink makes this almost too easy).
 
