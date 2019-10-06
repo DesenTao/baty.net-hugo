@@ -19,6 +19,8 @@ But where did I put that one thing? How the hell should I kow? I mean, it's prob
 - Evernote
 - Curio
 - Circus Ponies Notebook
+- Ulysses
+- Apple Notes
 - VoodooPad
 - VimWiki
 - Org-mode
