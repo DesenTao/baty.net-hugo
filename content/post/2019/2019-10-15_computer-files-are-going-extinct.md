@@ -1,5 +1,5 @@
 ---
-title: "Computer Files Are Going Extinct"
+title: "Computer Files Are Going Extinct - Simon Pitt"
 date: 2019-10-15T10:23:31-04:00
 tags: ["archiving"]
 ---
