@@ -28,7 +28,7 @@ I do wonder why we can't have both. Is it really a zero-sum proposition? I agree
 
 Let's use me as an example :).
 
-I use [Plausible](https://plausible.io/) analytics for keeping an eye on visits to my site(s). I "check the numbers" once or twice a day to see what people are reading. I don't really watch for trends, and I don't pay attention to visit duration or retention or "funnels". Plausible doesn't offer those numbers, but I'm not interested in them anyway. I just like to see that stuff I write is being read by at least a handful of people. I don't change what I write based on the stats.
+I use [Plausible](https://plausible.io/) analytics for keeping an eye on visits to my site(s). I "check the numbers" once or twice a day to see what people are reading. I don't really watch for trends, and I don't pay attention to visit duration or retention or "funnels". Plausible doesn't offer those numbers, but I'm not interested in them anyway. I just like to see that stuff I write is being read, and how often. It's interesting to me. I don't change what I write based on the stats. I don't write for the "likes", but I'd be lying if I said it didn't matter at all if anyone reads it. Does it matter if I know _exactly_ how many? No, but knowing the exact numbers doesn't mean I worry about them. I simply enjoy knowing.
 
 Analytics will sometimes surface old posts I'd forgotten about, by showing a sudden surge[^surge] of visits. This can spark new conversations and is quite fun when it happens.
 
