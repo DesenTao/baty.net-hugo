@@ -19,6 +19,6 @@ There are no hard rules about what constitutes a "topic". I know them when I see
 
 I like this setup. It works as both a technical diary of sorts and as a running commentary on how I'm thinking about specific topics. 
 
-Over time I'm sure I'll refactor things, and that's fine. At least it's no longer a mish-mash of one-liners, random thoughts, and dozens of other bits and bobs without rhymeq or reason.
+Over time I'm sure I'll refactor things, and that's fine. At least it's no longer a mish-mash of one-liners, random thoughts, and dozens of other bits and bobs without rhyme or reason.
 
 I like the idea of "Topic Journals" and Deft is a nice way of keeping them.
