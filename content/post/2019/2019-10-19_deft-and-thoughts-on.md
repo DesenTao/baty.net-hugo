@@ -8,7 +8,7 @@ One of the first Emacs packages I tried was [Deft](https://jblevins.org/projects
 
 I put all kinds of notes into Deft. I used it as a kind of inbox for everything. It became a mess, so it fell out of favor for a while. I switched to using a giant notes.org file with [Capture templates](https://orgmode.org/manual/Capture.html) to make jotting something down easier.
 
-Re-reading Derek Sivers' post [Benefits of a daily diary and topic journals](https://sivers.org/dj) recently got me thinking that Deft would suit topic journals quite well. 
+Re-reading Derek Sivers' post [Benefits of a daily diary and topic journals](https://sivers.org/dj) got me thinking that Deft would suit topic journals quite well. 
 
 I (mostly) emptied my Deft notes folder and started fresh. Now, each file in my Deft notes directory is based on a single topic. After a couple weeks, it looks like this:
 
