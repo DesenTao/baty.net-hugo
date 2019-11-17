@@ -15,7 +15,7 @@
 :EXPORT_HUGO_SECTION*: 2019
 :END:
 *** DONE Moved copingmechanism.com to Ghost  :blogging:WordPress:Ghost:
-CLOSED: [2019-11-17 Sun 10:10]
+CLOSED: [2019-11-17 Sun 10:40]
 :PROPERTIES:
 :EXPORT_FILE_NAME: moved-copingmechanism-dot-com-to-ghost
 :END:

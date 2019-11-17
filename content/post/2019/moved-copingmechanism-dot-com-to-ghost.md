@@ -1,6 +1,6 @@
 +++
 title = "Moved copingmechanism.com to Ghost"
-date = 2019-11-17T10:10:00-05:00
+date = 2019-11-17T10:40:00-05:00
 tags = ["blogging", "WordPress", "Ghost"]
 draft = false
 +++
