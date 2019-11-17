@@ -57,6 +57,8 @@ It's likely I'll have to learn some Handlebars templating, but that doesn't look
 
 Playing with new blogging platforms is fun. For Coping Mechanism, I wanted something more WYSIWYG and with better image handling than, say, [[https://gohugo.io][Hugo]]. Ghost seems like a good fit, and a good compromise between a simple static blog and the big, complex, monster that is WordPress.
 
+https://copingmechanism.com
+
 
 *** DONE 404 Page Not Found - Kate Wagner
 CLOSED: [2019-11-12 Tue 08:21]

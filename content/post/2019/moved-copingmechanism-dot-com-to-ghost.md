@@ -40,3 +40,5 @@ There are no built-in comments. I don't get many comments, but I do want to make
 It's likely I'll have to learn some Handlebars templating, but that doesn't look too bad.
 
 Playing with new blogging platforms is fun. For Coping Mechanism, I wanted something more WYSIWYG and with better image handling than, say, [Hugo](https://gohugo.io). Ghost seems like a good fit, and a good compromise between a simple static blog and the big, complex, monster that is WordPress.
+
+<https://copingmechanism.com>
