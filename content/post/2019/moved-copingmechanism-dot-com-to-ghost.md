@@ -39,6 +39,10 @@ There are no built-in comments. I don't get many comments, but I do want to make
 
 It's likely I'll have to learn some Handlebars templating, but that doesn't look too bad.
 
+One concern is that they've been focusing on providing features for capital-P Publishers and I'm not one of those. For example, the tentpole features of version 3.0 were based around Members & Subscriptions. I'm guessing that now every 3rd blogger using Ghost will be adding and charging for "Premium" content. Just because it's easy, doesn't mean...etc. etc.
+
+I hope they don't forget about us regular bloggers.
+
 Playing with new blogging platforms is fun. For Coping Mechanism, I wanted something more WYSIWYG and with better image handling than, say, [Hugo](https://gohugo.io). Ghost seems like a good fit, and a good compromise between a simple static blog and the big, complex, monster that is WordPress.
 
 <https://copingmechanism.com>
