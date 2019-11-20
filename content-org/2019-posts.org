@@ -14,6 +14,16 @@
 :PROPERTIES:
 :EXPORT_HUGO_SECTION*: 2019
 :END:
+*** DONE More blogging with Ghost at baty.blog
+CLOSED: [2019-11-20 Wed 18:36]
+:PROPERTIES:
+:EXPORT_FILE_NAME: more-ghost-at-baty-dot-blog
+:END:
+
+I'm having so much fun with Ghost that I'm now using it for [[https://baty.blog/]].
+
+I'd write about it here, but I already [[https://baty.blog/2019/adding-a-second-ghost-site/][wrote about it there]].
+
 *** DONE Bitwarden                                               :security:
 CLOSED: [2019-11-19 Tue 18:42]
 :PROPERTIES:
