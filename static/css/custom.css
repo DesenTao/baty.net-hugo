@@ -198,7 +198,9 @@ ol.commentlist .avatar {
 	display: none;
 }
 
-/* .archive .archive-post { */
+/* .
+
+ .archive-post { */
 /*     font-size: 1.0em; */
 /*     border-bottom: none; */
 /*     padding: 0; */
@@ -241,4 +243,9 @@ transform: none;
 
 .archive .collection-title .archive-year {
     margin: 2em 0 1em;
+}
+
+.archive a {
+	color: #c05b4d;
+	text-decoration: none;	
 }
