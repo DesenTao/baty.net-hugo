@@ -40,11 +40,7 @@ micro = "/micro/:year/:slug"
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]  
-  name = "About"
-  weight = 10
-  identifier = "about"
-  url = "/about"
+
 [[menu.main]]  
   name = "Archives"
   weight = 20
