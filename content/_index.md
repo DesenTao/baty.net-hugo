@@ -20,7 +20,6 @@ I'm currently blogging elsewhere:
 
 * [jack.baty.net](https://jack.baty.net/) - Primary blog. Successor to www.baty.net
 * [jackbaty.tumblr.com](https://jackbaty.tumblr.com) - Tumblr for links, photos, quotes, etc.
-* [copingmechanism.com](https://copingmechanism.com) - A blog about my photography
 * [rudimentarylathe.org](https://rudimentarylathe.org) - My Wiki. Updated daily.
 
 
