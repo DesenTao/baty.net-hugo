@@ -6,7 +6,7 @@ sidebar: true
 ---
 
 **This is the archive of Jack Baty's blog**  
-(active [August 2000---Dececember 2019](https://www.baty.net/post/))
+(active [August 2000---December 2019](https://www.baty.net/post/))
 
 I'll be posting at [jack.baty.net](https://jack.baty.net/). See you there.
 
