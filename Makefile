@@ -1,5 +1,5 @@
 PUBLIC_DIR=public/
-SERVER_HOST=static.baty.net
+SERVER_HOST=server.baty.net
 SERVER_DIR=/home/jbaty/apps/blog/public_html
 TARGET=aws
 
