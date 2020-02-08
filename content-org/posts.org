@@ -803,12 +803,14 @@ CLOSED: [2019-07-05 Fri 08:20]
 :EXPORT_TITLE: Things I'm doing now
 :END:
 
-A few of the things I’m doing as of August 06, 2019...
+A few of the things I’m doing as of February 08, 2020
 
  - Reading [[https://www.goodreads.com/book/show/8380409-the-instructions][The Instructions, by Adam Levin]]
- - (Still) Reading [[https://rudimentarylathe.org/#Leonardo%2520da%2520Vinci%2520by%2520Walter%2520Isaacson][Leonardo da Vinci by Walter Isaacson]]
- - Working on my color film scanning process
- - Getting to know Alice, our new dog
+ - Shooting more film. Or trying to
+ - Watching more actual DVDs and Blu-ray discs
+ - Journaling consistently
+ - Still struggling with were my notes go
+
 
 * About
 CLOSED: [2019-07-04 Thu 11:18]
