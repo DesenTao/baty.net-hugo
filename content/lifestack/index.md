@@ -12,15 +12,14 @@ simply enjoy using.
 Last updated **January 2019**
 
 ## Computing
-![MacBook Pro](macbook-pro-300x188.jpg)
+![MacBook Pro](macbook-pro-16-200x133.png)
 ![ThinkPad](thinkpad-carbon-1-300x240.jpg)
 ![iMac](imac-27-300x165.jpg)
 
 
-- Apple MacBook Pro (2016) – Great screen, awful keyboard, useless Touch Bar.
+- Apple MacBook Pro 16-inch (2019) – Finally, Apple makes a good laptop again.
 - Lenovo ThinkPad X1 Carbon (2015) – New to me. Running Linux. So far so good, except for the trackpad.
 - Apple 27" Retina iMac (2017) – A monster with a big, beautiful screen.
-- Apple 27" Retina iMac (2015) – An older monster with a big, beautiful screen.
 - Apple iPad Pro 12.9" (2018) – I am not an iPad-only person. Not sure I ever will be but this is a great device anyway. The Apple Pencil #2 and the way it integrates with the new iPad is terrific.
 - iPhone X – It's an iPhone. A really nice one. I put it in the Computing category but it goes in nearly every category.
 - Fujitsu ScanSnap – Super-fast and easy document scanning
@@ -35,10 +34,6 @@ Here's the software that I currently use on a regular basis.
 - [TiddlyWiki](https://tiddlywiki.com) -- Single-file wiki with a kick.
 - [DEVONthink][devonthink] – Email Archives, Manuals, PDFs, Scanned documents. Years of
   archives remain searchable and synced across devices.
-- [TheBrain][thebrain] – "No limits Mindmapping" is right. I have years of
-  "thoughts" collected and interlinked in TheBrain.
-- [Bear](https://bear.app) -- Bear is the app for notes that ticks more boxes than the 
-  many other options I've tried. If I'm not going to use Org-mode, I'll use Bear.
 - [BBEdit][bbedit] – As much as I try to remain in Emacs for editing, whenever I need
   something fancy done with a lot of text, I turn to BBEdit. It’s the editor
   I’ve used longest. In fact, it may be the piece of software I’ve used longest,
@@ -50,9 +45,6 @@ Here's the software that I currently use on a regular basis.
   laying out documents that I use it anyway. Mostly, this is done via Org mode
   but I also use LaTeX directly when I feel like being tweaky.
 - [iTerm2][iterm2] – I spend a lot of time in a terminal, and I use iTerm2 for that.
-- [Firefox][firefox] – My recent foray into Linux has made me ditch Safari as my primary
-  web browser. Firefox is fast enough and I like their stance on privacy and
-  security. They seem to have the right idea, anyway.
 - [Slack][slack] – People enjoy hating on Slack but it really is a wonderful replacement
   for the tangle of emails and reply-all threads that came before.
 - [Gitlab][gitlab] – We use a self-hosted instance of Gitlab at Fusionary and it’s
@@ -64,7 +56,7 @@ Here's the software that I currently use on a regular basis.
 - [Dropbox][dropbox] – Steve Jobs famously called Dropbox “a feature, not a product”. True
   or not, Dropbox is a pretty damn good feature. I still don’t trust iCloud. I
   trust Dropbox.
-- [1Password][1password] -- Password management
+- [Bitwarden][passwords] -- Password management
 - [Chronosync][chronosync] – Helps me keep good drive and file backups
 - [Alfred][alfred] -- Launcher and generally useful utility for all sorts of automation and shortcuts
 - [Keyboard Maestro][keyboardmaestro] – Macro wizardry. I wildly useful tool for
@@ -75,7 +67,9 @@ Here's the software that I currently use on a regular basis.
 
 ## Photography
 ### Software
-- [Lightroom CC](https://www.adobe.com/products/photoshop-lightroom.html) -- I hate the idea of keeping my library in the cloud, but love having everything available everywhere all the time.
+- [Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) -- I hate
+  the idea of keeping my library in the cloud, but love having everything
+  available everywhere all the time. I use the Classic version mostly.
 - [Capture One Pro][captureone] – Photo library and Raw file editor.
 - Apple Photos - For iPhone shots and keepers exported from Capture One
 - [Photo Mechanic][photomechanic] – Ingesting, tagging, renaming photos from
@@ -84,7 +78,6 @@ Here's the software that I currently use on a regular basis.
   any other app.
 - [SilverFast][silverfast] – Scanning software for the Epson. I can’t tell you
   how much I hate it, but it gets me the best results.
-- [Alien Skin Exposure][alienskin] - Wonderful presets and a nice editing experience.
 - [Luminar][luminar] - I use Luminar as an editor plugin for Lightroom. Some of
   the filters are too much fun to resist.
 - [Affinity Photo](https://affinity.serif.com/en-gb/photo/) - Great for when I need to get "fancy". I don't enjoy Photoshop and this is a wonderful alternative.
@@ -291,7 +284,7 @@ And the rest...
 
 - [Tag Heuer Aquaracer Automatic watch][tag] – No batteries, beautiful, and good to 300
   meters in the water – because that’s handy right?
-- **Apple Watch (Series 4)** – The health stuff and proper notifications are handy
+- **Apple Watch (Series 5)** – The health stuff and proper notifications are handy
 - [Goruck GR1 backpack][goruck] – If I ever go outside I’m ready
 - [Benchmade Mini Griptilian AXIS Lock Knife][knife] – Always in my pocket. I never
   realized how handy a pocket knife could be until I started carrying one
@@ -302,6 +295,7 @@ And the rest...
 - [Blunt Classic Umbrella][blunt] – Who knew a good umbrella would make such a difference? This is a very nice one.
 - [Filson original Briefcase][filson] – I’ve owned a number of bags and this one is the one I’ve settled on. Well-designed and very well-made.
 - [ONA Prince Street][ona] – Camera bag. Leather. Gorgeous.
+- [Red OXX CC Rider Messenger][redoxx] - A great bag from Red Oxx. It was a special edition and no longer available. Too bad.
 - [Peak Design Everyday Messenger - 13"](https://www.peakdesign.com/collections/everyday-bags/products/everyday-messenger?variant=11607015194668) -- Camera and iPad to work and back.
 
 Whew!
@@ -309,6 +303,13 @@ Whew!
 
 
 ## Changelog
+
+### Saturday, February 08, 2020
+- Added Red Oxx bag
+- Removed TheBrain
+- Removed older iMac
+- Replaced 2016 MBP with 2019 16-inch MBP
+
 
 ### Friday, January 18, 2019
 - Added Emacs back :)
@@ -372,8 +373,9 @@ Whew!
 [silverfast]: http://www.silverfast.com/
 [luminar]: https://skylum.com/luminar
 [alienskin]: https://www.alienskin.com/exposure/
-[1password]: https://1password.com
+[passwords]: https://bitwarden.com
 [things3]: https://culturedcode.com/things/
+[redoxx]: https://redoxx.com/
 
 
 
