@@ -133,3 +133,8 @@ micro = "/micro/:year/:slug"
     c-twitter = "https://twitter.com/jackbaty"
     g-github = "https://github.com/jackbaty"
     s-mastodon = "https://mastodon.technology/@jackbaty"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
