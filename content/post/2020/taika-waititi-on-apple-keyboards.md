@@ -8,4 +8,4 @@ draft: false
 
 > Apple needs to fix those keyboards. They are impossible to write on. They’ve gotten worse. It makes me want to go back to PCs
 
-The most interesting thing said at the oscars :).
+Could be the most interesting thing said at the oscars :).

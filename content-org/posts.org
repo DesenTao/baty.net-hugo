@@ -842,7 +842,7 @@ CLOSED: [2020-02-10 Mon 09:17]
 Apple needs to fix those keyboards. They are impossible to write on. They’ve gotten worse. It makes me want to go back to PCs
 #+end_quote
 
-The most interesting thing said at the oscars :).
+Could be the most interesting thing said at the oscars :).
 
 * Now
 CLOSED: [2019-07-05 Fri 08:20]
