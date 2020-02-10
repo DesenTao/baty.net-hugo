@@ -830,7 +830,8 @@ keep Cloudron.
 
 It's fun to tidy things up once in a while.
 
-*** TODO Taika Waititi on Apple Keyboards
+*** DONE Taika Waititi on Apple Keyboards
+CLOSED: [2020-02-10 Mon 09:17]
 :PROPERTIES:
 :EXPORT_FILE_NAME: taika-waititi-on-apple-keyboards
 :END:
