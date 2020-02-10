@@ -787,7 +787,6 @@ bit of context. This is so useful!
 Org-roam is under active development and I can't wait to see where it goes.
 
 
-
 *** DONE Moving sites around :meta:sysadmin:
 CLOSED: [2020-02-08 Sat 10:09]
 :PROPERTIES:
@@ -831,6 +830,18 @@ keep Cloudron.
 
 It's fun to tidy things up once in a while.
 
+*** TODO Taika Waititi on Apple Keyboards
+:PROPERTIES:
+:EXPORT_FILE_NAME: taika-waititi-on-apple-keyboards
+:END:
+
+[[https://twitter.com/Variety/status/1226710675554091008][Taika Waititi at the Oscars]]:
+
+#+begin_quote
+Apple needs to fix those keyboards. They are impossible to write on. They’ve gotten worse. It makes me want to go back to PCs
+#+end_quote
+
+The most interesting thing said at the oscars :).
 
 * Now
 CLOSED: [2019-07-05 Fri 08:20]
