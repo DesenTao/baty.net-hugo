@@ -786,7 +786,6 @@ bit of context. This is so useful!
 
 Org-roam is under active development and I can't wait to see where it goes.
 
-
 *** DONE Moving sites around :meta:sysadmin:
 CLOSED: [2020-02-08 Sat 10:09]
 :PROPERTIES:
@@ -860,7 +859,6 @@ A few of the things I’m doing as of February 08, 2020
  - Journaling consistently
  - Still struggling with were my notes go
 
-
 * About
 CLOSED: [2019-07-04 Thu 11:18]
 :PROPERTIES:
@@ -896,7 +894,7 @@ shoot both film and digital and upload to Flickr
 *Analog*. Digital is where we are, but I still enjoy using things like film
 cameras, vinyl records, manual typewriters, notebooks, and fountain pens.
 
-See the Now page for a list of more specific current interests and projects.
+See the [[/now][Now page]] for a list of more specific current interests and projects.
 
 Do not expect consistency.
 
@@ -927,7 +925,6 @@ Do not expect consistency.
 - [[https://www.baty.net/avatar/][The origin of my avatar]]
 - [[https://letterboxd.com/jackbaty][Letterboxd]] is where I track and rate the movies I watch
 - [[https://goodreads.com/jackbaty][Goodreads]] for sharing what I'm reading
-
 
 * Footnotes
 

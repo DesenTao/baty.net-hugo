@@ -28,7 +28,7 @@ shoot both film and digital and upload to Flickr
 **Analog**. Digital is where we are, but I still enjoy using things like film
 cameras, vinyl records, manual typewriters, notebooks, and fountain pens.
 
-See the Now page for a list of more specific current interests and projects.
+See the [Now page](/now) for a list of more specific current interests and projects.
 
 Do not expect consistency.
 
