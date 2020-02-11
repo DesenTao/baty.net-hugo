@@ -8,7 +8,7 @@ sidebar: true
 **This is the archive of Jack Baty's blog**  
 (active [August 2000---December 2019](https://www.baty.net/post/))
 
-I'll be posting at [jack.baty.net](https://jack.baty.net/). See you there.
+I'll be posting at [copingmechanism.com](https://copingmechanism.com/). See you there.
 
 This is me:  
 ![](/img/selfie-4x5.jpg)  
@@ -18,7 +18,7 @@ _Selfie with 4x5 Crown Graphic, taken in September, 2019_
 
 I'm currently blogging elsewhere:
 
-* [jack.baty.net](https://jack.baty.net/) - Primary blog. Successor to www.baty.net
+* [copingmechanism.com](https://copingmechanism.com/) - Primary blog. Successor to www.baty.net
 * [jackbaty.tumblr.com](https://jackbaty.tumblr.com) - Tumblr for links, photos, quotes, etc.
 * [rudimentarylathe.org](https://rudimentarylathe.org) - My Wiki. Updated daily.
 
