@@ -1,4 +1,4 @@
--*- mode: Org; org-download-image-dir: "~/Dropbox/sites/blog/static/img"; -*-
+-*- mode: Org; org-download-image-dir: "~/sync/sites/blog/static/img"; -*-
 #+hugo_section: post
 #+hugo_base_dir: ../
 #+seq_todo: TODO DONE
@@ -842,6 +842,25 @@ Apple needs to fix those keyboards. They are impossible to write on. They’ve g
 #+end_quote
 
 Could be the most interesting thing said at the oscars :).
+
+*** DONE How To Take Smart Notes With Org-mode - Jethro Kuan
+CLOSED: [2020-02-15 Sat 09:13]
+:PROPERTIES:
+:EXPORT_FILE_NAME: how-to-take-smart-notes
+:END:
+
+[[https://blog.jethro.dev/posts/how_to_take_smart_notes_org/][Jethro Kuan]]:
+
+#+begin_quote
+This is the workflow I use. Here I explain what I think note-taking should be, and why it should be this way. I implore you (especially users of Org-roam) to read this through.
+#+end_quote
+
+Jethro describes how he takes notes in Org mode and specifically how he uses
+[[https://github.com/jethrokuan/org-roam][org-roam]].
+
+I am still deciding between [[https://roamresearch.org][Roam]] and org-roam so this was helpful. And remember,
+/it's the backlinks!/
+
 
 * Now
 CLOSED: [2019-07-05 Fri 08:20]
