@@ -39,7 +39,7 @@ Do not expect consistency.
 
 -   [baty.net](https://baty.net/) - My blog, since 2000
 -   [rudimentarylathe.org](https://rudimentarylathe.org/) - My life wiki (using Tiddlywiki)
--   [jack.baty.net](https://jack.baty.net/) - A blog experiment using Ghost.
+-   [copingmechanism.com](https://copingmechanism.com) - A blog experiment using Ghost.
 -   [tilde.club/~jbaty](https://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
 
 **Photography**
