@@ -47,10 +47,10 @@ micro = "/micro/:year/:slug"
   identifier = "archives"
   url = "/post"
 [[menu.main]]
-  name = "Blog"
+  name = "About"
   weight = 30
-  identifier = "blog"
-  url = "https://jack.baty.net/"
+  identifier = "about"
+  url = "/about"
 [[menu.main]]
   name = "Wiki"
   weight = 30
@@ -136,5 +136,18 @@ micro = "/micro/:year/:slug"
 
 [markup]
   [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
     [markup.goldmark.renderer]
+      hardWraps = false
       unsafe = true
+      xHTML = false
