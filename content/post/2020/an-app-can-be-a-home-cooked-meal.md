@@ -1,6 +1,7 @@
 ---
 title: "An app can be a home-cooked meal - Robin Sloan"
-draft: true
+date: 2020-02-15T13:09:00-05:00
+draft: false
 ---
 
 [Robin Sloan](https://www.robinsloan.com/notes/home-cooked-app/#cooking-at-home):

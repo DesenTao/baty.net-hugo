@@ -861,7 +861,8 @@ Jethro describes how he takes notes in Org mode and specifically how he uses
 I am still deciding between [[https://roamresearch.org][Roam]] and org-roam so this was helpful. And remember,
 /it's the backlinks!/
 
-*** TODO An app can be a home-cooked meal - Robin Sloan
+*** DONE An app can be a home-cooked meal - Robin Sloan
+CLOSED: [2020-02-15 Sat 13:09]
 :PROPERTIES:
 :EXPORT_FILE_NAME: an-app-can-be-a-home-cooked-meal
 :END:
