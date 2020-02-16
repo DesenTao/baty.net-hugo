@@ -1,6 +1,7 @@
 ---
 title: "Brett Terpstra's 'Doing' utility"
 date: 2020-02-16T09:38:00-05:00
+tags: ["cli"]
 draft: false
 ---
 

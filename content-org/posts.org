@@ -880,7 +880,7 @@ I am the programming equivalent of a home cook.
 What a nice way of thinking of it. I relinquished my own chef's hat years ago,
 and now I mostly enjoy tinkering in the "kitchen".
 
-*** DONE Brett Terpstra's 'Doing' utility
+*** DONE Brett Terpstra's 'Doing' utility :cli:
 CLOSED: [2020-02-16 Sun 09:38]
 :PROPERTIES:
 :EXPORT_FILE_NAME: brett-terpstras-doing
