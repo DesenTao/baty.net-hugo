@@ -11,5 +11,7 @@ draft: false
 <!--quoteend-->
 
 > If messages can be sent in plaintext, they will be sent in plaintext.
+>
 > ...
+>
 > The clearest example of this problem is something every user of encrypted email has seen: the inevitable unencrypted reply. In any group of people exchanging encrypted emails, someone will eventually manage to reply in plaintext, usually with a quoted copy of the entire chain of email attached. This is tolerated, because most people who encrypt emails are LARPing. But in the real world, it’s an irrevocable disaster.
