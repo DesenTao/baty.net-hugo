@@ -41,7 +41,7 @@ Do not expect consistency.
 -   [rudimentarylathe.org](https://rudimentarylathe.org/) - My life wiki (using Tiddlywiki)
 -   [copingmechanism.com](https://copingmechanism.com) - A blog experiment using Ghost.
 -   [tilde.club/~jbaty](https://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
-
+    
 **Photography**
 
 -   [Flickr](https://flickr.com/photos/jbaty) - I've been posting photos to Flickr since forever. Flickr is still the
