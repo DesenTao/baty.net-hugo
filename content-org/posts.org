@@ -917,7 +917,8 @@ A quick rundown the chaos in my head around [Roam](https://roamresearch.com/) 
 
 *The Future* No one knows, the day's not over yet!
 
-*** TODO Stop using encrypted email - Latacora
+*** DONE Stop using encrypted email - Latacora
+CLOSED: [2020-02-20 Thu 07:27]
 :PROPERTIES:
 :EXPORT_FILE_NAME: stop-using-encrypted-email
 :END:
