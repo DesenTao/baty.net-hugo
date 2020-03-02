@@ -924,7 +924,7 @@ CLOSED: [2019-07-05 Fri 08:20]
 :EXPORT_TITLE: Things I'm doing now
 :END:
 
-A few of the things I’m doing as of February 08, 2020
+A few of the things I’m doing as of March 02, 2020
 
  - Reading [[https://www.goodreads.com/book/show/13838783-the-permanent-portfolio][The Permanent Portfolio]]
  - Shooting more film. Or trying to
