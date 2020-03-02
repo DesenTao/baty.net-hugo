@@ -14,7 +14,7 @@ I’ve been a partner at Fusionary Media since 1995. Fusionary is a terrific
 digital studio in Grand Rapids, MI. If your business needs something built for
 the web or mobile devices you should 💌 [send us a note](mailto:info@fusionary.com).
 
-I blog here at [baty.net](https://www.baty.net/) ✒️
+I blog here at [baty.net](https://www.baty.net/) ✒️ and at [copingmechanism.com](https://copingmechanism.com)
 
 I've also been having a ball at my new wiki: [Rudimentary Lathe](https://rudimentarylathe.org).
 
@@ -39,9 +39,9 @@ Do not expect consistency.
 
 -   [baty.net](https://baty.net/) - My blog, since 2000
 -   [rudimentarylathe.org](https://rudimentarylathe.org/) - My life wiki (using Tiddlywiki)
--   [copingmechanism.com](https://copingmechanism.com) - A blog experiment using Ghost.
+-   [jack.baty.net](https://jack.baty.net/) - A blog experiment using Ghost.
 -   [tilde.club/~jbaty](https://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
-    
+
 **Photography**
 
 -   [Flickr](https://flickr.com/photos/jbaty) - I've been posting photos to Flickr since forever. Flickr is still the
