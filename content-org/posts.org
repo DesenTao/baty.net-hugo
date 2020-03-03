@@ -1,4 +1,4 @@
--*- mode: Org; org-download-image-dir: "~/pub/blog/static/img"; -*-
+# -*- org-download-image-dir: "~/pub/blog/static/img/2020"; org-download-method: directory; -*-
 #+hugo_section: post
 #+hugo_base_dir: ../
 #+seq_todo: TODO DONE
@@ -896,6 +896,36 @@ If you want to quickly jot down what you've been doing using the command line,
 I've not found a better way to do it than with [[https://brettterpstra.com/projects/doing/][doing]]. I've been using it for
 years.
 
+*** DONE A long and binding road
+CLOSED: [2020-03-03 Tue 15:31]
+:PROPERTIES:
+:EXPORT_FILE_NAME: a-long-and-binding-road
+:END:
+
+My muscle memory is a mess. I spent years in Vim and then learned
+Emacs. I started with Spacemacs so that I wouldn't be too distracted
+by those nutty Emacs keybindings. It helped.
+
+But I wanted to learn to configure Emacs on my own and so I powered
+through the learning curve and rolled my own configuration. I actually
+learned to (almost) enjoy the native bindings.
+
+Trouble was at that point I was stuck between worlds. I'd hit Escape
+when I didn't need to. I'd often confuse =j= with =Cntl-n= etc.
+It was frustrating because I constantly had to think about bindings.
+You're not supposed to always have to think about bindings.
+
+The thing about using Vim bindings in Emacs is that it always feels
+bolted on. As good as things like Doom Emacs and Spacemacs are at
+abstracting it away, there are always sharp edges. My attempt to
+configure Evil mode in my home-rolled configuration was a disaster.
+
+While I believe that Vim's modal editing is generally more efficient
+when editing text, it feels like a net loss overall. I'm going back to my
+personal configuration and the native keybindings. Let's see if I can
+get comfortable again.
+
+
 *** DONE Stop using encrypted email - Latacora
 CLOSED: [2020-02-20 Thu 07:27]
 :PROPERTIES:
@@ -915,6 +945,7 @@ If messages can be sent in plaintext, they will be sent in plaintext.
 
 The clearest example of this problem is something every user of encrypted email has seen: the inevitable unencrypted reply. In any group of people exchanging encrypted emails, someone will eventually manage to reply in plaintext, usually with a quoted copy of the entire chain of email attached. This is tolerated, because most people who encrypt emails are LARPing. But in the real world, it’s an irrevocable disaster.
 #+end_quote
+
 
 * Now
 CLOSED: [2019-07-05 Fri 08:20]
