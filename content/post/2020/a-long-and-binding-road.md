@@ -1,6 +1,7 @@
 ---
 title: "A long and binding road"
 date: 2020-03-03T15:31:00-05:00
+tags: ["emacs"]
 draft: false
 ---
 

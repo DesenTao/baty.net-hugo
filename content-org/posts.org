@@ -896,7 +896,7 @@ If you want to quickly jot down what you've been doing using the command line,
 I've not found a better way to do it than with [[https://brettterpstra.com/projects/doing/][doing]]. I've been using it for
 years.
 
-*** DONE A long and binding road
+*** DONE A long and binding road :emacs:
 CLOSED: [2020-03-03 Tue 15:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: a-long-and-binding-road
