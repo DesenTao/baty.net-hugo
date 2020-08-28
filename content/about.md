@@ -7,7 +7,8 @@ draft: false
 ## A little about me {#a-little-about-me}
 
 <div id="your-host">
-<img src="/img/jack-about.jpg" alt="Jack Baty" width="300" height="300" />
+<img src="/img/jack-about.jpg" alt="Jack Baty" width="300" height="300" /><br>
+<span>Your host, Jack Baty</span>
 </div>
 
 I was a partner at Fusionary Media from 1995 until May 2020. I remain there in a consulting role. Fusionary is a terrific
@@ -16,10 +17,10 @@ the web or mobile devices you should 💌 [send us a note](mailto:info@fusionary
 
 I blog here at [baty.net](https://www.baty.net/) ✒️ and at [copingmechanism.com](https://copingmechanism.com)
 
-For the past few years I've maintained a wiki at [Rudimentary Lathe](https://rudimentarylathe.org).
-This has shifted recently to a [public Roam database](https://)
+I write daily using a [public Roam database](https://www.baty.net/roam).
+Before that I maintained my wiki at [Rudimentary Lathe](https://rudimentarylathe.org).
 
-You can email me at [jack@baty.net](mailto:jack@baty.net) ✉️. I still like receiving email!
+You can email me at [jbaty@hey.com](mailto:jbaty@hey.com) ✉️. I still like receiving email!
 
 I have a few other interests:
 
@@ -38,17 +39,20 @@ Do not expect consistency.
 
 **Weblogs and other publishing experiments**
 
--   [copingmechanism.com](https://copingmechanism.com) - My main blog
--   [baty.net](https://baty.net/) - My original blog, since 2000
--   [baty.net/roam](https://baty.net/roam) - A public [Roam](https://roamresearch.com) database I use as a wiki
+-   [copingmechanism.com](https://copingmechanism.com) - My main blog, primarily
+    about photography
+-   [baty.net](https://baty.net/) - My original blog, about everything else, since 2000
+-   [baty.net/roam](https://baty.net/roam) - A public
+    [Roam](https://roamresearch.com) database I use as a wiki
 -   [rudimentarylathe.org](https://rudimentarylathe.org/) - My original wiki (using Tiddlywiki)
--   [tilde.club/~jbaty](https://tilde.club/~jbaty) - because nostalgia is strong and Paul Ford is my hero
+-   [tilde.club/~jbaty](https://tilde.club/~jbaty) - because nostalgia is strong
+    and Paul Ford is my hero
 
 **Photography**
 
--   [Flickr](https://flickr.com/photos/jbaty) - I've been posting photos to Flickr since forever. Flickr is still the
-    best photo sharing service, and I'm looking forward to what's next now that
-    it's owned by SmugMug.
+-   [Flickr](https://flickr.com/photos/jbaty) - I've been posting photos to
+    Flickr since forever. Flickr is still the best photo sharing service, and
+    I'm looking forward to what's next now that it's owned by SmugMug.
 
 **Social Media**
 

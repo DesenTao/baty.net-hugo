@@ -230,6 +230,12 @@ color: #c05b4d;
 #your-host {
   float: right;
   padding: 0 0 10px 20px;
+  text-align: center;
+}
+#your-host span {
+ font-size: 0.80em;
+ color: #8a8a8a;
+ 
 }
 
 /* Stop things from moving around on hover */
