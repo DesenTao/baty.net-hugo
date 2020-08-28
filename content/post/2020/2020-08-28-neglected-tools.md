@@ -20,5 +20,5 @@ Some wonderful film cameras just sit on a shelf.
 
 I suppose this is normal, but I often feel guilt around having things and not using them. Or not using them _enough_, I guess.
 
-A positive side effect of lamenting this neglect is that now I'm determined to use all of these things...today!
+A positive side effect of noticing this neglect is that now I'm determined to use all of these things...today!
 
