@@ -57,9 +57,9 @@ micro = "/micro/:year/:slug"
   identifier = "now"
   url = "/now"
 [[menu.main]]
-  name = "Wiki"
+  name = "Roam"
   weight = 50
-  identifier = "wiki"
+  identifier = "roam"
   url = "/roam"
 
 [params]
