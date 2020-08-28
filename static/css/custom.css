@@ -256,3 +256,6 @@ transform: none;
 	text-decoration: none;	
 }
 
+ol {
+    font-size: 0.85em;
+}
