@@ -52,10 +52,15 @@ micro = "/micro/:year/:slug"
   identifier = "about"
   url = "/about"
 [[menu.main]]
+  name = "Now"
+  weight = 40
+  identifier = "now"
+  url = "/now"
+[[menu.main]]
   name = "Wiki"
-  weight = 30
+  weight = 50
   identifier = "wiki"
-  url = "https://rudimentarylathe.org/"
+  url = "/roam"
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
