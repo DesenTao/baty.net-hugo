@@ -64,8 +64,8 @@
       
     });
     
-    $postFooter.after('<h2>Webmentions</h2><ol class="mentions-list">' + mentions.join('') + '</ol>');
-    $postFooter.after('<h2>Comments</h2><ol class="commentlist">' + replies.join('') + '</ol>');
+    $postFooter.after('<h3>Webmentions</h3><ol class="mentions-list">' + mentions.join('') + '</ol>');
+    // $postFooter.after('<h3>Comments</h3><ol class="commentlist">' + replies.join('') + '</ol>');
   });
   
   request.catch(function(jqXHR, status) {

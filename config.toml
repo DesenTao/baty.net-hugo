@@ -124,8 +124,9 @@ micro = "/micro/:year/:slug"
 
 
   [params.commento] # Commento is a feature rich lightweight comment system oriented on privacy (https://commento.io/)
-    enable = false
-    url = "https://cdn.commento.io"
+    enable = true
+    url = "https://comments.baty.net"
+   # url = "http://localhost:8080" # for local testing
 
 
   [params.reward]                                         # 文章打赏
