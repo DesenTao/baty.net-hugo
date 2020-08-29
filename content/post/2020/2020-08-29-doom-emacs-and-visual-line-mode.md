@@ -1,7 +1,6 @@
 ---
 title: "Respecting visual lines in Doom Emacs"
 date: 2020-08-29T10:54:17.637Z
-draft: true
 tags: ["Emacs"]
 ---
 
