@@ -11,6 +11,6 @@ slug: an-archive-of-a-different-type
 > 
 > “We will take all of it.”
 
-![Office](http://blog.archive.org/wp-content/uploads/2020/08/20200727_1648451-1536x728.jpg)
+{{< figure src="/img/2020/20200727_1648451-1536x728.jpg" title="" >}}
 
 I wouldn't mind at all if my next career involved working with [Internet Archive](http://archive.org).

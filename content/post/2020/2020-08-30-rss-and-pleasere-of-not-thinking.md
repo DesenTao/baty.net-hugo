@@ -2,6 +2,7 @@
 title: "RSS and the pleasure of not thinking - Dr. Drang"
 date: 2020-08-30T10:49:43.624Z
 tags: ["Web"]
+slug: rss-and-the-pleasure-of-not-thinking
 ---
 
 [Dr. Drang](https://leancrew.com/all-this/2020/08/rss-and-the-pleasure-of-not-thinking/):
